@@ -1,7 +1,11 @@
 #!/usr/bin/env python
-"""auto_cluster scientific fixed-width blocks of EBCDIC data"""
+"""auto_parse scientific fixed-width blocks of data"""
 
 import sys
+import os
+import codecs
+import re
+import json
 import collections
 import numpy as np
 import matplotlib.pyplot as plt
@@ -55,18 +59,45 @@ def findRecordLen(segment, maxLen=1000):
 # ETL
 
 def signatures(fn):
-    with open(fn, 'rt', encoding='cp500') as f:
-        data_ascii = f.read()
+    with open(fn, 'rb') as f:
+        data = f.read()
 
-    filelen = len(data_ascii)
-
-    # FIXME: determine blocksize
-    segmentLen = 10000
-
-    blocksize = findRecordLen(data_ascii[:segmentLen])
+    filelen = len(data)
 
     print("File: %s" % fn)
     print("File length: %d" % filelen)
+
+    segmentLen = 10000
+
+    # print("Most common bytes: %s" % ' '.join("%02s" % hex(b[0])[2:4] for b in collections.Counter(data[:segmentLen]).most_common(10)))
+
+    common = [t[0] for t in collections.Counter(data[:segmentLen]).most_common(10)]
+    print("Most common bytes: %s" % ' '.join("%02x" % chr for chr in common))
+
+    # space character
+    if 0x40 in common:
+        isobytes = data.decode('cp037') # or cp500 - international?
+    else:
+        isobytes = data.decode('iso8859-1')
+
+    # Find bytes with upper bit set: non-ascii
+
+    # finds = [(m.span()[0], codecs.encode(m.group(), "hex").decode('ascii') )
+    finds = [(m.span()[0], codecs.encode(m.group().encode('iso8859-1'), "hex").decode('ascii') )
+             for m in re.finditer('[\x80-\xff]', isobytes[:10000])]
+
+    # print("%d offset [j.span()[0] - i.span()[1] for i, j in zip(t[:-1], t[1:])]
+
+    upperbitchars = "none"
+    if finds:
+        upperbitchars = ("offset %d, intervals %s" %
+                     (finds[0][0],
+                      [j[0] - i[0] for i, j in zip(finds[:-1], finds[1:])]))
+
+    print("upperbitchars of %s at %s" % (set((find[1] for find in finds)), upperbitchars))
+
+    blocksize = findRecordLen(isobytes[:segmentLen], min(1000, filelen-1))
+
     print("Block size: %d" % blocksize)
     print("Blocks: %f" % (filelen / blocksize, ))
 
@@ -80,7 +111,7 @@ def signatures(fn):
 
     # Convert contents of file to a 2-d array of characters, one row per block
     try:
-        data_c = np.array(data_ascii, 'c')
+        data_c = np.array(isobytes, 'c')
     except UnicodeEncodeError as e:
         print(e)
         return
@@ -107,5 +138,15 @@ def signatures(fn):
     """
 
 if __name__ == "__main__":
+    descs = []
     for fn in sys.argv[1:]:
+        print 
+        if os.path.splitext(fn)[1] in ['.pdf', '.html', '.tar', '.xml', '.txt']:
+            continue
+
+        stat = os.stat(fn)
+        desc = collections.OrderedDict([('len', stat.st_size), ('name',fn)])
+        descs.append(desc)
         signatures(fn)
+
+    print(json.dumps(descs))
