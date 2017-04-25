@@ -73,17 +73,21 @@ def signatures(fn):
 
     segmentLen = 10000
 
-    # print("Most common bytes: %s" % ' '.join("%02s" % hex(b[0])[2:4] for b in collections.Counter(data[:segmentLen]).most_common(10)))
+    bytefreqs = collections.Counter(data[:segmentLen])
+    desc.update( bytefreqs=[(code, freq) for code,freq in bytefreqs.items()])
 
-    common = [t[0] for t in collections.Counter(data[:segmentLen]).most_common(10)]
+    common = [t[0] for t in bytefreqs.most_common(10)]
     # print("Most common bytes: %s" % ' '.join("%02x" % chr for chr in common))
     desc.update(topbytes=["%02x" % chr for chr in common])
 
-    # space character
+    # Key charset determiniation off space character. or perhaps better numbers which have less overlap?
     if 0x40 in common:
-        isobytes = data.decode('cp037') # or cp500 - international?
+        charset = "cp037"    # or cp500 - international?
     else:
-        isobytes = data.decode('iso8859-1')
+        charset = "iso8859-1"
+
+    isobytes = data.decode(charset)
+    desc.update(charset=charset)
 
     # Find bytes with upper bit set: non-ascii
 
@@ -120,6 +124,8 @@ def signatures(fn):
     desc.update(blocksize=blocksize)
     desc.update(blocks=filelen / blocksize)
     desc.update(left_over=left_over)
+
+    return desc
 
     # Convert contents of file to a 2-d array of characters, one row per block
     try:
@@ -165,11 +171,17 @@ def signatures(fn):
 
 if __name__ == "__main__":
     print("[")
-    for fn in sys.argv[1:]:
+
+    fns = sys.argv[1:]
+
+    if len(fns) < 1:
+        fns = ['spdf.sci.gsfc.nasa.gov/pub/data/imp/imp3/fluxgate_magnetometer/hourly_averaged_interplanetary_mag_field/DATA2_DR002743_DR002743_20080611_083036/dr002743_f00001.phys.1']
+
+    for fn in fns:
         if os.path.splitext(fn)[1] in ['.pdf', '.html', '.tar', '.xml', '.txt']:
             continue
 
         desc = signatures(fn)
         print(json.dumps(desc) + ",")
 
-    print("[]\n]")
+    print("{}\n]")
