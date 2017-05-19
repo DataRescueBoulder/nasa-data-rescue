@@ -1,0 +1,10 @@
+drwxrwxr-x  leckner/spdf        7 2015-01-10 05:00:00 pioneer/pioneer6/single-axis_magnetometer/time-sequenced_interspersed_hourly_magnetic_field/
+lrwxrwxrwx  leckner/spdf       76 2014-09-09 06:00:00 pioneer/pioneer6/single-axis_magnetometer/time-sequenced_interspersed_hourly_magnetic_field/AA_WARNING_recovered_but_unreviewed_dataset.txt -> ../../../../../documents/old/AA_WARNING_recovered_but_unreviewed_dataset.txt
+drwxrwxr-x  leckner/spdf        6 2015-01-10 05:00:00 pioneer/pioneer6/single-axis_magnetometer/time-sequenced_interspersed_hourly_magnetic_field/DATA2_DR002771_DR002771_20080611_083037/
+-rwxr-xr-x  leckner/spdf   777216 2014-07-23 06:00:00 pioneer/pioneer6/single-axis_magnetometer/time-sequenced_interspersed_hourly_magnetic_field/DATA2_DR002771_DR002771_20080611_083037/DATA2_DR002771_DR002771_20080611_083037.TAR_585
+-rw-r--r--  1002/1002         246 2015-01-10 05:00:00 pioneer/pioneer6/single-axis_magnetometer/time-sequenced_interspersed_hourly_magnetic_field/DATA2_DR002771_DR002771_20080611_083037/SHA1SUM
+-rwxr-xr-x  leckner/spdf     2424 2014-06-12 06:00:00 pioneer/pioneer6/single-axis_magnetometer/time-sequenced_interspersed_hourly_magnetic_field/DATA2_DR002771_DR002771_20080611_083037/attributes.xml
+-rwxr-xr-x  leckner/spdf   772278 2008-06-11 06:00:00 pioneer/pioneer6/single-axis_magnetometer/time-sequenced_interspersed_hourly_magnetic_field/DATA2_DR002771_DR002771_20080611_083037/dr002771_f00001.phys.1
+-rw-r--r--  1002/1002         294 2015-01-10 05:00:00 pioneer/pioneer6/single-axis_magnetometer/time-sequenced_interspersed_hourly_magnetic_field/SHA1SUM
+-rwxr-xr-x  leckner/spdf     5988 2014-08-04 06:00:00 pioneer/pioneer6/single-axis_magnetometer/time-sequenced_interspersed_hourly_magnetic_field/SPHE-00128_nmc.html
+-rwxr-xr-x  leckner/spdf  1014060 2014-08-04 06:00:00 pioneer/pioneer6/single-axis_magnetometer/time-sequenced_interspersed_hourly_magnetic_field/pioneer6-7_hr-avg-vector-mag_65-105a-01c_66-075a_01c_DSC_0333.pdf

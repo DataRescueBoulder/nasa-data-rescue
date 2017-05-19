@@ -1,0 +1,8 @@
+drwxrwxr-x  leckner/spdf        6 2014-09-10 06:00:00 explorer/explorer33/fluxgate_magnetometer/hourly_avg_multi-spacecraft_mag_field/
+lrwxrwxrwx  leckner/spdf       76 2014-09-10 06:00:00 explorer/explorer33/fluxgate_magnetometer/hourly_avg_multi-spacecraft_mag_field/AA_WARNING_recovered_but_unreviewed_dataset.txt -> ../../../../../documents/old/AA_WARNING_recovered_but_unreviewed_dataset.txt
+drwxrwxr-x  leckner/spdf        5 2016-04-18 06:00:00 explorer/explorer33/fluxgate_magnetometer/hourly_avg_multi-spacecraft_mag_field/DATA2_DR002781_DR002781_20080611_083037/
+-rw-rw-r--  leckner/spdf  1814016 2014-09-04 06:00:00 explorer/explorer33/fluxgate_magnetometer/hourly_avg_multi-spacecraft_mag_field/DATA2_DR002781_DR002781_20080611_083037/DATA2_DR002781_DR002781_20080611_083037.tar
+-rw-rw-r--  candey/cdaweb    2422 2014-06-12 06:00:00 explorer/explorer33/fluxgate_magnetometer/hourly_avg_multi-spacecraft_mag_field/DATA2_DR002781_DR002781_20080611_083037/attributes.xml
+-rwxr-x---  candey/cdaweb 1809024 2008-06-11 06:00:00 explorer/explorer33/fluxgate_magnetometer/hourly_avg_multi-spacecraft_mag_field/DATA2_DR002781_DR002781_20080611_083037/dr002781_f00001.phys.1
+-rw-rw-r--  leckner/spdf     6882 2014-09-10 06:00:00 explorer/explorer33/fluxgate_magnetometer/hourly_avg_multi-spacecraft_mag_field/SPHE-00383_nmc.html
+-rwxrwxr-x  leckner/spdf 16853675 2014-09-10 06:00:00 explorer/explorer33/fluxgate_magnetometer/hourly_avg_multi-spacecraft_mag_field/imp-c-d-e-f_hourly-mag_65-042a-02i_66-058a-01d_67-051a-11c_67-070a-04c_DSC_0203.pdf

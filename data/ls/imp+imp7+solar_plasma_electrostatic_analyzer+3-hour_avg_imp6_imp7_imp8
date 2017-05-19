@@ -1,0 +1,8 @@
+drwxrwxr-x  leckner/spdf        6 2014-09-29 06:00:00 imp/imp7/solar_plasma_electrostatic_analyzer/3-hour_avg_imp6_imp7_imp8/
+lrwxrwxrwx  leckner/spdf       76 2014-09-29 06:00:00 imp/imp7/solar_plasma_electrostatic_analyzer/3-hour_avg_imp6_imp7_imp8/AA_WARNING_recovered_but_unreviewed_dataset.txt -> ../../../../../documents/old/AA_WARNING_recovered_but_unreviewed_dataset.txt
+drwxrwxr-x  leckner/spdf        5 2014-09-29 06:00:00 imp/imp7/solar_plasma_electrostatic_analyzer/3-hour_avg_imp6_imp7_imp8/DATA2_DR003651_DR003651_20080611_083115/
+-rw-rw-r--  leckner/spdf   256512 2014-09-18 06:00:00 imp/imp7/solar_plasma_electrostatic_analyzer/3-hour_avg_imp6_imp7_imp8/DATA2_DR003651_DR003651_20080611_083115/DATA2_DR003651_DR003651_20080611_083115.tar
+-rw-rw-r--  leckner/spdf     2423 2014-06-30 06:00:00 imp/imp7/solar_plasma_electrostatic_analyzer/3-hour_avg_imp6_imp7_imp8/DATA2_DR003651_DR003651_20080611_083115/attributes.xml
+-rwxr-xr--  leckner/spdf   251574 2008-06-11 06:00:00 imp/imp7/solar_plasma_electrostatic_analyzer/3-hour_avg_imp6_imp7_imp8/DATA2_DR003651_DR003651_20080611_083115/dr003651_f00001.phys.1
+-rw-rw-r--  leckner/spdf     5929 2014-09-29 06:00:00 imp/imp7/solar_plasma_electrostatic_analyzer/3-hour_avg_imp6_imp7_imp8/SPMS-00202_nmc.html
+-rwxrwxr-x  leckner/spdf   800434 2014-09-29 06:00:00 imp/imp7/solar_plasma_electrostatic_analyzer/3-hour_avg_imp6_imp7_imp8/imp-i-h-j_solarwind_plasma-2min_71019a_11c-11d_72-073a-10a-10c_73-078a-10a-10f_DSC_0372.pdf

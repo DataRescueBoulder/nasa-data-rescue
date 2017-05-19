@@ -1,0 +1,15 @@
+drwxrwxr-x  leckner/spdf        7 2014-09-16 06:00:00 imp/imp2/fluxgate_magnetometer/20-sec_mag_field/
+lrwxrwxrwx  leckner/spdf       76 2014-09-16 06:00:00 imp/imp2/fluxgate_magnetometer/20-sec_mag_field/AA_WARNING_recovered_but_unreviewed_dataset.txt -> ../../../../../documents/old/AA_WARNING_recovered_but_unreviewed_dataset.txt
+drwxrwxr-x  leckner/spdf        7 2014-09-16 06:00:00 imp/imp2/fluxgate_magnetometer/20-sec_mag_field/DATA2_DD082821_DD082821_20080611_083008/
+-rw-rw-r--  leckner/spdf 25343488 2014-09-09 06:00:00 imp/imp2/fluxgate_magnetometer/20-sec_mag_field/DATA2_DD082821_DD082821_20080611_083008/DATA2_DD082821_DD082821_20080611_083008.tar
+-rw-rw-r--  leckner/spdf     4751 2014-05-29 06:00:00 imp/imp2/fluxgate_magnetometer/20-sec_mag_field/DATA2_DD082821_DD082821_20080611_083008/attributes.xml
+-rwxr-xr--  leckner/spdf  8255918 2008-06-11 06:00:00 imp/imp2/fluxgate_magnetometer/20-sec_mag_field/DATA2_DD082821_DD082821_20080611_083008/dd082821_f00001.phys.1
+-rwxr-xr--  leckner/spdf  8334523 2008-06-11 06:00:00 imp/imp2/fluxgate_magnetometer/20-sec_mag_field/DATA2_DD082821_DD082821_20080611_083008/dd082821_f00002.phys.1
+-rwxr-xr--  leckner/spdf  8744142 2008-06-11 06:00:00 imp/imp2/fluxgate_magnetometer/20-sec_mag_field/DATA2_DD082821_DD082821_20080611_083008/dd082821_f00003.phys.1
+drwxrwxr-x  leckner/spdf        6 2014-09-16 06:00:00 imp/imp2/fluxgate_magnetometer/20-sec_mag_field/DATA2_DD082822_DD082822_20080611_083008/
+-rw-rw-r--  leckner/spdf 13850624 2014-09-09 06:00:00 imp/imp2/fluxgate_magnetometer/20-sec_mag_field/DATA2_DD082822_DD082822_20080611_083008/DATA2_DD082822_DD082822_20080611_083008.tar
+-rw-rw-r--  leckner/spdf     3607 2014-05-29 06:00:00 imp/imp2/fluxgate_magnetometer/20-sec_mag_field/DATA2_DD082822_DD082822_20080611_083008/attributes.xml
+-rwxr-xr--  leckner/spdf  6089432 2008-06-11 06:00:00 imp/imp2/fluxgate_magnetometer/20-sec_mag_field/DATA2_DD082822_DD082822_20080611_083008/dd082822_f00001.phys.1
+-rwxr-xr--  leckner/spdf  7753900 2008-06-11 06:00:00 imp/imp2/fluxgate_magnetometer/20-sec_mag_field/DATA2_DD082822_DD082822_20080611_083008/dd082822_f00002.phys.1
+-rw-rw-r--  leckner/spdf     5549 2014-09-16 06:00:00 imp/imp2/fluxgate_magnetometer/20-sec_mag_field/SPHE-00634_nmc.html
+-rwxrwxr-x  leckner/spdf   312028 2014-09-16 06:00:00 imp/imp2/fluxgate_magnetometer/20-sec_mag_field/imp-b_mag_64-060a-02f_DSC_0693.pdf

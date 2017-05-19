@@ -1,0 +1,10 @@
+drwxrwxr-x  leckner/spdf        7 2014-09-26 06:00:00 pioneer/pioneer6/solar_wind_plasma_faraday_cup/hourly_avg_plasma/
+lrwxrwxrwx  leckner/spdf       76 2014-09-15 06:00:00 pioneer/pioneer6/solar_wind_plasma_faraday_cup/hourly_avg_plasma/AA_WARNING_recovered_but_unreviewed_dataset.txt -> ../../../../../documents/old/AA_WARNING_recovered_but_unreviewed_dataset.txt
+drwxrwxr-x  leckner/spdf        6 2014-09-26 06:00:00 pioneer/pioneer6/solar_wind_plasma_faraday_cup/hourly_avg_plasma/DATA2_DR003430_DR003430_20080611_083103/
+-rw-rw-r--  leckner/spdf  2292736 2014-09-09 06:00:00 pioneer/pioneer6/solar_wind_plasma_faraday_cup/hourly_avg_plasma/DATA2_DR003430_DR003430_20080611_083103/DATA2_DR003430_DR003430_20080611_083103.tar
+-rw-r--r--  1002/1002         242 2014-09-26 06:00:00 pioneer/pioneer6/solar_wind_plasma_faraday_cup/hourly_avg_plasma/DATA2_DR003430_DR003430_20080611_083103/SHA1SUM
+-rw-rw-r--  leckner/spdf     2424 2014-06-20 06:00:00 pioneer/pioneer6/solar_wind_plasma_faraday_cup/hourly_avg_plasma/DATA2_DR003430_DR003430_20080611_083103/attributes.xml
+-rwxr-xr--  leckner/spdf  2287766 2008-06-11 06:00:00 pioneer/pioneer6/solar_wind_plasma_faraday_cup/hourly_avg_plasma/DATA2_DR003430_DR003430_20080611_083103/dr003430_f00001.phys.1
+-rw-r--r--  1002/1002         288 2014-09-26 06:00:00 pioneer/pioneer6/solar_wind_plasma_faraday_cup/hourly_avg_plasma/SHA1SUM
+-rw-rw-r--  leckner/spdf     5769 2014-09-15 06:00:00 pioneer/pioneer6/solar_wind_plasma_faraday_cup/hourly_avg_plasma/SPHE-00550_nmc.html
+-rwxrwxr-x  leckner/spdf   467294 2014-09-15 06:00:00 pioneer/pioneer6/solar_wind_plasma_faraday_cup/hourly_avg_plasma/pioneer6-7_faraday-cup_65-105a-02d_66-075a-02d_DSC_0278.pdf

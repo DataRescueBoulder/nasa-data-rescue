@@ -1,0 +1,10 @@
+drwxrwxr-x  leckner/spdf        6 2014-09-25 06:00:00 relay/relay1/proton-electron_detectors/10s_avg_time-ordered_count_rates/
+lrwxrwxrwx  leckner/spdf       76 2014-09-25 06:00:00 relay/relay1/proton-electron_detectors/10s_avg_time-ordered_count_rates/AA_WARNING_recovered_but_unreviewed_dataset.txt -> ../../../../../documents/old/AA_WARNING_recovered_but_unreviewed_dataset.txt
+drwxrwxr-x  leckner/spdf        7 2014-09-25 06:00:00 relay/relay1/proton-electron_detectors/10s_avg_time-ordered_count_rates/DATA2_DR003125_DR003125_20080611_083046/
+-rw-rw-r--  leckner/spdf 27519488 2014-09-16 06:00:00 relay/relay1/proton-electron_detectors/10s_avg_time-ordered_count_rates/DATA2_DR003125_DR003125_20080611_083046/DATA2_DR003125_DR003125_20080611_083046.tar
+-rw-rw-r--  leckner/spdf     4714 2014-06-18 06:00:00 relay/relay1/proton-electron_detectors/10s_avg_time-ordered_count_rates/DATA2_DR003125_DR003125_20080611_083046/attributes.xml
+-rwxr-xr--  leckner/spdf  3483871 2008-06-11 06:00:00 relay/relay1/proton-electron_detectors/10s_avg_time-ordered_count_rates/DATA2_DR003125_DR003125_20080611_083046/dr003125_f00001.phys.1
+-rwxr-xr--  leckner/spdf 12383896 2008-06-11 06:00:00 relay/relay1/proton-electron_detectors/10s_avg_time-ordered_count_rates/DATA2_DR003125_DR003125_20080611_083046/dr003125_f00002.phys.1
+-rwxr-xr--  leckner/spdf 11642708 2008-06-11 06:00:00 relay/relay1/proton-electron_detectors/10s_avg_time-ordered_count_rates/DATA2_DR003125_DR003125_20080611_083046/dr003125_f00003.phys.1
+-rw-rw-r--  leckner/spdf     5687 2014-09-25 06:00:00 relay/relay1/proton-electron_detectors/10s_avg_time-ordered_count_rates/SPMS-00553_nmc.html
+-rwxrwxr-x  leckner/spdf  1439243 2014-09-25 06:00:00 relay/relay1/proton-electron_detectors/10s_avg_time-ordered_count_rates/relay1_proton-electron-counters_62-068a-03bcd_DSC_0044.pdf

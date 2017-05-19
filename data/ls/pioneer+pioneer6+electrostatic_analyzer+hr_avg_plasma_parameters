@@ -1,0 +1,21 @@
+drwxrwsr-x  leckner/cdaweb     19 2014-09-12 06:00:00 pioneer/pioneer6/electrostatic_analyzer/hr_avg_plasma_parameters/
+lrwxrwxrwx  leckner/cdaweb     76 2014-09-09 06:00:00 pioneer/pioneer6/electrostatic_analyzer/hr_avg_plasma_parameters/AA_WARNING_recovered_but_unreviewed_dataset.txt -> ../../../../../documents/old/AA_WARNING_recovered_but_unreviewed_dataset.txt
+-rw-rw-r--  leckner/cdaweb 151842 2014-05-06 06:00:00 pioneer/pioneer6/electrostatic_analyzer/hr_avg_plasma_parameters/DD006366_F1.DAT
+-rw-rw-r--  leckner/cdaweb  33930 2014-05-06 06:00:00 pioneer/pioneer6/electrostatic_analyzer/hr_avg_plasma_parameters/DD006367_F1.DAT
+-rw-rw-r--  leckner/cdaweb   2830 2014-05-06 06:00:00 pioneer/pioneer6/electrostatic_analyzer/hr_avg_plasma_parameters/NSDC0002467382.pvl
+-rw-rw-r--  leckner/cdaweb 160256 2014-05-06 06:00:00 pioneer/pioneer6/electrostatic_analyzer/hr_avg_plasma_parameters/NSDC0002467382.tar
+-rw-rw-r--  leckner/cdaweb   2429 2014-05-06 06:00:00 pioneer/pioneer6/electrostatic_analyzer/hr_avg_plasma_parameters/NSDC0002467382.xml
+-rw-rw-r--  leckner/cdaweb   2827 2014-05-06 06:00:00 pioneer/pioneer6/electrostatic_analyzer/hr_avg_plasma_parameters/NSDC0002467383.pvl
+-rw-rw-r--  leckner/cdaweb  42496 2014-05-06 06:00:00 pioneer/pioneer6/electrostatic_analyzer/hr_avg_plasma_parameters/NSDC0002467383.tar
+-rw-rw-r--  leckner/cdaweb   2425 2014-05-06 06:00:00 pioneer/pioneer6/electrostatic_analyzer/hr_avg_plasma_parameters/NSDC0002467383.xml
+-rw-r--r--  1002/cdaweb      1148 2014-09-12 06:00:00 pioneer/pioneer6/electrostatic_analyzer/hr_avg_plasma_parameters/SHA1SUM
+-rw-rw-r--  leckner/cdaweb 154789 2014-05-06 06:00:00 pioneer/pioneer6/electrostatic_analyzer/hr_avg_plasma_parameters/SPHE-00117_DD006366_01-JAN-66.AIP
+-rw-rwSr--  leckner/cdaweb 163840 2008-06-18 06:00:00 pioneer/pioneer6/electrostatic_analyzer/hr_avg_plasma_parameters/SPHE-00117_DD006366_01-JAN-66.tar
+-rw-rw-r--  leckner/cdaweb  36874 2014-05-06 06:00:00 pioneer/pioneer6/electrostatic_analyzer/hr_avg_plasma_parameters/SPHE-00117_DD006367_18-DEC-65.AIP
+-rw-rwSr--  leckner/cdaweb  40960 2008-06-18 06:00:00 pioneer/pioneer6/electrostatic_analyzer/hr_avg_plasma_parameters/SPHE-00117_DD006367_18-DEC-65.tar
+-rw-rw-r--  leckner/cdaweb   5757 2014-05-06 06:00:00 pioneer/pioneer6/electrostatic_analyzer/hr_avg_plasma_parameters/SPHE-00117_nmc.html
+drwxrwsr-x  leckner/cdaweb      5 2012-10-01 06:00:00 pioneer/pioneer6/electrostatic_analyzer/hr_avg_plasma_parameters/attrib/
+-rw-r--r--  1002/cdaweb       186 2013-08-30 06:00:00 pioneer/pioneer6/electrostatic_analyzer/hr_avg_plasma_parameters/attrib/SHA1SUM
+-rw-rwSr--  leckner/cdaweb   2830 2008-06-18 06:00:00 pioneer/pioneer6/electrostatic_analyzer/hr_avg_plasma_parameters/attrib/SPHE-00117_DD006366_01-JAN-66_att
+-rw-rwSr--  leckner/cdaweb   2827 2008-06-18 06:00:00 pioneer/pioneer6/electrostatic_analyzer/hr_avg_plasma_parameters/attrib/SPHE-00117_DD006367_18-DEC-65_att
+-rwxrwxr-x  leckner/cdaweb 1007340 2014-05-06 06:00:00 pioneer/pioneer6/electrostatic_analyzer/hr_avg_plasma_parameters/pioneer6-7_plasma-parameters_65-105a-06c_66-057a-03c_DSC_0131.pdf

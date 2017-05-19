@@ -1,0 +1,11 @@
+drwxrwxr-x  leckner/spdf        6 2014-09-26 06:00:00 imp/imp7/solar_plasma_electrostatic_analyzer/merged_imp7_imp8_hourly_avg/
+lrwxrwxrwx  leckner/leckner    76 2014-09-26 06:00:00 imp/imp7/solar_plasma_electrostatic_analyzer/merged_imp7_imp8_hourly_avg/AA_WARNING_recovered_but_unreviewed_dataset.txt -> ../../../../../documents/old/AA_WARNING_recovered_but_unreviewed_dataset.txt
+drwxrwxr-x  leckner/leckner     8 2014-09-26 06:00:00 imp/imp7/solar_plasma_electrostatic_analyzer/merged_imp7_imp8_hourly_avg/DATA2_DR003893_DR003893_20080611_083122/
+-rw-rw-r--  leckner/leckner 918016 2014-09-22 06:00:00 imp/imp7/solar_plasma_electrostatic_analyzer/merged_imp7_imp8_hourly_avg/DATA2_DR003893_DR003893_20080611_083122/DATA2_DR003893_DR003893_20080611_083122.tar
+-rw-rw-r--  leckner/leckner  5859 2014-06-30 06:00:00 imp/imp7/solar_plasma_electrostatic_analyzer/merged_imp7_imp8_hourly_avg/DATA2_DR003893_DR003893_20080611_083122/attributes.xml
+-rwxr-xr--  leckner/leckner 239096 2008-06-11 06:00:00 imp/imp7/solar_plasma_electrostatic_analyzer/merged_imp7_imp8_hourly_avg/DATA2_DR003893_DR003893_20080611_083122/dr003893_f00001.phys.1
+-rwxr-xr--  leckner/leckner 234374 2008-06-11 06:00:00 imp/imp7/solar_plasma_electrostatic_analyzer/merged_imp7_imp8_hourly_avg/DATA2_DR003893_DR003893_20080611_083122/dr003893_f00002.phys.1
+-rwxr-xr--  leckner/leckner 275432 2008-06-11 06:00:00 imp/imp7/solar_plasma_electrostatic_analyzer/merged_imp7_imp8_hourly_avg/DATA2_DR003893_DR003893_20080611_083122/dr003893_f00003.phys.1
+-rwxr-xr--  leckner/leckner 159144 2008-06-11 06:00:00 imp/imp7/solar_plasma_electrostatic_analyzer/merged_imp7_imp8_hourly_avg/DATA2_DR003893_DR003893_20080611_083122/dr003893_f00004.phys.1
+-rw-rw-r--  leckner/leckner  5645 2014-09-26 06:00:00 imp/imp7/solar_plasma_electrostatic_analyzer/merged_imp7_imp8_hourly_avg/SPMS-00134_nmc.html
+-rwxrwxr-x  leckner/leckner 5990443 2014-09-26 06:00:00 imp/imp7/solar_plasma_electrostatic_analyzer/merged_imp7_imp8_hourly_avg/imp-h-j_merged-solarwind_plasma-density_velocity-proton-temp-high-res-plasma_promise-period_72-073a-10b_73-073a-10b_73-078a-10de_DSC_0417.pdf

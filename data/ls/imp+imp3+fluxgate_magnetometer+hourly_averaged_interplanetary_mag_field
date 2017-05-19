@@ -1,0 +1,13 @@
+drwxrwxr-x  leckner/spdf        7 2015-06-02 06:00:00 imp/imp3/fluxgate_magnetometer/hourly_averaged_interplanetary_mag_field/
+lrwxrwxrwx  leckner/spdf       76 2014-09-10 06:00:00 imp/imp3/fluxgate_magnetometer/hourly_averaged_interplanetary_mag_field/AA_WARNING_recovered_but_unreviewed_dataset.txt -> ../../../../../documents/old/AA_WARNING_recovered_but_unreviewed_dataset.txt
+drwxrwxr-x  leckner/spdf        8 2015-06-03 06:00:00 imp/imp3/fluxgate_magnetometer/hourly_averaged_interplanetary_mag_field/DATA2_DR002743_DR002743_20080611_083036/
+-rw-rw-r--  leckner/spdf   582144 2014-09-04 06:00:00 imp/imp3/fluxgate_magnetometer/hourly_averaged_interplanetary_mag_field/DATA2_DR002743_DR002743_20080611_083036/DATA2_DR002743_DR002743_20080611_083036.tar
+-rw-rw-r--  leckner/spdf   314716 2015-05-27 06:00:00 imp/imp3/fluxgate_magnetometer/hourly_averaged_interplanetary_mag_field/DATA2_DR002743_DR002743_20080611_083036/DR002743_F00001.PHYS
+-rw-rw-r--  leckner/spdf   267730 2015-05-27 06:00:00 imp/imp3/fluxgate_magnetometer/hourly_averaged_interplanetary_mag_field/DATA2_DR002743_DR002743_20080611_083036/DR002743_F00002.PHYS
+-rw-rw-r--  leckner/spdf     3565 2014-06-12 06:00:00 imp/imp3/fluxgate_magnetometer/hourly_averaged_interplanetary_mag_field/DATA2_DR002743_DR002743_20080611_083036/attributes.xml
+-rwxr-xr--  leckner/spdf   310878 2008-06-11 06:00:00 imp/imp3/fluxgate_magnetometer/hourly_averaged_interplanetary_mag_field/DATA2_DR002743_DR002743_20080611_083036/dr002743_f00001.phys.1
+-rwxr-xr--  leckner/spdf   264465 2008-06-11 06:00:00 imp/imp3/fluxgate_magnetometer/hourly_averaged_interplanetary_mag_field/DATA2_DR002743_DR002743_20080611_083036/dr002743_f00002.phys.1
+drwxrwxr-x  leckner/spdf        3 2015-06-02 06:00:00 imp/imp3/fluxgate_magnetometer/hourly_averaged_interplanetary_mag_field/DR002716/
+-rw-rw-r--  leckner/spdf   214208 2015-05-27 06:00:00 imp/imp3/fluxgate_magnetometer/hourly_averaged_interplanetary_mag_field/DR002716/DR002716_F00001.PHYS
+-rw-rw-r--  leckner/spdf     6126 2014-09-10 06:00:00 imp/imp3/fluxgate_magnetometer/hourly_averaged_interplanetary_mag_field/SPHE-00394_nmc.html
+-rwxrwxr-x  leckner/spdf  3567719 2014-09-10 06:00:00 imp/imp3/fluxgate_magnetometer/hourly_averaged_interplanetary_mag_field/explorer28_mag-ephemeris_65-042a-00abcdefgh_DSC_0017.pdf

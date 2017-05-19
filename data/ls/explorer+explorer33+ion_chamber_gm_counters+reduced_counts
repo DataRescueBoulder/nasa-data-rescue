@@ -1,0 +1,17 @@
+drwxrwxr-x  leckner/spdf        7 2014-09-09 06:00:00 explorer/explorer33/ion_chamber_gm_counters/reduced_counts/
+lrwxrwxrwx  leckner/leckner    76 2014-09-09 06:00:00 explorer/explorer33/ion_chamber_gm_counters/reduced_counts/AA_WARNING_recovered_but_unreviewed_dataset.txt -> ../../../../../documents/old/AA_WARNING_recovered_but_unreviewed_dataset.txt
+drwxrwxr-x  leckner/leckner     7 2014-09-09 06:00:00 explorer/explorer33/ion_chamber_gm_counters/reduced_counts/DATA2_DR003455_DR003455_20080611_083105/
+-rw-rw-r--  leckner/leckner 36261376 2014-09-04 06:00:00 explorer/explorer33/ion_chamber_gm_counters/reduced_counts/DATA2_DR003455_DR003455_20080611_083105/DATA2_DR003455_DR003455_20080611_083105.tar
+-rw-rw-r--  leckner/leckner  4711 2014-06-27 06:00:00 explorer/explorer33/ion_chamber_gm_counters/reduced_counts/DATA2_DR003455_DR003455_20080611_083105/attributes.xml
+-rwxr-xr--  leckner/leckner 12433848 2008-06-11 06:00:00 explorer/explorer33/ion_chamber_gm_counters/reduced_counts/DATA2_DR003455_DR003455_20080611_083105/dr003455_f00001.phys.1
+-rwxr-xr--  leckner/leckner 12070224 2008-06-11 06:00:00 explorer/explorer33/ion_chamber_gm_counters/reduced_counts/DATA2_DR003455_DR003455_20080611_083105/dr003455_f00002.phys.1
+-rwxr-xr--  leckner/leckner 11748456 2008-06-11 06:00:00 explorer/explorer33/ion_chamber_gm_counters/reduced_counts/DATA2_DR003455_DR003455_20080611_083105/dr003455_f00003.phys.1
+drwxrwxr-x  leckner/leckner     8 2014-09-09 06:00:00 explorer/explorer33/ion_chamber_gm_counters/reduced_counts/DATA2_DR003456_DR003456_20080611_083105/
+-rw-rw-r--  leckner/leckner 55925248 2014-09-04 06:00:00 explorer/explorer33/ion_chamber_gm_counters/reduced_counts/DATA2_DR003456_DR003456_20080611_083105/DATA2_DR003456_DR003456_20080611_083105.tar
+-rw-rw-r--  leckner/leckner  5859 2014-06-27 06:00:00 explorer/explorer33/ion_chamber_gm_counters/reduced_counts/DATA2_DR003456_DR003456_20080611_083105/attributes.xml
+-rwxr-xr--  leckner/leckner 13483519 2008-06-11 06:00:00 explorer/explorer33/ion_chamber_gm_counters/reduced_counts/DATA2_DR003456_DR003456_20080611_083105/dr003456_f00001.phys.1
+-rwxr-xr--  leckner/leckner 14122803 2008-06-11 06:00:00 explorer/explorer33/ion_chamber_gm_counters/reduced_counts/DATA2_DR003456_DR003456_20080611_083105/dr003456_f00002.phys.1
+-rwxr-xr--  leckner/leckner 14793601 2008-06-11 06:00:00 explorer/explorer33/ion_chamber_gm_counters/reduced_counts/DATA2_DR003456_DR003456_20080611_083105/dr003456_f00003.phys.1
+-rwxr-xr--  leckner/leckner 13515033 2008-06-11 06:00:00 explorer/explorer33/ion_chamber_gm_counters/reduced_counts/DATA2_DR003456_DR003456_20080611_083105/dr003456_f00004.phys.1
+-rw-rw-r--  leckner/leckner  6518 2014-09-09 06:00:00 explorer/explorer33/ion_chamber_gm_counters/reduced_counts/SPHE-00250_nmc.html
+-rwxrwxr-x  leckner/leckner 3758351 2014-09-09 06:00:00 explorer/explorer33/ion_chamber_gm_counters/reduced_counts/explorer33_ion-chamber-gieger-counter_66-058a-04a_DSC_0021.pdf

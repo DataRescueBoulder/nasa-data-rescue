@@ -1,0 +1,6 @@
+drwxrwxr-x  leckner/spdf        4 2016-04-18 06:00:00 explorer/explorer35/plasma_probe/3-min_interplanetary_plasma_param/ebcdic/
+lrwxrwxrwx  leckner/spdf       79 2014-09-18 06:00:00 explorer/explorer35/plasma_probe/3-min_interplanetary_plasma_param/ebcdic/AA_WARNING_recovered_but_unreviewed_dataset.txt -> ../../../../../../documents/old/AA_WARNING_recovered_but_unreviewed_dataset.txt
+drwxrwxr-x  leckner/spdf        5 2014-09-18 06:00:00 explorer/explorer35/plasma_probe/3-min_interplanetary_plasma_param/ebcdic/DATA2_DR004315_DR004315_20080611_083138/
+-rw-rw-r--  leckner/spdf  7858688 2014-09-10 06:00:00 explorer/explorer35/plasma_probe/3-min_interplanetary_plasma_param/ebcdic/DATA2_DR004315_DR004315_20080611_083138/DATA2_DR004315_DR004315_20080611_083138.tar
+-rw-rw-r--  leckner/spdf     2424 2014-07-01 06:00:00 explorer/explorer35/plasma_probe/3-min_interplanetary_plasma_param/ebcdic/DATA2_DR004315_DR004315_20080611_083138/attributes.xml
+-rwxr-xr--  leckner/spdf  7854078 2008-06-11 06:00:00 explorer/explorer35/plasma_probe/3-min_interplanetary_plasma_param/ebcdic/DATA2_DR004315_DR004315_20080611_083138/dr004315_f00001.phys.1

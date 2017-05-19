@@ -1,0 +1,13 @@
+drwxrwxr-x  leckner/spdf        7 2014-09-14 06:00:00 imp/imp8/energetic_electrons_protons/30-min_avg_count_rates/
+lrwxrwxrwx  leckner/kovalick   76 2014-09-09 06:00:00 imp/imp8/energetic_electrons_protons/30-min_avg_count_rates/AA_WARNING_recovered_but_unreviewed_dataset.txt -> ../../../../../documents/old/AA_WARNING_recovered_but_unreviewed_dataset.txt
+drwxrwxr-x  leckner/spdf        9 2014-09-14 06:00:00 imp/imp8/energetic_electrons_protons/30-min_avg_count_rates/DATA2_DR004085_DR004085_20080611_083126/
+-rw-rw-r--  leckner/spdf 15329792 2014-09-04 06:00:00 imp/imp8/energetic_electrons_protons/30-min_avg_count_rates/DATA2_DR004085_DR004085_20080611_083126/DATA2_DR004085_DR004085_20080611_083126.tar
+-rw-r--r--  1002/1002         437 2014-09-14 06:00:00 imp/imp8/energetic_electrons_protons/30-min_avg_count_rates/DATA2_DR004085_DR004085_20080611_083126/SHA1SUM
+-rw-rw-r--  leckner/spdf     5859 2014-06-30 06:00:00 imp/imp8/energetic_electrons_protons/30-min_avg_count_rates/DATA2_DR004085_DR004085_20080611_083126/attributes.xml
+-rwxr-xr--  leckner/spdf  5280300 2008-06-11 06:00:00 imp/imp8/energetic_electrons_protons/30-min_avg_count_rates/DATA2_DR004085_DR004085_20080611_083126/dr004085_f00001.phys.1
+-rwxr-xr--  leckner/spdf  1666228 2008-06-11 06:00:00 imp/imp8/energetic_electrons_protons/30-min_avg_count_rates/DATA2_DR004085_DR004085_20080611_083126/dr004085_f00002.phys.1
+-rwxr-xr--  leckner/spdf  5292073 2008-06-11 06:00:00 imp/imp8/energetic_electrons_protons/30-min_avg_count_rates/DATA2_DR004085_DR004085_20080611_083126/dr004085_f00003.phys.1
+-rwxr-xr--  leckner/spdf  3080175 2008-06-11 06:00:00 imp/imp8/energetic_electrons_protons/30-min_avg_count_rates/DATA2_DR004085_DR004085_20080611_083126/dr004085_f00004.phys.1
+-rw-r--r--  1002/1002         295 2014-09-14 06:00:00 imp/imp8/energetic_electrons_protons/30-min_avg_count_rates/SHA1SUM
+-rw-rw-r--  leckner/spdf     5699 2014-09-08 06:00:00 imp/imp8/energetic_electrons_protons/30-min_avg_count_rates/SPHE-00089_nmc.html
+-rwxrwxr-x  leckner/spdf   587740 2014-09-08 06:00:00 imp/imp8/energetic_electrons_protons/30-min_avg_count_rates/imp-h-j_30-min-avg-count-rate_72-073a-05a_73-078a-05a_DSC_0369.pdf

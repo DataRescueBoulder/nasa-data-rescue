@@ -1,0 +1,15 @@
+drwxrwxr-x  leckner/spdf        7 2014-09-26 06:00:00 pioneer/pioneer8/cosmic-ray_anisotropy/7pt5_1-hour_count_rates/
+lrwxrwxrwx  leckner/spdf       76 2014-09-16 06:00:00 pioneer/pioneer8/cosmic-ray_anisotropy/7pt5_1-hour_count_rates/AA_WARNING_recovered_but_unreviewed_dataset.txt -> ../../../../../documents/old/AA_WARNING_recovered_but_unreviewed_dataset.txt
+drwxrwxr-x  leckner/spdf       11 2014-09-26 06:00:00 pioneer/pioneer8/cosmic-ray_anisotropy/7pt5_1-hour_count_rates/DATA2_DR003091_DR003091_20080611_083044/
+-rw-rw-r--  leckner/spdf 91610112 2014-09-09 06:00:00 pioneer/pioneer8/cosmic-ray_anisotropy/7pt5_1-hour_count_rates/DATA2_DR003091_DR003091_20080611_083044/DATA2_DR003091_DR003091_20080611_083044.tar
+-rw-r--r--  1002/1002         567 2014-09-26 06:00:00 pioneer/pioneer8/cosmic-ray_anisotropy/7pt5_1-hour_count_rates/DATA2_DR003091_DR003091_20080611_083044/SHA1SUM
+-rw-rw-r--  leckner/spdf     8149 2014-06-17 06:00:00 pioneer/pioneer8/cosmic-ray_anisotropy/7pt5_1-hour_count_rates/DATA2_DR003091_DR003091_20080611_083044/attributes.xml
+-rwxr-xr--  leckner/spdf 16707150 2008-06-11 06:00:00 pioneer/pioneer8/cosmic-ray_anisotropy/7pt5_1-hour_count_rates/DATA2_DR003091_DR003091_20080611_083044/dr003091_f00001.phys.1
+-rwxr-xr--  leckner/spdf 13503930 2008-06-11 06:00:00 pioneer/pioneer8/cosmic-ray_anisotropy/7pt5_1-hour_count_rates/DATA2_DR003091_DR003091_20080611_083044/dr003091_f00002.phys.1
+-rwxr-xr--  leckner/spdf 15577080 2008-06-11 06:00:00 pioneer/pioneer8/cosmic-ray_anisotropy/7pt5_1-hour_count_rates/DATA2_DR003091_DR003091_20080611_083044/dr003091_f00003.phys.1
+-rwxr-xr--  leckner/spdf 14894160 2008-06-11 06:00:00 pioneer/pioneer8/cosmic-ray_anisotropy/7pt5_1-hour_count_rates/DATA2_DR003091_DR003091_20080611_083044/dr003091_f00004.phys.1
+-rwxr-xr--  leckner/spdf 15570122 2008-06-11 06:00:00 pioneer/pioneer8/cosmic-ray_anisotropy/7pt5_1-hour_count_rates/DATA2_DR003091_DR003091_20080611_083044/dr003091_f00005.phys.1
+-rwxr-xr--  leckner/spdf 15343294 2008-06-11 06:00:00 pioneer/pioneer8/cosmic-ray_anisotropy/7pt5_1-hour_count_rates/DATA2_DR003091_DR003091_20080611_083044/dr003091_f00006.phys.1
+-rw-r--r--  1002/1002         273 2014-09-26 06:00:00 pioneer/pioneer8/cosmic-ray_anisotropy/7pt5_1-hour_count_rates/SHA1SUM
+-rw-rw-r--  leckner/spdf     5945 2014-09-16 06:00:00 pioneer/pioneer8/cosmic-ray_anisotropy/7pt5_1-hour_count_rates/SPHE-00608_nmc.html
+-rwxrwxr-x  leckner/spdf   557519 2014-09-16 06:00:00 pioneer/pioneer8/cosmic-ray_anisotropy/7pt5_1-hour_count_rates/pioneer8_cosmic-ray_67-123a-05a_DSC_0269.pdf

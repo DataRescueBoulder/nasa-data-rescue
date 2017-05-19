@@ -1,0 +1,20 @@
+drwxrwxr-x  leckner/spdf        7 2014-09-25 06:00:00 ats/ats1/omnidirectional_spectrometer/proton-electron_flux_reformatted/
+lrwxrwxrwx  leckner/spdf       76 2014-09-25 06:00:00 ats/ats1/omnidirectional_spectrometer/proton-electron_flux_reformatted/AA_WARNING_recovered_but_unreviewed_dataset.txt -> ../../../../../documents/old/AA_WARNING_recovered_but_unreviewed_dataset.txt
+drwxrwxr-x  leckner/spdf        9 2014-09-25 06:00:00 ats/ats1/omnidirectional_spectrometer/proton-electron_flux_reformatted/DATA3_DR003474_DR003474_20090427_095803/
+-rw-rw-r--  leckner/spdf 85324288 2014-09-22 06:00:00 ats/ats1/omnidirectional_spectrometer/proton-electron_flux_reformatted/DATA3_DR003474_DR003474_20090427_095803/DATA3_DR003474_DR003474_20090427_095803.tar
+-rw-rw-r--  leckner/spdf     7004 2014-07-15 06:00:00 ats/ats1/omnidirectional_spectrometer/proton-electron_flux_reformatted/DATA3_DR003474_DR003474_20090427_095803/attributes.xml
+-rwxr-xr--  leckner/spdf 16518504 2009-04-27 06:00:00 ats/ats1/omnidirectional_spectrometer/proton-electron_flux_reformatted/DATA3_DR003474_DR003474_20090427_095803/dr003474_f00001.phys.1
+-rwxr-xr--  leckner/spdf 15426120 2009-04-27 06:00:00 ats/ats1/omnidirectional_spectrometer/proton-electron_flux_reformatted/DATA3_DR003474_DR003474_20090427_095803/dr003474_f00002.phys.1
+-rwxr-xr--  leckner/spdf 16956630 2009-04-27 06:00:00 ats/ats1/omnidirectional_spectrometer/proton-electron_flux_reformatted/DATA3_DR003474_DR003474_20090427_095803/dr003474_f00003.phys.1
+-rwxr-xr--  leckner/spdf 17808914 2009-04-27 06:00:00 ats/ats1/omnidirectional_spectrometer/proton-electron_flux_reformatted/DATA3_DR003474_DR003474_20090427_095803/dr003474_f00004.phys.1
+-rwxr-xr--  leckner/spdf 18601178 2009-04-27 06:00:00 ats/ats1/omnidirectional_spectrometer/proton-electron_flux_reformatted/DATA3_DR003474_DR003474_20090427_095803/dr003474_f00005.phys.1
+drwxrwxr-x  leckner/spdf        9 2014-09-25 06:00:00 ats/ats1/omnidirectional_spectrometer/proton-electron_flux_reformatted/DATA3_DR003475_DR003475_20090427_100403/
+-rw-rw-r--  leckner/spdf 88996352 2014-09-22 06:00:00 ats/ats1/omnidirectional_spectrometer/proton-electron_flux_reformatted/DATA3_DR003475_DR003475_20090427_100403/DATA3_DR003475_DR003475_20090427_100403.tar
+-rw-rw-r--  leckner/spdf     7004 2014-07-15 06:00:00 ats/ats1/omnidirectional_spectrometer/proton-electron_flux_reformatted/DATA3_DR003475_DR003475_20090427_100403/attributes.xml
+-rwxr-xr--  leckner/spdf 17940958 2009-04-27 06:00:00 ats/ats1/omnidirectional_spectrometer/proton-electron_flux_reformatted/DATA3_DR003475_DR003475_20090427_100403/dr003475_f00001.phys.1
+-rwxr-xr--  leckner/spdf 18163032 2009-04-27 06:00:00 ats/ats1/omnidirectional_spectrometer/proton-electron_flux_reformatted/DATA3_DR003475_DR003475_20090427_100403/dr003475_f00002.phys.1
+-rwxr-xr--  leckner/spdf 16944606 2009-04-27 06:00:00 ats/ats1/omnidirectional_spectrometer/proton-electron_flux_reformatted/DATA3_DR003475_DR003475_20090427_100403/dr003475_f00003.phys.1
+-rwxr-xr--  leckner/spdf 17988974 2009-04-27 06:00:00 ats/ats1/omnidirectional_spectrometer/proton-electron_flux_reformatted/DATA3_DR003475_DR003475_20090427_100403/dr003475_f00004.phys.1
+-rwxr-xr--  leckner/spdf 17946960 2009-04-27 06:00:00 ats/ats1/omnidirectional_spectrometer/proton-electron_flux_reformatted/DATA3_DR003475_DR003475_20090427_100403/dr003475_f00005.phys.1
+-rw-rw-r--  leckner/spdf     5403 2014-09-25 06:00:00 ats/ats1/omnidirectional_spectrometer/proton-electron_flux_reformatted/SPMS-00026_nmc.html
+-rwxrwxr-x  leckner/spdf   281332 2014-09-25 06:00:00 ats/ats1/omnidirectional_spectrometer/proton-electron_flux_reformatted/ats-b_solid-state-particle_66-110a-03a_DSC_0084.pdf

@@ -1,0 +1,13 @@
+drwxrwxr-x  leckner/spdf        6 2014-09-18 06:00:00 imp/imp1/cosmic-ray_range_vs_energy_loss/reduced_count-rate_pulse-height/
+lrwxrwxrwx  leckner/spdf       76 2014-09-18 06:00:00 imp/imp1/cosmic-ray_range_vs_energy_loss/reduced_count-rate_pulse-height/AA_WARNING_recovered_but_unreviewed_dataset.txt -> ../../../../../documents/old/AA_WARNING_recovered_but_unreviewed_dataset.txt
+drwxrwxr-x  leckner/spdf       10 2014-09-18 06:00:00 imp/imp1/cosmic-ray_range_vs_energy_loss/reduced_count-rate_pulse-height/DATA2_DR003700_DR003700_20080611_083117/
+-rw-rw-r--  leckner/spdf 40230912 2014-09-10 06:00:00 imp/imp1/cosmic-ray_range_vs_energy_loss/reduced_count-rate_pulse-height/DATA2_DR003700_DR003700_20080611_083117/DATA2_DR003700_DR003700_20080611_083117.tar
+-rw-rw-r--  leckner/spdf     8149 2014-06-30 06:00:00 imp/imp1/cosmic-ray_range_vs_energy_loss/reduced_count-rate_pulse-height/DATA2_DR003700_DR003700_20080611_083117/attributes.xml
+-rwxr-xr--  leckner/spdf  5788380 2008-06-11 06:00:00 imp/imp1/cosmic-ray_range_vs_energy_loss/reduced_count-rate_pulse-height/DATA2_DR003700_DR003700_20080611_083117/dr003700_f00001.phys.1
+-rwxr-xr--  leckner/spdf  5788380 2008-06-11 06:00:00 imp/imp1/cosmic-ray_range_vs_energy_loss/reduced_count-rate_pulse-height/DATA2_DR003700_DR003700_20080611_083117/dr003700_f00002.phys.1
+-rwxr-xr--  leckner/spdf  5824580 2008-06-11 06:00:00 imp/imp1/cosmic-ray_range_vs_energy_loss/reduced_count-rate_pulse-height/DATA2_DR003700_DR003700_20080611_083117/dr003700_f00003.phys.1
+-rwxr-xr--  leckner/spdf 10977726 2008-06-11 06:00:00 imp/imp1/cosmic-ray_range_vs_energy_loss/reduced_count-rate_pulse-height/DATA2_DR003700_DR003700_20080611_083117/dr003700_f00004.phys.1
+-rwxr-xr--  leckner/spdf  5820960 2008-06-11 06:00:00 imp/imp1/cosmic-ray_range_vs_energy_loss/reduced_count-rate_pulse-height/DATA2_DR003700_DR003700_20080611_083117/dr003700_f00005.phys.1
+-rwxr-xr--  leckner/spdf  6016440 2008-06-11 06:00:00 imp/imp1/cosmic-ray_range_vs_energy_loss/reduced_count-rate_pulse-height/DATA2_DR003700_DR003700_20080611_083117/dr003700_f00006.phys.1
+-rw-rw-r--  leckner/spdf     6247 2014-09-18 06:00:00 imp/imp1/cosmic-ray_range_vs_energy_loss/reduced_count-rate_pulse-height/SPHE-00704_nmc.html
+-rwxrwxr-x  leckner/spdf   741583 2014-09-18 06:00:00 imp/imp1/cosmic-ray_range_vs_energy_loss/reduced_count-rate_pulse-height/explorer18_solar-galactic-protons_63-046a-03a_DSC_0075.pdf

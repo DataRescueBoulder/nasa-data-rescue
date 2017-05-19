@@ -1,0 +1,11 @@
+drwxrwxr-x  leckner/spdf        6 2014-09-10 06:00:00 imp/imp4/cosmic-ray_anisotropy/hourly_avg_count_rates/
+lrwxrwxrwx  leckner/spdf       76 2014-09-10 06:00:00 imp/imp4/cosmic-ray_anisotropy/hourly_avg_count_rates/AA_WARNING_recovered_but_unreviewed_dataset.txt -> ../../../../../documents/old/AA_WARNING_recovered_but_unreviewed_dataset.txt
+drwxrwxr-x  leckner/spdf        8 2014-09-10 06:00:00 imp/imp4/cosmic-ray_anisotropy/hourly_avg_count_rates/DATA2_DR005296_DR005296_20080611_083155/
+-rw-rw-r--  leckner/spdf  2654208 2014-09-04 06:00:00 imp/imp4/cosmic-ray_anisotropy/hourly_avg_count_rates/DATA2_DR005296_DR005296_20080611_083155/DATA2_DR005296_DR005296_20080611_083155.tar
+-rw-rw-r--  leckner/spdf     5863 2014-07-02 06:00:00 imp/imp4/cosmic-ray_anisotropy/hourly_avg_count_rates/DATA2_DR005296_DR005296_20080611_083155/attributes.xml
+-rwxr-xr--  leckner/spdf  1179404 2008-06-11 06:00:00 imp/imp4/cosmic-ray_anisotropy/hourly_avg_count_rates/DATA2_DR005296_DR005296_20080611_083155/dr005296_f00001.phys.1
+-rwxr-xr--  leckner/spdf   990104 2008-06-11 06:00:00 imp/imp4/cosmic-ray_anisotropy/hourly_avg_count_rates/DATA2_DR005296_DR005296_20080611_083155/dr005296_f00002.phys.1
+-rwxr-xr--  leckner/spdf   447488 2008-06-11 06:00:00 imp/imp4/cosmic-ray_anisotropy/hourly_avg_count_rates/DATA2_DR005296_DR005296_20080611_083155/dr005296_f00003.phys.1
+-rwxr-xr--  leckner/spdf    26724 2008-06-11 06:00:00 imp/imp4/cosmic-ray_anisotropy/hourly_avg_count_rates/DATA2_DR005296_DR005296_20080611_083155/dr005296_f00004.phys.1
+-rw-rw-r--  leckner/spdf     6067 2014-09-10 06:00:00 imp/imp4/cosmic-ray_anisotropy/hourly_avg_count_rates/SPHE-00474_nmc.html
+-rwxrwxr-x  leckner/spdf 23819722 2014-09-10 06:00:00 imp/imp4/cosmic-ray_anisotropy/hourly_avg_count_rates/explorer36_hr-avg-count-rates_67-051a-05a_DSC_0174.pdf
