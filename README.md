@@ -19,7 +19,7 @@ Project Organization
     .
     ├── README.md
     ├── LICENSE
-    ├── data	   Assignments, list of files per assignment
+    ├── data       Assignments, list of files per assignment
     ├── explore    Experimentation with data rescue techniques
     ├── notebooks
     └── src

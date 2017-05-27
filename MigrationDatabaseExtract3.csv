@@ -1,0 +1,843 @@
+NSSDC COLLECTION	OLD DATASET ID(s)	PROCESS PRIORITY	DATASET CATALOG	PROJECT	MISSION	EXPERIMENT	DATASET SHORTNAME	ORDERED APPLIED ENCODING	OFFLINE MEDIA ENCODING	MACHINE REPRESENTATION	RECORD TYPE	DOCUMENTED MAX BLOCK	DOCUMENTED RESTORATION MODE	FILE TYPE	TAPE LABEL	COMMENT
+SOGA-00007	78-051A-05D	3.5	DSC_0498	Pioneer Venus Orbiter	Pioneer Venus Orbiter	Gamma Ray Burst Detector OGBD	OGBD-15 min Avgs of Detector Cnt	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SOGA-00009	78-051A-05A	2.5	DSC_485	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SORA-00002	90-090B-10B	3	DSC_0822	Ulysses	Ulysses	Coronal Sounding radio science SCE	SCE 10-m Ranging Data Conj. C4	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	Data in SORA-00002 and SORA-00018
+SORA-00003	74-097A-06B	2.5	DSC_469	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SORA-00004	76-003A-06B	2.5	DSC_469	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SORA-00018	90-090B-10A	3	DSC_0822	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	Data in SORA-00002 and SORA-00018
+SOUV-00001	65-093A-01B	6	DSC_0020	SOLRAD	SOLRAD 8	Solar X-Ray and Ultraviolet Monitor	1 Min Avg Values Reformatted	none	none	IBM 7044/7090/7094	variable	1848	none	character	TBD	(DIO-ingest -01B, release -01A, keep -01C&D as docum for -01B)
+SOUV-00002	69-068A-01A	6	DSC_0161	OSO	OSO 6	Solar UV Scanning Spectrometer, Spectroheliometer (300 to 1400A)	EUV Raster Scans	none	none	IBM 360/370	variable	6644	none	binary	TBD	(treat -01C,E&F as non-DIOnAS docum files for DIO ds's -01A,B&D)
+SOUV-00003	75-057A-01A	3.5	DSC_0513	OSO	OSO 8	High-Resolution Ultraviolet Spectrometer Measurements	Spectroheliogram Data	none	none	TBD	variable	768	none	binary	TBD	
+SOUV-00005	69-068A-06B	6	DSC_0221	OSO	OSO 6	Study of Solar Helium I, Helium II, Oxygen, and Nitrogen Radiation	Flux vs Time, Fine Time Res Data	none	none	IBM 360/370	variable	6050	none	binary	TBD	(treat -01C,E&F as non-DIOnAS docum files for DIO ds's -01A,B&D)
+SOUV-00006	69-068A-06A	6	DSC_0221	OSO	OSO 6	Study of Solar Helium I, Helium II, Oxygen, and Nitrogen Radiation	Experiment Aspect Data	none	none	IBM 360/370	variable	1638	none	binary	TBD	(treat -01C,E&F as non-DIOnAS docum files for DIO ds's -01A,B&D)
+SOUV-00007	71-083A-01A	6	DSC_0794	OSO	OSO 7	X-Ray and EUV Spectroheliograph (2 to 400 A)	Whole 2-400A Data Set	none	none	VAX	variable	140	none	binary	TBD	
+SOUV-00010	67-100A-07B	6	DSC_0078	OSO	OSO 4	Solar EUV Spectrometer	300-1400 A Pointed Spectral Scans	none	none	CDC 6000/7000	variable	4896	none	binary	TBD	 
+SOUV-00013	75-057A-01I	4.5	DSC_0513	OSO	OSO 8	High-Resolution Ultraviolet Spectrometer Measurements	Data Reduction Programs	none	none	PDP-11	variable	1024	none	character	TBD	
+SOUV-00016	69-068A-01C	6	DSC_0161	OSO	OSO 6	Solar UV Scanning Spectrometer, Spectroheliometer (300 to 1400A)	Command Logs	none	none	CDC 6000/7000	variable	1280	none	character	TBD	(treat -01C,E&F as non-DIOnAS docum files for DIO ds\\\\\\'s -01A,B&D)
+SOUV-00017	65-093A-01D	6	DSC_0020	SOLRAD	SOLRAD 8	Solar X-Ray and Ultraviolet Monitor	Station List Start/Stop + Pass No	none	none	IBM 7044/7090/7094	variable	114	none	character	TBD	(DIO-ingest -01B, release -01A, keep -01C&D as docum for -01B)
+SOUV-00018	78-051A-15C	3	DSC_0737	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SOUV-00019	81-100A-05A	3.5	DSC_0625	SME	SME	Solar UV Monitor	Solar Irradiance Data	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SOUV-00020	75-057A-01C	3.5	DSC_0513	OSO	OSO 8	High Resolution Ultraviolet Spectrometer Measurements	Velocity Study Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SOUV-00021	75-057A-01B	3.5	DSC_0513	OSO	OSO 8	High-Resolution Ultraviolet Spectrometer Measurements	Limb Brightening Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SOUV-00022	72-100A-04A,74-055A-04A	3	DSC_0544	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SOUV-00023	73-027A-11C	4	DSC_0383	Skylab	Skylab	EUV Spectrograph	Frame Catalog	none	none	IBM 360/370	fixed	84	none	character	TBD	
+SOUV-00026	88-026A-02B	3	DSC_0795	San Marco-D/L	San Marco-DL	Airglow-Solar Spectrometer ASSI	SanMarco_ASSI_Flux Data_ASCII	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SOUV-00027	88-026A-02A	3	0	San Marco	San Marco-DL	Airglow-Solar Spectrometer ASSI	Solar Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SOUV-00028	80-014A-02C	3	DSC_0752	SMM	SMM	Ultraviolet Spectrometer and polarimeter 1750-3600 A raster imager 0.04 A sp.res.	UVSP Observing Catalog	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SOUV-00029	80-014A-02A	3	DSC_0477	SMM	SMM	Ultraviolet Spectrometer and polarimeter 1750-3600 A raster imager,0.04 A sp.res.	UV Spectrometer Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SOUV-00031	67-100A-07A	6	DSC_0078	OSO	OSO 4	Solar EUV Spectrometer	EUV Raster Scans	none	none	CDC 6000/7000	variable	4896	none	binary	TBD	1 bad DD tape DD006061 
+SOUV-00032	69-068A-01D	6	DSC_0161	OSO	OSO 6	Solar UV Scanning Spectrometer, Spectroheliometer (300 to 1400A)	March 7, 1970 Solar Eclipse Data	none	none	IBM 360/370	variable	6644	none	binary	TBD	(treat -01C,E&F as non-DIOnAS docum files for DIO ds's -01A,B&D)
+SOUV-00033	75-057A-01E	3.5	DSC_0513	OSO	OSO 8	High-Resolution Ultraviolet Spectrometer Measurements	Spectrum Range Scan Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SOUV-00034	75-107A-06C	3	DSC_0621	AE-E	AE-E	Solar EUV Spectrophotometer EUVS	EUVS Solar-Flux Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SOUV-00036	69-006A-08A	6	DSC_0231	OSO	OSO 5	Solar Extreme Ultraviolet Monitor	Reduced,Merged 3-Ch.UV Data	none	none	CDC 6000/7000	variable	5124	none	binary	TBD	
+SOUV-00039	75-057A-01D	3.5	DSC_0513	OSO	OSO 8	High Resolution Ultraviolet Spectrometer Measurements	Spectrum Scan Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SOUV-00040	73-027A-06A	4	DSC_0276	SKYLAB	Skylab	UV Scanning Polychromator/Spectroheliometer	Solar EUV Data	none	none	CDC 6000/7000	variable	4950	none	binary	TBD	 
+SOUV-00041	65-093A-01C	6	DSC_0020	SOLRAD	SOLRAD 8	Solar X-Ray and Ultraviolet Monitor	Catalog Passes w Solar X-Ray Data	none	none	IBM 7044/7090/7094	fixed	84	none	character	TBD	(DIO-ingest -01B, release -01A, keep -01C&D as docum for -01B)
+SOUV-00042	65-093A-01A	6	DSC_0020	SOLRAD	SOLRAD 8	Solar X-Ray and Ultraviolet Monitor	1 Min Flux Avg for 12 Detectors	none	none	IBM 7044/7090/7094	variable	84	none	character	TBD	(DIO-ingest -01B, release -01A, keep -01C&D as docum for -01B)
+SOUV-00044	67-100A-07C	6	DSC_0078	OSO	OSO 4	Solar EUV Spectrometer	Atlas of EUV Raster Scans	none	none	IBM 7044/7090/7094	variable	5124	none	binary	TBD	
+SOUV-00045	67-100A-07D	6	DSC_0078	OSO	OSO 4	Solar EUV Spectrometer	300-1400A Quiet Sun Spectrum	none	none	IBM 7044/7090/7094	fixed	84	none	binary	TBD	
+SOUV-00047	69-068A-01F	6	DSC_0161	OSO	OSO 6	Solar UV Scanning Spectrometer, Spectroheliometer (300 to 1400A)	Calibration Factor Computation	none	none	IBM 7044/7090/7094	variable	84	none	character	TBD	(treat -01C,E&F as non-DIOnAS docum files for DIO ds's -01A,B&D)
+SOUV-00048	73-027A-06E	4	DSC_0321	Skylab	Skylab	UV Scanning Polychromator, Spectroheliometer	Super Raster Data	none	none	CDC 6000/7000	variable	5012	none	binary	TBD	
+SOUV-00050	75-107A-06B	3	DSC_0392	AE-E	AE-E	Solar EUV Spectrophotometer EUVS	AE-E_EUVS_Prelim. Flux Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SOUV-00052	75-057A-01F	3.5	DSC_0513	OSO	OSO 8	High Resolution Ultraviolet Spectrometer Measurements	Single Wavelength Monitoring Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SOUV-00053	73-027A-10C	4	DSC_0366	Skylab	Skylab	UV Coronal Spectroheliograph	Frame Catalog	none	none	IBM 360/370	fixed	84	none	character	TBD	
+SOUV-00055	69-068A-06C	6	DSC_0221	OSO	OSO 6	Study of Solar Helium I, Helium II, Oxygen, and Nitrogen Radiation	2 Minute Averages	none	none	IBM 360/370	fixed	1814	none	binary	TBD	(treat -01C,E&F as non-DIOnAS docum files for DIO ds's -01A,B&D)
+SOUV-00056	69-068A-01E	6	DSC_0161	OSO	OSO 6	Solar UV Scanning Spectrometer, Spectroheliometer (300 to 1400A)	Command Log Search Program	none	none	IBM 7044/7090/7094	variable	84	none	character	TBD	(treat -01C,E&F as non-DIOnAS docum files for DIO ds's -01A,B&D)
+SOUV-00057	69-068A-01B	6	DSC_0161	OSO	OSO 6	Solar UV Scanning Spectrometer, Spectroheliometer (300 to 1400A)	300-1400A Pointed Spectral Scans	none	none	IBM 360/370	variable	6066	none	binary	TBD	(treat -01C,E&F as non-DIOnAS docum files for DIO ds's -01A,B&D)
+SOUV-00060	75-057A-01H	3.5	DSC_0513	OSO	OSO 8	High-Resolution Ultraviolet Spectrometer Measurements	Cat. of Sorted Final Data Files	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SOUV-00061	73-101A-06B	3	DSC_0392	AE-C	AE-C	Solar EUV Spectrophotometer EUVS	EUV Absorption Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SOVI-00010	85-063A-08B	4	DSC_0680	STS 51F/Spacelab 2	STS 51F/Spacelab 2	Solar Magnetic and Velocity Field Measurement System	Source Code to Read SOUP Data	none	VMS Backup	VAX	variable	2048	none	character	ANSI	There is no description of this collection, but it appears to be software to read SOVI-00014, for which there is also no description
+SOXR-00002	73-027A-05F	3.5	0	Skylab	Skylab	X-Ray Spectrographic Telescope	Digitized Sol.X-Ray Coronal Image	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SOXR-00006	64-001D-01A	6	DSC_0838	SOLRAD	SOLRAD 7A	Solar X-Ray (2 to 60 A) and UV (1225 to 1350 A) Flux	Machine Red X-Ray Flux 3 Pts/Pass	none	none	IBM 7044/7090/7094	fixed	84	none	character	TBD	
+SOXR-00015	67-100A-08B	6	DSC_0255	OSO	OSO 4	Solar X-Ray Telescope	Avg Bkgnd Counts/Frame vs Raster	none	none	IBM 360/370	fixed	3886	none	binary	TBD	
+SOXR-00018	78-079A-14E	3	DSC_0771	ISEE	ISEE 3	X and Gamma Ray Bursts 5-228 keV	X and Gamma-Ray Entire Data Set	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SOXR-00026	69-006A-03A	6	DSC_0304	OSO	OSO 5	Solar Spectrum Studies	Reduced Spectrometer Data	none	none	IBM 7044/7090/7094	variable	10440	none	binary	TBD	This datasets was excluded from OTTO it has \\\"restored\\\" data on DR tapes and \\\"unrestored\\\" data on DD tapes.
+SOXR-00027	68-017A-01E	6	DSC_0395	SOLRAD	SOLRAD 9	Solar Radiation Detectors	Reduced Solar X-Ray Fluxes	none	none	CDC 3000	variable	4800	none	character	TBD	Records contain 1 h of data, files contain 1 day of data, max. of  24 records per file. Records and files are variable length, number of min. of data present in each hour varies in each record, some days one or more hours of data are lacking in each file.
+SOXR-00029	67-073A-21E	6	DSC_0164	OGO	OGO 4	Solar X-Ray Emissions	Solar X-Ray Fluxes - Four Bands	none	none	IBM 7044/7090/7094	variable	4088	none	character	TBD	The data are contained on a BCD magnetic tape written on an IBM 7094 computer. The data set includes the date (month, day, year), and universal time (hour, minute, second) of each point shown on the plots for the period covered.This data set is a subset o
+SOXR-00032	81-049A-03A	1	DSC_435	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SOXR-00034	78-079A-14F	4	DSC_0771	ISEE	ISEE 3	X- and Gamma-Ray Bursts, 5-228 keV	Software for X- and Gamma-Ray	none	none	VAX	variable	10240	none	character	TBD	
+SOXR-00038	80-014A-04B	4	DSC_0753	Solar Maximum Mission	Solar Maximum Mission	Soft X-ray Polychromator: raster imager, crystal spectrom. in parts of 1.4-22.5	SMM_XRP Unprocessed Data, Raster	none	none	VAX	variable	4194	none	binary	TBD	
+SOXR-00048	85-048E-01A	3	DSC_0785	Spartan-A	Spartan-A	X-Ray Proportional Counters	X-Ray Data from Spartan-A	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SOXR-00049	77-048A-03A	1.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SOXR-00054	67-100A-08A	6	DSC_0255	OSO	OSO 4	Solar X-Ray Telescope	Counts/Frame vs Raster P, UT	none	none	IBM 360/370	variable	3982	none	binary	TBD	
+SOXR-00055	67-073A-21B	6	DSC_0099	OGO	OGO 4	Solar X-Ray Emissions	Hourly Avgd Solar X-Ray Flux Data	none	none	IBM 7044/7090/7094	variable	128	none	character	TBD	The tape lists the year, month, day, and the starting hour (universal time).
+SOXR-00056	67-020A-05A	4	DSC_0289	OSO	OSO 3	Solar EUV Spectrometer 1 to 400 A	Reduced Spectrometer Data	none	none	IBM 360/370	variable	5524	none	binary	TBD	
+SOXR-00057	69-068A-04A	6	DSC_0136	OSO	OSO 6	X-Ray Spectrometer, 16-40 A	Solar X-Ray Line Emissions, 6 Ch	none	none	IBM 7044/7090/7094	fixed	138	none	binary	TBD	(treat -01C,E&F as non-DIOnAS docum files for DIO ds\\'s -01A,B&D)
+SOXR-00060	64-001D-01B	6	DSC_0838	SOLRAD	SOLRAD 7A	Solar X-Ray (2 to 60 A) and UV (1225 to 1350 A) Flux	Hand Red. 1 Point per Pass	none	none	IBM 7044/7090/7094	fixed	84	none	character	TBD	
+SOXR-00064	80-014A-05B	3.5	DSC_0711	SMM	SMM	Hard X ray Imaging Spectrometer  fov 6.4 arcmin 8 or 32 arcsec res 3.5 to 30 keV	Selected Solar Flare Image Series	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SOXR-00065	75-057A-03A	6	DSC_0449	OSO	OSO 8	High-Sensitivity Crystal Spectroscopy of Stellar and Solar X Rays	Merged X-ray Data	none	none	IBM 360/370	fixed	7160	none	binary	TBD	This data set is accompanied by a program that reads the tapes and writes onto three output tapes, so that the three kinds of data referred to above can be separated onto three sets of tapes.
+SOXR-00072	78-079A-14G	3	DSC_0771	ISEE	ISEE 3	X and Gamma Ray Bursts 5 to 228 keV	X and Gamma-Ray Event Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SOXR-00074	80-014A-05C	4	DSC_0804	SMM	SMM	Hard X-ray Imaging Spectrometer: fov 6.4 arcmin, 8 or 32 arcsec res,3.5-30 keV	Full Set of Unprocessed HXIS Data	none	VMS Backup	VAX	fixed	0	none	binary	TBD	VAX LABELED BACKUP FORMAT
+SOXR-00076	87-022A-03A	1	DSC_435	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SOXR-00083	80-014A-05A	3.5	DSC_0477	SMM	SMM	Hard X ray Imaging Spectrometer  fov 6.4 arcmin 8 or 32 arcsec res 3.5 to 30 keV	Hard X-Ray Himsel Format Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00001	72-005A-01E	6	DSC_0455	HEOS	HEOS 2	Fluxgate Magnetometer	Reformatted Single Point Mag Fld	none	none	IBM 360/370	variable	12000	none	binary	TBD	
+SPHE-00003	74-097A-02A	1	DSC_501	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00004	73-078A-08F	1	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00005	73-078A-07B	6	DSC_0393	IMP	IMP-J	Cosmic Ray Nuclear Composition	5.46-Min Avg Count Rates	none	none	IBM 360/370	fixed	2640	none	binary	none	Each file contains the same number of 2640-character physical records.  This datasets was excluded from OTTO it has \"restored\" data on DR tapes and \"unrestored\" data on DD tapes.
+SPHE-00006	73-019A-13J	1.5	DSC_412	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00007	73-019A-13C	2	DSC_412	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	Data in SPHE-00007, SPHE-00095, SPHE-00595, and XXNO-00041
+SPHE-00009	72-073A-03B	6	DSC_0296	IMP	IMP 7	Solar Ions and Electrons in the Energy Range 0.1 to 2 MeV	All Count Rates on Encyclo. Files	none	none	IBM 360/370	variable	4320	none	binary	TBD	The first 32 tapes were 7-track, the remaining tapes were 9-track.
+SPHE-00013	71-019A-07A	6	DSC_0427	IMP	IMP-I	Solar Proton Monitoring Experiment	Count Rates on Archive Files	none	none	IBM 360/370	variable	20984	none	binary	none	This datasets was excluded from OTTO it has \"restored\" data on DR tapes and \"unrestored\" data on DD tapes.
+SPHE-00015	71-019A-02A	6	DSC_0261	IMP	IMP 6	Electrostatic Fields	DC Electric Field Data	none	none	IBM 360/370	variable	31844	none	binary	TBD	
+SPHE-00016	71-019A-01D	6	DSC_0832	IMP	IMP 6	Measurement of Magnetic Fields	Detail Data 80 ms 1.28 Avg Vect	none	none	IBM 360/370	fixed	11076	TBD	binary	TBD	Each block of 11,076 bytes is a logical record.  This datasets was excluded from OTTO it has \"restored\" data on DR tapes and \"unrestored\" data on DD tapes.
+SPHE-00017	71-008C-08A	6	0	Apollo Lunar Module / ALSEP	Apollo 14 Lunar Module ALSEP	Charged Particle Lunar Environment Experiment CPLEE	Count Rate Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00019	68-100A-03A	2	DSC_100	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00020	68-014A-14C	6	DSC_0113	OGO	OGO 5	UCLA Triaxial Fluxgate Magnetometer	4.6-s Avg B-Field,S/C Coords	none	none	IBM 360/370	variable	3084	none	binary	TBD	Each physical record contains 128 logical records of six words each. This datasets was excluded from OTTO it has \\\"restored\\\" data on DR tapes and \\\"unrestored\\\" data on DD tapes. 
+SPHE-00022	68-014A-06C	6	DSC_0228	OGO	OGO 5	Electron and Proton Spectrometer	Cnt Rate,Ephem+B-Field Data	none	none	CDC 6000/7000	variable	23626	none	binary	TBD	
+SPHE-00025	67-070A-06A	3	DSC_0168	Explorer	Explorer 35	Plasma Probe	Hr Avg Int Plasma Param-Block BCD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00026	67-070A-04A	6	DSC_0194	Explorer	Explorer 35	GSFC Magnetometer	5.12 S Vector Mag Field	none	none	IBM 360/370	variable	4390	none	binary	TBD	IMP-E is otherwise known as "anchored IMP" or AIMP-2, but also as explorer35.  We should be able to locate it from /raid.../imp2/... and from /raid.../explorer...  In the FTP site we are using numbers for IMP, not letters.  **make imp2 alias on nssdcftp**
+SPHE-00028	67-051A-07D	6	DSC_0211	IMP	IMP 4	Solar Proton Monitoring Experiment       	Hourly Averaged Count Rates	none	none	IBM 360/370	variable	24960	padded	binary	TBD	Each logical record consists of 3120 8-bit bytes and contains data for one day. There are six logical records per physical record and one file for each calendar year of data on the tape.
+SPHE-00030	66-075A-02D	6	DSC_0278	Pioneer	Pioneer 7	Solar Wind Plasma Faraday Cup	Hour Avg Plasma Parameters	none	none	IBM 360/370	fixed	2860	none	character	TBD	
+SPHE-00032	66-075A-01A	6	DSC_0105	Pioneer 7	Pioneer 7	Single-Axis Magnetometer	30 Sec Vr Magnetic Field Avg Data	none	none	IBM 7044/7090/7094	variable	11124	none	binary	TBD	
+SPHE-00033	66-058A-06D	6	DSC_0168	Explorer	Explorer 33	Plasma Probe	1-Hr IP Plasma Data w/o 0	none	none	IBM 7044/7090/7094	variable	84	none	character	TBD	
+SPHE-00040	66-049A-10A	6	DSC_0117	OGO	OGO 3	Trapped Radiation Scintillation Counter	Prot+Elec Rtes,All Tm Equiv 1 kbs	none	none	IBM 360/370	fixed	5184	none	binary	TBD	The tapes each contain one file and do not contain standard OS/360 tape labels. The tapes have 5184-byte physical records, and each physical record contains eight 648-byte logical records.  This datasets was excluded from OTTO it has \"restored\" data on
+SPHE-00041	66-049A-03A	6	DSC_0055	OGO	OGO 3	Cosmic-Ray Spectra and Fluxes	Reduced C.R. Count Rates	none	none	IBM 7044/7090/7094	variable	3972	none	binary	TBD	24-character (six bits per character) header record followed by a variable number of files. Each file has a 144-character header record, followed by a variable number of records that have a total length of 3972 characters, followed by a file trailer recor
+SPHE-00046	65-042A-03D	6	DSC_0139	IMP	IMP 3	Cosmic-Ray Range vs Energy Loss	Cosmic Ray Count Data	none	none	Xerox/SDS Sigma 9	fixed	2448	none	binary	TBD	
+SPHE-00050	65-042A-01A	6	DSC_0016	IMP	IMP 3	Retarding Potential Analyzer	Electron&Ion Spectra,Te,N,V,Orbit	none	none	IBM 7044/7090/7094	variable	2790	none	binary	TBD	
+SPHE-00051	64-060A-07A	6	DSC_0070	IMP	IMP 2	Faraday Cup	Chgd Part. Fluxes vs E + Time	none	none	IBM 360/370	variable	2629	none	character	TBD	
+SPHE-00052	64-060A-03F	6	DSC_0139	IMP	IMP 2	Cosmic-Ray Range vs Energy Loss	5-min Avg C.R.Cnt Rate Sumry Data	none	none	IBM 7096	variable	7524	none	character	TBD	 
+SPHE-00054	64-060A-02A	1.5	DSC_015	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00058	64-054A-12A	6	0	OGO	OGO 1	Solar Cosmic Rays	Solar Cosmic Ray Counts	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00061	63-046A-04A	6	DSC_0082	IMP	IMP-A	Cosmic Rays (E vs DE/DX)	1-h Avg C.R. Ion+Elect Rates	none	none	IBM 7044/7090/7094	variable	2760	none	binary	TBD	Each logical record contains data from 1 day in 662 words (control words not included). logical records divided into 2-265 word blocks and 1-140 word block
+SPHE-00062	68-109A-02D,72-005A-01C	6	DSC_0279	HEOS	HEOS 2	Fluxgate Magnetometer	Reformtd Hr-Av Inpl B-Field Vects	none	none	IBM 360/370	fixed	8000	none	character	TBD	Merged with dataset 68-109A-02D. 
+SPHE-00064	59-009A-03A	6	DSC_0003	Explorer	Explorer 7	Heavy Primary Cosmic Rays	Ion Chamber Counts	none	none	IBM 7044/7090/7094	fixed	80	none	binary	TBD	(exps 3&4, but not 1 which is Earth science)
+SPHE-00066	72-012A-13L	5	DSC_0797	Pioneer	Pioneer 10	Quadrispherical Plasma Analyzer	P-10 Solar Wind Plasma Archive	none	none	VAX	fixed	110	none	binary	TBD	
+SPHE-00070	72-012A-12C	4.5	DSC_0761	Pioneer	Pioneer 10	Cosmic-Ray Telescope (CRT)	Pioneer 10 Cruise Data Archive	none	none	VAX	fixed	1024	none	character	TBD	pathname conforms to existing path structure on FTP
+SPHE-00073	78-079A-02F	1	DSC_548	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00075	77-102B-05E	1	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00076	77-102B-01D	1.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	Data in SPHE-00076 and SPMS-00310
+SPHE-00078	77-076A-06F,77-084A-06F	1.5	DSC_653	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00079	74-097A-10A	2.5	DSC_488	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00081	74-097A-01B	4.5	0	Helios-A	Helios-A	Fluxgate Magnetometer for Field Fluctuations	Hourly Avg Mag Field Vector Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00082	74-097A-01A	4.5	DSC_0533	Helios	Helios 1	Fluxgate Magnetometer for Field Fluctuations -- Neubauer	8 Sec Avg Mag Field Vector Data	none	none	IBM 360/370	variable	1330	none	binary	TBD	
+SPHE-00083	73-085A-04P	3	DSC_0610	Mariner	Mariner 10	Triaxial Fluxgate Magnetometer	Hrly-Avg Fld-Stnd IMF_Solar wind	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00084	73-085A-04C	3	DSC_0359	Mariner	Mariner 10	Triaxial Fluxgate Magnetometer	Hr Avg Inpl Mag Vectors	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00086	73-078A-08B	3.5	DSC_0380	IMP-J	IMP-J	Charged Particle Measurements Experiment CPME	Hr Avg 1-2 14-25 MeV Prot Flx	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00088	73-078A-05E	1.5	DSC_861	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00089	73-078A-05A	6	DSC_0369	IMP	IMP 8	Energetic Electrons and Protons	30-Min Avg Count Rates, All Modes	none	none	CDC 6000/7000	fixed	5864	none	binary	TBD	Created on CDC6600 but are in IBM 32-bit format.
+SPHE-00091	73-078A-01F,73-078A-02E	1.5	DSC_552	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00092	73-078A-02C	2	DSC_453	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00094	73-019A-13I	1.5	DSC_412	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00095	73-019A-13B	2.5	DSC_412	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	Data in SPHE-00007, SPHE-00095, SPHE-00595, and XXNO-00041
+SPHE-00096	73-019A-13A	1.5	DSC_535	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00097	73-019A-11C	3	DSC_0551	Pioneer	Pioneer 11	Geiger Tube Telescope GTT	One Hour Cruise Averages	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00098	73-019A-01C	4.5	DSC_0377	Pioneer	Pioneer 11	Helium Magnetometer	Hi Time Res (0.19 s) B Vectors	none	none	Univac 1108	variable	6734	none	binary	TBD	
+SPHE-00099	72-073A-07C	6	DSC_0341	IMP	IMP-H	Solar Flare High-z/Low-e and Low-e Isotope	Sectored Rate and PHA Data(HOST)	none	none	Xerox/SDS Sigma 9	variable	1952	TBD	binary	TBD	This datasets was excluded from OTTO it has \"restored\" data on DR tapes and \"unrestored\" data on DD tapes.
+SPHE-00100	72-073A-06B	6	DSC_0419	IMP	IMP 7	Electrons and Hydrogen and Helium Isotopes	Hourly Average Count Rates	none	none	IBM 360/370	fixed	520	none	binary	TBD	Previous to 1981 data were created on IBM 360, data for 1981 forward were written on VAX. VAX version tape specs., binary, LRECL 90, MAXBLKSZE 360, FB.
+SPHE-00101	72-073A-05B	6	DSC_0426	IMP	IMP-H	Energetic Electrons and Protons	5.46 Min. Avg. Data	none	none	CDC 6000/7000	fixed	923	none	binary	TBD	Created on CDC6600, 32-bit format. D-31987 was also created on an CDC6600 computer but in 60-bit format.
+SPHE-00102	72-073A-02C	2	DSC_453	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00103	72-073A-01D	6	DSC_0705	IMP	IMP-H	Magnetic Fields Experiment	Raw and 3.2-sec Field Data	none	none	IBM 360/370	variable	3460	TBD	binary	TBD	One type of data is called Phase I data and has a blocksize of 17,692. The other data (320 ms) is called Phases III and has a blocksize of 3460.  This datasets was excluded from OTTO it has \"restored\" data on DR tapes and \"unrestored\" data on DD tapes
+SPHE-00104	72-012A-11B	4	DSC_0551	Pioneer	Pioneer 10	Jovian Charged Particles (Geiger Tube Telescope)	One Hour Cruise Averages	none	none	VAX	variable	5184	none	binary	TBD	
+SPHE-00105	72-012A-05F	3.5	DSC_0615	Pioneer	Pioneer 10	Jovian Trapped Radiation	24H Inhomog.Comprsd IP Sumry Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00106	72-012A-01E	4.5	DSC_0398	Pioneer	Pioneer 10	Magnetic Fields	1 Min, Hourly, Daily Avg. Cruise	none	none	VAX	variable	7200	none	character	TBD	any tapes which contain read errors were padded to maintain org. data format
+SPHE-00107	67-051A-09B,67-051A-10B	6	DSC_0316	IMP	IMP 4	Low-Energy Proton and Alpha Detector	2.73-Min Count Rates	none	none	IBM 360/370	variable	4124	none	binary	TBD	Each physical record contains 10 logical records of 408 bytes. Merged with dataset 67-051A-10B. Check Names 
+SPHE-00111	67-051A-03G	2	DSC_141	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00117	65-105A-06C	6	DSC_0131	Pioneer	Pioneer 6	Electrostatic Analyzer	Hr Avg Plasma Parameters	none	none	IBM 360/370	variable	100	none	binary	TBD	Pioneer 7,66-075a-03c merge with this data set. A microfilmed computer printout of this tape is available at NSSDC as 65-105A-06D
+SPHE-00119	65-081A-08A	6	DSC_0107	OGO	OGO 2	Galactic and Solar Cosmic Ray	Particle Count Rate 50-2000 MeV/N	none	none	CDC 1604	variable	8676	none	binary	TBD	Plots of the count rates are also avilable on one reel of microfilm data set 65-81A-08B
+SPHE-00120	63-046A-03D,64-060A-03E	6	DSC_0139	IMP	IMP-B	Cosmic-Ray Range vs Energy Loss	C.R. PHA Event Summary	none	none	Xerox/SDS Sigma 9	variable	1840	none	binary	TBD	There are 134 orbits of data on the tape. Each logical record contains the following data: D1 and D3 detector element pulse heights, time of observation, orbit number, and data quality information.
+SPHE-00122	68-014A-04B	6	DSC_0202	OGO	OGO 5	Energetic Radiations from Solar Flares	40 Sec Avg X-Ray Count Rate	none	none	CDC 6000/7000	fixed	2964	none	character	TBD	Written in a BCD card image format on a CDC 6000 series computer. 
+SPHE-00125	67-123A-01C	6	DSC_0348	Pioneer	Pioneer 8	Single-Axis Magnetometer	Hourly Averaged Vectors	none	none	IBM 360/370	variable	1356	none	binary	TBD	Record Length 'L' is variable, L=N*14+3 where 'N' is the number of hourly averages in the day
+SPHE-00127	66-075A-03C	6	DSC_0131	Pioneer	Pioneer 7	Electrostatic Analyzer	Hr Avg Plasma Parameters	none	none	IBM 360/370	variable	1356	none	binary	TBD	A microfilmed computer listing of this tape is available at NSSDC 66-075a-03d 
+SPHE-00128	65-105A-01C,66-075A-01C	6	DSC_0333	Pioneer	Pioneer6	Uniaxial Fluxgate Magnetometer	Hr Avg Pioneer 6 + 7 Vectors	none	none	IBM 360/370	variable	3404	none	binary	TBD	Merged with dataset 66-075A-01C. 
+SPHE-00129	66-058A-03D	6	DSC_0311	Explorerer	Explorer 33	Ames Magnetic Fields	5.12 Sec Mag Vectors	none	none	IBM 7044/7090/7094	variable	2760	none	binary	TBD	Physical record contains 2760 characters, of which the first 12 constitute a DCS control word. Logical record contains 132 characters (for the first vector of an 82-s sequence) or 138 characters, of which the first six constitute a DCS control word.
+SPHE-00134	69-053A-03B	6	DSC_0193	IMP	IMP-G	Cosmic-Ray Proton (R vs DE/DX)	PHA Event Summaries (Nonoverlap)	none	none	Xerox/SDS Sigma 9	variable	2400	TBD	binary	TBD	Words per logical rec. = 3.
+SPHE-00136	68-100A-03F	6	DSC_0325	Pioneer	Pioneer 9	Two-Frequency Beacon Receiver	Beacon Scintillation Obs	none	none	IBM 360/370	variable	3520	none	binary	TBD	
+SPHE-00139	68-014A-27A	6	DSC_0149	OGO	OGO 5	Low-Energy Heavy Cosmic Ray Particles	Hi-Z,Lo-E,C-R Count Rtes+PHA Data	none	none	Xerox/SDS Sigma 9	variable	24000	none	binary	TBD	Binary written on an XDS 930 computer. The data are time ordered with a variable number of files per tape and a variable number of physical records per file. Each data record (physical record) contains 200 logical records with three 24-bit words each.
+SPHE-00141	68-014A-17D	6	DSC_0217	OGO	OGO 5	Plasma Spectrometer	Hi-Res Plasma Spectra+Param	none	none	Unisys/Univac 36-bit	fixed	300	padded	binary	TBD	Physical record size is 50 words, with one logical record of up to 50 words per physical record tapes made on  univac 1108 
+SPHE-00144	78-079A-00D,78-079A-01B,78-079A-02B,78-079A-03B,78-079A-04B,78-079A-06B,78-079A-07B,78-079A-08B,78-079A-09B,78-079A-10B,78-079A-14C	4	DSC_0456	ISEE 3	ISEE 3	Cosmic-Ray Energy Spectrum, H-Fe 30 MeV/n - 15 GeV/n, Electron: 5-400 MeV	QuickLook Data Pool, 10 Exp + Eph	none	none	IBM 360/370	fixed	0	none	binary	TBD	
+SPHE-00148	78-079A-02L	3	DSC_0635	ISEE	ISEE 3	Vector Helium Magnetometer	5-Min Avg S. Wind Mag. Field	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00151	78-079A-01E	1	DSC_548	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00154	77-102B-01F	2	DSC_481	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00155	77-102A-01A,77-102B-01A	1	DSC_434	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00157	72-005A-06A	6	DSC_0474	HEOS	HEOS 2	Solar Wind Measurements (230 eV-16 KeV)	1 Hr Avgs Solar Wind Proton Data	none	none	IBM 360/370	fixed	134	none	character	TBD	
+SPHE-00158	90-090B-06H	3	DSC_0849	Ulysses	Ulysses	Unified Radio and Plasma Waves STO_URAP	RAR 10m Spectra Peak E-Field	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00171	63-046A-03C	6	DSC_0139	IMP	IMP-A	Cosmic-Ray Range vs Energy Loss	Reducd C.R. Count Accumlations	none	none	Xerox/SDS Sigma 9	fixed	1800	none	character	TBD	Last physical record in file is usually short.
+SPHE-00172	64-054A-16B	6	DSC_0118	OGO	OGO 1	Trapped Radiation Scintillation Counter	Prot+Elec Hi-Rate Data Only	none	none	IBM 360/370	fixed	5664	padded	binary	TBD	The tapes contain one file each and do not contain standard OS/360 tape labels. Each physical record contains 5664 bytes in four 1416-byte logical records. The last few records of the last tapes in the data set 64-054A-16B has varied field padded with the
+SPHE-00177	74-097A-03A	5	DSC_0506	Helios	Helios 1	Search Coil Magnetometer	8-S Avg Spect Den 8 Chan 6.8-1470	none	none	IBM 360/370	variable	1216	none	binary	TBD	
+SPHE-00179	77-102B-01B	1	DSC_434	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00180	78-079A-01N	5	DSC_0683	ISEE	ISEE 3	Solar wind plasma, 2-D and 3-D distr. fns. p: 150eV - 7keV; e: 10eV-1keV	24/168-S SW(8/78-2/80),GZ(9/85)	none	none	VAX	variable	2048	none	character	TBD	
+SPHE-00181	78-079A-02M	1	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00192	77-084A-06N	4	DSC_0787	TBD	Voyager 1	Plasma Spectrometer (PLS)	1-Hr Solar Wind Plasma Archive	none	none	VAX	TBD	0	none	character	TBD	This collection is already on the NSSDC FTP site. I suspect that it is also on the bulk spreadsheet. It should probably not be a part of the tape migration effort, but should be brought into the archive via normal ingest.
+SPHE-00195	72-012A-01J	4	DSC_0728	Pioneer	Pioneer 10	Magnetic Fields	1-Min HVM Interpl Cruise Data	none	none	VAX	variable	2048	padded	character	ANSI	
+SPHE-00199	73-019A-12D	5	DSC_0761	Pioneer	Pioneer 11	Cosmic-Ray Spectra	6 hour CRT Interplanet Data,SFDU	none	none	VAX	fixed	1024	none	character	ANSI	An ASCII conversion of this collection is already on the NSSDC FTP site, but it has not yet been officially archived
+SPHE-00202	78-079A-04C	5	DSC_0683	ISEE	ISEE 3	Medium Energy Cosmic Rays, 1-500 MeV/n, Z = 1-28; Electrons: 2-10 MeV	15-m + 2-hr Cosmic Ray Fluxes	none	none	VAX	variable	1961	none	character	TBD	
+SPHE-00203	78-079A-02N	1	DSC_489	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00204	78-079A-02I	2	DSC_608	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00206	78-079A-01C	1	DSC_548	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00207	76-003A-10A	2.5	DSC_488	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00213	73-078A-08E	2	DSC_553	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	Data in SPHE-00213 and SPMS-00490
+SPHE-00214	73-078A-07D	6	DSC_0380	IMP	IMP 8	Cosmic Ray Nuclear Composition	Hour Avg Alphas 11-90 MeV per Nuc	none	none	IBM 360/370	variable	80	none	character	TBD	DR003830   73-078A-07D   161 FILES.
+SPHE-00215	73-078A-03C	6	DSC_0476	IMP	IMP-J	Solid-State Detectors	Summary Data Files	none	none	IBM 360/370	fixed	8640	none	binary	TBD	
+SPHE-00219	73-078A-02D	3	DSC_0499	IMP-J	IMP-J	Solar Plasma Faraday Cup	5 Min Resolution Plasma Parameter	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00222	72-012A-11C,73-019A-11D	3	DSC_0551	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00223	73-019A-05C	2.5	DSC_364	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00225	72-073A-01A	6	DSC_0552	IMP	IMP 7	Magnetic Fields	15-s Averaged Mag Fld Vectors	none	none	IBM 360/370	variable	16564	none	binary	TBD	04/14/03 - Natasha is ingesting them to nssdcftp now but remain to be run through DIOnAS.
+SPHE-00228	72-012A-13D	2	DSC_412	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00231	71-008C-08B	6	DSC_0216	Apollo	Apollo 14 ALSEP	Charged Particle Lunar Environment	Exper Posn,Orientation Info	none	none	IBM 7044/7090/7094	fixed	258	none	binary	TBD	an SDS 92 computer in integer 36-bit format. There are 3 files, one for each year -- 1971, 1972, and 1973. One set of data is given for every 2 hr in each record
+SPHE-00232	69-053A-09B,69-053A-10B	6	DSC_0316	IMP	IMP-G	Cosmic-Ray Energy vs Energy Loss	2.73 Min Count Rates	none	none	IBM 360/370	variable	4124	none	binary	TBD	Merged with dataset 69-053A-09B.
+SPHE-00235	68-100A-03C	4	DSC_0124	Pioneer 9	Pioneer 9	Two-Frequency Beacon Receiver	Corrected Electron Density	none	none	IBM 7044/7090/7094	fixed	0	none	binary	TBD	
+SPHE-00237	68-014A-17B	6	DSC_0247	OGO	OGO 5	Plasma Spectrometer	Hr. Avg Plasma Parameters	none	none	Unisys/Univac 36-bit	fixed	80	padded	character	TBD	This datasets was excluded from OTTO it has \\\"restored\\\" data on DR tapes and \\\"unrestored\\\" data on DD tapes.
+SPHE-00241	68-014A-04C	6	DSC_0232	OGO	OGO 5	Energetic Radiations from Solar Flares	Proton + Alpha Count Rates	none	none	CDC 6000/7000	fixed	2966	none	character	TBD	Tape written in a BCD card image format.
+SPHE-00246	66-075A-06A	6	DSC_0112	Pioneer 7	Pioneer 7	Cosmic-Ray Telescope	Count Rate + Pulse Height Data	none	none	IBM 7044/7090/7094	variable	4500	none	binary	TBD	There are two different type of logical records: header records data records. 
+SPHE-00247	66-075A-04D	3	DSC_0124	Pioneer	Pioneer  7	Two Frequency Beacon Receiver	Corrected Electron Density	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00250	66-058A-04A	6	DSC_0021	Explorer	Explorer 33	Ion Chamber and GM Counters	Orig GM & Ion Chamber Counts	none	none	IBM 7044/7090/7094	variable	3460	none	character	TBD	Each file on a tape has a 12-character index, which identifies the original GSFC tapes from which the data were taken, and a variable number of 865-character data records. Each data record contains four data sequences.
+SPHE-00251	66-058A-03F	5	DSC_0311	Explorer	Explorer 33	Ames Magnetic Fields	82 Sec Avg Vectors, Reblocked	none	none	IBM 360/370	variable	27600	none	binary	TBD	
+SPHE-00254	64-054A-21I,66-049A-22K	6	DSC_0094	OGO	OGO 3	Electron Spectrometer	L Interpolated Count Rates	none	none	IBM 7044/7090/7094	variable	84	none	character	TBD	On a BCD magnetic tape generated at NSSDC. Merged with dataset 64-054A-21I. Missing DR and DS tape.
+SPHE-00258	66-049A-12A	6	DSC_0122	OGO	OGO 3	Triaxial Search-Coil Magnetometer	Search Coil Mag. BCD Data	none	none	IBM 7044/7090/7094	variable	168	none	character	TBD	BCD magnetic tapes contain 36.864-s-averaged search coil magnetometer data from all experiment modes.  This datasets was excluded from OTTO it has \"restored\" data on DR tapes and \"unrestored\" data on DD tapes.
+SPHE-00264	65-042A-02D	6	DSC_0017	IMP	IMP 3	Fluxgate Magnetometer	Fluxgate Magnetometer, Packed	none	none	IBM 7044/7090/7094	fixed	1140	none	binary	TBD	The tape was generated at NSSDC with the data blocked ten logical records per physical record. 19 words per logical record.
+SPHE-00265	68-109A-02A,72-005A-01A	6	DSC_0279	OGO	OGO 6	Neutral Atmosphere Composition	Neutral Atmos. Composition	none	none	IBM 7044/7090/7094	variable	1284	none	character	TBD	Merged with dataset 68-109A-02A. 
+SPHE-00280	82-041A-01A	5	0	STS S81-1	STP S81-1	Cosmic Ray Isotope Experiment-Low Energy (ONR-602) (Phoenix 1)	Full Res. PHRETT Rate/PHA Data	none	none	VAX	variable	0	none	character	TBD	NO DSC# FOUND
+SPHE-00282	59-009A-04A	6	DSC_0004	Explorer	Explorer 7	Trapped Radiation and Solar Protons	Trapped Rad. + Solar Proton Data	none	none	IBM 7044/7090/7094	fixed	114	none	binary	TBD	Tape format was written orignially BCD, restored tape written in EBCDIC. (exps 3&4, but not 1 which is Earth science)
+SPHE-00287	90-090B-12A	3	DSC_0801	Ulysses	Ulysses	Ulysses Energetic Particle Composition EPAC Experiment	EPAC 1-Hr Avg Proton_Elect Flux	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00298	73-078A-01J,73-078A-02H,73-078A-10G	6	DSC_0552	IMP	IMP 8	Solar Plasma Electrostatic Analyzer	5-min Mag Fld and Plasma Params	none	none	IBM 360/370	variable	7920	none	character	TBD	Merged with datasets 73-078A-01J and 73-078A-02H. 
+SPHE-00310	73-019A-13K	4.5	DSC_0797	Pioneer	Pioneer 11	Quadrispherical Plasma Analyzer	P-11, Solar Wind Plasma Archive	none	none	VAX	fixed	110	none	binary	ANSI	plasma in pathname to conform to existing FTP path structure
+SPHE-00311	78-079A-05A	5	DSC_0768	ISEE 3	ISEE 3	High-Energy Cosmic Rays, H to Ni, 20-500 MeV/n	Hi-Energy Cosmic Ray Comp Tables	none	none	VAX	TBD	0	none	character	TBD	
+SPHE-00315	78-051A-18F	3.5	DSC_0725	Pioneer Venus Orbiter	Pioneer Venus Orbiter	Solar Wind Plasma Analyzer OPA	Plasma Summary Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00318	78-079A-12A	4.5	DSC_0590	ISEE	ISEE 3	Cosmic Ray Isotope Spectrometer 5-250 MeV/n; Z=3-28; A=6-64; (Li-Ni)	15-min Avg Flux: H, He & Z>2	none	none	PDP-1	variable	7820	none	binary	TBD	
+SPHE-00319	78-079A-02O	4.5	DSC_0608	ISEE	ISEE 3	Vector Helium Magnetometer	3-S & 1-M B Fld Averages, Geotail	none	none	VAX	fixed	7680	none	binary	TBD	
+SPHE-00321	77-102B-01I	3	DSC_0681	ISEE	ISEE 2	Fast Plasma Expt. FPE 5eV to 20keVe 5ev to 40 keV p 2-D and 3-D distrib. fns	FPE-2-D-ION-MOM-N_V_T 3S and 12S	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00322	77-102A-05D	1.5	DSC_647	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	Data in SPHE-00322 and SPHE-00670
+SPHE-00324	76-003A-01B	2.5	DSC_533	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00327	63-046A-05A	2.5	DSC_011	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00328	63-046A-07A	3	DSC_0012	IMP-A	IMP-A	Faraday Cup	3-hr Avgs of Plasma Params	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	Data in SPHE-00328 and SPHE-00399
+SPHE-00329	66-075A-04A	3	DSC_0100	Pioneer	Pioneer  7	Two-Frequency Beacon Receiver	Total Elect Content, Hrly Val DD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00333	65-042A-02A	4	DSC_0017	IMP	IMP-3	Fluxgate Magnetometer	5.46 Min Avg Vector Mag Field	none	none	IBM 360/370	variable	15200	none	binary	TBD	
+SPHE-00334	64-060A-02C	3	DSC_0015	IMP-B	IMP-B	Fluxgate Magnetometer	5.46min Av Blckd BCD Ver of -02A	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00335	64-060A-01A	2	DSC_014	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00338	63-046A-02A	2	DSC_013	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00340	68-014A-14F	6	DSC_0113	OGO	OGO 5	UCLA Triaxial Fluxgate Magnetometer	1-Min Avg B-Field,GSM Coord.	none	none	IBM 360/370	variable	5132	none	binary	TBD	The data are on a UCLA standard-labeled, IBM 360, binary magnetic tape, with one orbit period per data file. There is a header and trailer file for each data file. HOLD, unresolved questions remain...GLS
+SPHE-00342	67-073A-09A	6	DSC_0107	OGO	OGO 4	Galactic and Solar Cosmic Rays	Particle Count Rates	none	none	CDC 1604	variable	11520	packed	binary	TBD	Read errors occurred in records 1028,file 1 tape D004744, and D004902 records 531,1137,1160,1260 on file 1.Plots of the count ratesare avilable on one reel of microfilm data set 67-073A-09B 
+SPHE-00343	67-070A-03F	5	DSC_0302	Explorer 35	Explorer 35	AMES Magnetic Fields	82 Sec Averaged Vectors Reblock	none	none	IBM 360/370	variable	27600	none	binary	TBD	Tape was created from 67-070a-03c
+SPHE-00344	66-058A-03B,67-070A-03B	4	DSC_0156	Explorer 33	Explorer 33	AMES Magnetic Fields	Hour Avg B Field Vectors	none	none	IBM 9021	fixed	0	none	binary	TBD	
+SPHE-00345	67-070A-02A	6	DSC_0101	Explorer	Explorer 35	Energetic Particle	Orig GM & Ion Chamber Counts	none	none	IBM 360/370	variable	870	none	character	TBD	The first file on each stacked tape is a one-record file that serves as an index to that short tape. Each physical record is 865 characters long and can contain 72 12-character logical records.
+SPHE-00346	67-051A-11D	6	DSC_0251	IMP	IMP 4	Triaxial Fluxgate Magnetometer	2.5 Sec Mag Fld Vectors	none	none	IBM 360/370	variable	19716	none	binary	TBD	D01643 contain 9 files. During the restoration process 2 of the original tapes were very difficult to read, only partial records were copied. Those 2 tapes were d012965,d012866.
+SPHE-00349	78-079A-12B	5	DSC_0590	ISEE	ISEE 3	Cosmic Ray Isotope Spectrometer 5-250 MeV/n; Z=3-28; A=6-64; (Li-Ni)	Hour Average Flux H, He, & Z>2	gzip	none	PDP-1	variable	7948	none	binary	TBD	 
+SPHE-00350	78-079A-11A	5	DSC_0694	ISEE	ISEE 3	Solar Wind Ion Composition, 300-600 km/s 840 eV/Q to 11.7 keV/Q; M/Q = 1.5 to 5.6	Helium Ions, N,V,T; Hourly Avgs	none	none	VAX	variable	2048	none	character	ANSI	
+SPHE-00352	78-079A-03E	1	DSC_696	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00354	78-079A-02K	3.5	DSC_0489	ISEE	ISEE 3	Vector Helium Magnetometer	1h and 1d B-Field Avgs From -02D	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00355	78-079A-01P	4.5	DSC_0683	ISEE 3	ISEE 3	Solar wind plasma, 2-D and 3-D distr. fns. p: 150eV - 7keV; e: 10eV-1keV	SW Protons Bulk Flow Latitude,5-m	none	none	VAX	fixed	0	none	character	TBD	
+SPHE-00358	76-003A-03A	4.5	DSC_0506	Helios	Helios 2	Search Coil Magnetometer	8-S Avg Spt Den 8 Chan 6.8-1470HZ	none	none	PDP-11	variable	1600	none	binary	TBD	Read errors occurred in records 12727&12728 of file 1 
+SPHE-00359	73-078A-01K,73-078A-02K,73-078A-05F,73-078A-08J	6	DSC_0699	IMP	IMP-J	Charged Particle Measurements Experiment (CPME)	20-s Prtcl, 15-s Mag, 1-m Plsma	none	none	VAX	fixed	1700	none	binary	TBD	Merged with datasets 73-078A-01K, -02K and -05F. Each record consists of 25-byte words.
+SPHE-00360	73-078A-06C	6	DSC_0380	IMP	IMP 8	Elec+H+He Solid St Tele	Hourly Averaged Electrons 1-5 MeV	none	none	IBM 360/370	variable	80	none	character	TBD	
+SPHE-00361	73-078A-03D	6	DSC_0380	IMP	IMP 8	Solid-State Detectors -- Solar Ions and Electrons, 100 keV	1-Hr Avg Protons 160-220 KeV	none	none	IBM 360/370	variable	80	none	character	TBD	 
+SPHE-00362	73-078A-03B	6	DSC_0296	IMP	IMP 8	Solid-State Detectors -- Solar Ions and Electrons, 100 keV	All Count Rates on Encyclo. Files	none	none	IBM 360/370	variable	4320	none	binary	TBD	 
+SPHE-00364	73-078A-01B	2.5	DSC_357	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00366	73-019A-01B	4.5	DSC_0353	Pioneer 11	Pioneer 11	Magnetic Fields	1 Min, Hourly, Daily Avg. Cruise	none	none	IBM 360/370	variable	0	none	binary	TBD	
+SPHE-00367	72-073A-07B	6	DSC_0341	IMP	IMP 7	Solar Flare High-z/Low-e and Low-e Isotope	5.46-Min Avg Count Rates	none	none	Xerox/SDS Sigma 9	fixed	2640	padded	binary	TBD	
+SPHE-00368	72-012A-13C	3.5	DSC_0412	Pioneer	Pioneer 10	Quadrispherical Plasma Analyzer	Full History Solar Wind Protons	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00369	71-019A-09A	6	DSC_0234	IMP	IMP 6	Nuclear Composition of Cosmic and Solar Particle Radiations	Count Rates + PHA(SST)	none	none	Xerox/SDS Sigma 9	variable	2489	none	binary	TBD	 
+SPHE-00371	68-100A-07D	6	DSC_0158	Pioneer	Pioneer 9	Electric Field Detector	E-Field (100,400,3.E4 Hz)	none	none	IBM 7044/7090/7094	variable	2762	TBD	binary	TBD	
+SPHE-00375	68-014A-14E	6	DSC_0113	OGO	OGO 5	UCLA Triaxial Fluxgate Magnetometer	1-Min Avg B-Field,GSE Coord.	none	none	IBM 360/370	variable	1232	none	binary	TBD	The data are on UCLA standard-labeled, IBM 360 binary magnetic tapes, with multiple files per tape and one orbit per file. There are header and trailer files for each data file. The block size is 1232 characters.
+SPHE-00376	68-014A-14B	6	DSC_0113	OGO	OGO 5	UCLA Triaxial Fluxgate Magnetometer	1-Min Avg B-Field,S/C Coords	none	none	IBM 360/370	variable	5134	none	binary	TBD	Standard label removed.
+SPHE-00378	68-014A-06D	6	DSC_0271	OGO	OGO 5	Electron and Proton Spectrometer	L-Sorted Elect Flux_Chan 1-5	none	none	IBM 7044/7090/7094	fixed	84	none	character	TBD	
+SPHE-00383	65-042A-02I,66-058A-01D,67-051A-11C,67-070A-04C	6	DSC_0203	IMP	IMP-D	GSFC Magnetometer	Multi-S/C Hr Avg Inpl B Vrs	none	none	IBM 360/370	fixed	80	none	character	TBD	Merged with datasets 65-042A-02I, 67-051A-11C and 67-070A-04C.
+SPHE-00384	67-070A-03C	5	DSC_0302	Explorer	Explorer 35	Ames Magnetic Fields	82 Sec Avgd Vectors, DCS Data	none	none	IBM 7044/7090/7094	variable	2760	packed	Binary	TBD	
+SPHE-00385	67-051A-08B,67-051A-11A	6	DSC_0180	IMP	IMP-F	Triaxial Fluxgate Magnetometer	20-Sec Mag Fld Vectors	none	none	IBM 360/370	variable	31364	none	binary	TBD	Each physical record contains 280 logical records, and each logical record contains 27-byte data words plus a byte block control word. Also on this tape are some merged 3 min average bulk plasma data from data set 67-051A-08B 
+SPHE-00387	67-051A-03D	6	DSC_0098	IMP	IMP 4	Cosmic-Ray Proton (R vs DE/DX)	5-Min Avg Count Rates(Nonoverlap)	none	none	Xerox/SDS Sigma 9	variable	7524	none	character	TBD	Each file contains counting rate data for one orbit. There are a variable number of physical records (each containing 57 33-word BCD logical records) per file.
+SPHE-00389	65-105A-04A	6	DSC_0100	Pioneer	Pioneer 6	Two-Frequency Beacon Receiver	Total Elect Content,Hrly Val (DD)	none	none	IBM 7044/7090/7094	variable	84	none	character	TBD	Non-merged dataset, original DD tape shared with another dataset, used original DD record in IDA.Theses data set was merged together with this data set mariner5 67-060A-02A,PIONEER-7 66-075A-04A,PIONEER-8 67-123A-03A AND PIONEER-9 68-100A-03A To make one 
+SPHE-00392	65-042A-05C	6	DSC_0170	IMP	IMP 3	Ion Chamber and GM Counters	Reordered GM+Ion Cham Counts	none	none	IBM 7044/7090/7094	variable	1080	none	character	TBD	
+SPHE-00393	65-042A-03C	6	DSC_0139	IMP	IMP 3	Cosmic-Ray Range vs Energy Loss	Reduced CR PHA (PHAEST) Data	none	none	Xerox/SDS Sigma 9	fixed	1836	none	binary	TBD	
+SPHE-00394	65-042A-02E	6	DSC_0017	IMP	IMP 3	Fluxgate Magnetometer	Interplanetary B Field,Hrly Avgs	none	none	IBM 360/370	fixed	79	none	character	TBD	
+SPHE-00395	65-042A-02C	6	DSC_0017	IMP	IMP 3	Fluxgate Magnetometer	Merged Magnetometer + Ephemeris	none	none	IBM 7044/7090/7094	variable	1044	none	binary	TBD	
+SPHE-00396	64-060A-03A	6	DSC_0054	IMP	IMP-2	Cosmic-Ray Range vs Energy Loss	Reduced Count Rates+PHA C.R. Data	none	none	IBM 7044/7090/7094	variable	3618	none	binary	TBD	
+SPHE-00399	63-046A-07B	6	DSC_0012	IMP	IMP-A	Faraday Cup	Plasma Parameters, Irreg Interval	none	none	IBM 360/370	fixed	84	none	character	TBD	Data in SPHE-00328 and SPHE-00399. Experimenter-supplied plasma parameter data set.  7-track, 556-bpi, BCD magnetic tape.  Derived through analysis of superimposed cup current plots (ds 63-046A-07C). 84 characters per logical record, 1 logical record.
+SPHE-00400	63-046A-05B	6	DSC_0835	IMP	IMP 1	Ion Chamber and GM Counters	Time-Sorted GM+Ion Chamber Cnts	none	none	IBM 7044/7090/7094	variable	1080	none	character	TBD	The first file on the tape is a 12-character index that identifies the original GSFC tape from which the data were taken.  Following, variable number of files containing 1032-character data records, each of which consists of 18 56-character logical record
+SPHE-00401	63-046A-02B	6	DSC_0013	IMP	IMP 1	Fluxgate Magnetometer	5.46-min Magnetometer + Ephemeris	none	none	IBM 7044/7090/7094	fixed	1392	packed	binary	TBD	Each physical record of 232 words consists of a fortran control word followed by 7 logical 33 records.
+SPHE-00406	90-090B-06K	3	0	Ulysses	Ulysses	Unified Radio and Plasma Waves STO_URAP	WFA 10m Spectra, Avg B-Field	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00411	90-090B-10D	3	DSC_0819	Ulysses	Ulysses	Coronal Sounding radio science SCE	SCE 1-s Doppler Data Conj. C4	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00412	82-041A-01B	5	0	STP S81-1	STP S81-1	Cosmic Ray Isotope Experiment Low Energy ONR 602 Phoenix1	COALT Z gtr thn 1 Heavy Ion Event	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00413	90-090B-13B	1	DSC_823	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00421	73-019A-01I	4	DSC_0767	Pioneer	Pioneer 11	Magnetic Fields	1-Hr HVM Interpl Magnetic Field	none	none	IBM 3081	fixed	372	none	binary	TBD	dsc seem to be lost
+SPHE-00422	72-012A-01K	3.5	DSC_0767	Pioneer	Pioneer 10	Magnetic Fields	1-Hr HVM Interpl Magnetic Field	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00423	77-084A-05O	4.5	DSC_0759	Voyager	Voyager 1	Triaxial Fluxgate Magnetometer MAG	V-1 Hr Avg Interpl Magnetic Fld	none	VMS Backup	VAX	variable	65000	none	character	TBD	
+SPHE-00425	73-019A-05H	4.5	DSC_0724	Pioneer 11	Pioneer 11	Jovian Trapped Radiation	30 min Interplanetary Data,SFDU	none	none	VAX	variable	1800	padded	character	ANSI	 There is a version of these data already staged on NSSDC FTP.
+SPHE-00426	78-079A-01Q,78-079A-02P	5	DSC_0800	ISEE 3	ISEE 3	Solar wind plasma, 2-D and 3-D distr. fns. p: 150eV - 7keV; e: 10eV-1keV	Plasma & B-Field(1-m) Tail Data	none	none	VAX	fixed	10807	none	character	TBD	
+SPHE-00429	78-079A-03C	5	DSC_0589	ISEE	ISEE 3	Low-Energy Cosmic Rays	512-S Rates H, He, and Z>2	none	none	IBM 360/370	variable	6400	none	binary	TBD	
+SPHE-00433	78-079A-01D	4	DSC_0531	ISEE	ISEE 3	Solar wind plasma, 2-D and 3-D distr. fns. p: 150eV - 7keV; e: 10eV-1keV	Solar Wind Data, 5-min	none	none	IBM 3081/32-bit	fixed	5600	none	binary	TBD	replacement of the restored tape was replaced with DD from DR
+SPHE-00435	77-102B-05B	1	DSC_541	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00436	76-003A-02A	1	DSC_501	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00440	73-078A-07A	6	DSC_0393	IMP	IMP 8	Cosmic Ray Nuclear Composition	Rate and PHA Data	none	none	IBM 360/370	fixed	1464	none	binary	TBD	Originally there were 632 7-track, 800 BPI tapes  and 9-track, 1600 tapes.  This datasets was excluded from OTTO it has \"restored\" data on DR tapes and \"unrestored\" data on DD tapes.
+SPHE-00441	73-078A-05D	1.5	DSC_426	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	Data in SPHE-00101, SPHE-00441
+SPHE-00442	73-078A-02G	1	DSC_409	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00443	73-019A-13H	2	DSC_412	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	Data in SPHE-00006, SPHE-00094, SPHE-00443, XXNO-00557
+SPHE-00446	73-019A-01G	3	DSC_0353	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00448	72-012A-13K	1.5	DSC_412	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	Data in SPHE-00448, SPHE-00449, SPHE-00450, XXNO-00036
+SPHE-00449	72-012A-13J	1.5	DSC_412	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	Data in SPHE-00448, SPHE-00449, SPHE-00450, XXNO-00036
+SPHE-00450	72-012A-13I	2	DSC_412	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	Data in SPHE-00448, SPHE-00449, SPHE-00450, XXNO-00036
+SPHE-00454	76-003A-02B	4.5	DSC_0501	Hellios-B	Helios-B	Fluxgate Magnetometer for Average Fields	6-sec Averaged Magnetic Field	none	none	IBM 360/370	fixed	0	none	binary	TBD	Data in SPHE-00454 and SPHE-00455
+SPHE-00455	74-097A-02B	1	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	Data in SPHE-00454 and SPHE-00455
+SPHE-00459	73-019A-11E	4.5	DSC_0719	Pioneer 11	Pioneer 11	Jovian Charged Particles	15 min GTT Interplanet Data,SFDU	none	none	VAX	fixed	30833	none	binary	TBD	DDP NSSD0068 SFDU Format. An ASCII conversion (two actually) are on the NSSDC FTP site, but neither has been officially ingested.
+SPHE-00460	72-012A-11D	4.5	DSC_0719	Pioneer 10	Pioneer 10	Jovian Charged Particles	15 min GTT Interplanet Data,SFDU	none	none	VAX	fixed	29856	none	binary	TBD	DDP NSSD0068 SFDU Format. An ASCII conversion is on the NSSDC FTP site, but it has not been officially ingested.
+SPHE-00464	77-102B-01G	1	DSC_541	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00465	77-102A-05E	4.5	DSC_0696	ISEE	ISEE 1	Low Energy Cosmic Ray Experiment	Count Rates Summary Data	none	none	IBM 360/370	variable	8768	none	character	TBD	multi-filed,bin
+SPHE-00466	69-053A-07B	3.5	DSC_0199	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00473	68-014A-16B	6	DSC_0123	OGO	OGO 5	Triaxial Search-Coil Magnetometer	Search Coil Data .03-1000 Hz	none	none	IBM 360/370	fixed	420	none	character	TBD	Multiple-file, EBCDIC, digital magnetic tapes produced on an IBM 360/91 computer. These data set tapes have20 characters per record and about 1500 records per file, each of which represents one spacecraft orbit or about 2.7 days.  This datasets was exclud
+SPHE-00474	67-051A-05A	6	DSC_0174	IMP	IMP 4	Cosmic-Ray Anisotropy	Hourly Avgd Count Rates	none	none	IBM 360/370	fixed	19200	none	character	TBD	Each physical record consists of 240 card image logical records.
+SPHE-00475	66-058A-03C	5	DSC_0311	Explorer	Explorer 33	Ames Magnetic Fields	82 Sec Avgd Vectors, DCS Data	none	none	IBM 7044/7090/7094	variable	2760	padded	binary	TBD	
+SPHE-00478	66-049A-10B	6	DSC_0117	OGO	OGO 3	Trapped Radiation Scintillation Counter	Prot+Elec,Hi-Rate Data Only	none	none	IBM 360/370	variable	7554	padded	binary	TBD	The tapes contain one file each and do not have standard OS/360 tape labels. The data are written on the tapes in 5664-byte physical records, and each physical record contains four 1416-byte logical records.There also 66-049a-10a on this tape
+SPHE-00481	78-051A-18E	3	DSC_0725	Pioneer Venus Orbiter	Pioneer Venus Orbiter	Solar Wind Plasma Analyzer OPA	Hourly Averaged Plasma Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00482	73-019A-02D	5	DSC_0746	Pioneer	Pioneer 11	Charged Particle Composition (CPI)	15 min CPI Interplanet Data,SFDU	none	none	VAX	variable	184	none	character	TBD	An ASCII conversion of this collection is already on the NSSDC FTP site, but it has not yet been officially archived
+SPHE-00483	81-076A-02A	2	DSC_646	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00488	90-090B-03B	2.5	DSC_769	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00490	77-076A-05X	5	DSC_0759	Voyager	Voyager 2	Triaxial Fluxgate Magnetometer (MAG)	V-2 Hr Avg Interpl Magnetic Fld	none	none	VAX	variable	6500	none	character	ANSI	
+SPHE-00492	72-012A-06C	5	DSC_0802	Pioneer 10	Pioneer 10	Ultraviolet Photometry	UV Cruise Archive, Daily Avg.	none	VMS Backup	VAX	TBD	0	none	character	TBD	
+SPHE-00493	77-076A-06R	2	DSC_750	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00494	72-012A-01I	4.5	DSC_0728	Pioneer 10	Pioneer 10	Magnetic Fields	15 min HVM Interplan Data, SFDU	none	VMS Backup	IBM 360/370	fixed	0	none	character	TBD	Vax labeled
+SPHE-00497	78-079A-01L	1	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00498	78-051A-01A,78-051A-02B,78-051A-07A,78-051A-11A,78-051A-12A,78-051A-13A,78-051A-15B,78-051A-17A,78-051A-18C	4.5	DSC_0537	Pioneer 1	Pioneer 1	Electric Field Detector (OEFD)	Solar Wind Plasma (UADS-LFD File)	none	none	IBM 360/370	fixed	0	none	binary	TBD	
+SPHE-00499	77-102B-05C	1	DSC_541	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00501	76-003A-08B	2.5	DSC_473	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00503	76-003A-01A	4.5	0	Helios-B	Helios-B	Fluxgate Magnetometer for Field Fluctuations	Hourly Avg Mag Field Vector Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00505	73-078A-09B	6	DSC_0380	IMP	IMP 8	Solar and Cosmic-Ray Particles	1-Hr Avgd,40-80 MeV Proton Flux	none	none	Modcomp	fixed	320	none	character	TBD	
+SPHE-00506	72-073A-08O,73-078A-08I	1.5	DSC_672	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00511	73-078A-01H	1	DSC_607	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00515	72-073A-05A	6	DSC_0369	IMP	IMP 7	Electrons and Protons gr 50 KeV -- APL	30-Min Averaged Count Rates	none	none	CDC 6000/7000	fixed	5864	none	binary	TBD	Created on CDC6600 but are in IBM 32-bit format.
+SPHE-00516	72-073A-03C	6	DSC_0476	IMP	IMP-H	Ions and Electrons in the Energy Range 0.1 to 2 MeV	Summary Data	none	none	IBM 360/370	fixed	8640	TBD	binary	TBD	This datasets was excluded from OTTO it has \"restored\" data on DR tapes and \"unrestored\" data on DD tapes.
+SPHE-00517	72-073A-02A	6	DSC_0409	IMP	IMP-H	Solar Plasma Faraday Cup	H,J Hourly Avgd Solar Plasma	none	none	IBM 360/370	fixed	10600	TBD	character	TBD	Data in SPHE-00517, SPHE-00698
+SPHE-00518	72-012A-13E	2	DSC_412	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	Data in SPHE-00228 SPHE-00368, SPHE-00518, XXNO-00039
+SPHE-00520	69-053A-03A	6	DSC_0193	IMP	IMP-G	Cosmic-Ray Proton (R vs DE/DX)	Rates for All Nonoverlap Sequence	none	none	Xerox/SDS Sigma 9	variable	3264	TBD	binary	TBD	Words per logical rec. = 8
+SPHE-00525	68-014A-09B	6	DSC_0253	OGO	OGO 5	Cosmic Ray Electrons	1min Charged Part Accums+PHA	none	none	Xerox/SDS Sigma 9	variable	4800	none	binary	TBD	This datasets was excluded from OTTO it has \\\"restored\\\" data on DR tapes and \\\"unrestored\\\" data on DD tapes. 
+SPHE-00529	67-123A-03A	3	0	Pioneer	Pioneer  8	Two-Frequency Beacon Receiver	Total Elect Content, Hrly Val DD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00531	67-051A-03C	6	DSC_0098	IMP	IMP 4	Cosmic-Ray Proton (R vs DE/DX)	PHA Event Summaries (Nonoverlap)	none	none	Xerox/SDS Sigma 9	variable	2400	padded	binary	TBD	There are a variable number of physical records (each containing 600 binary words) per file.
+SPHE-00532	67-051A-03A	6	DSC_0098	IMP	IMP 4	Cosmic-Ray Proton (R vs DE/DX)	Rates for All Nonoverlap Seq.	none	none	Xerox/SDS Sigma 9	fixed	3264	none	binary	TBD	Each file on the tape contains accumulator count data for one orbit and has a variable number of physical records (containing 816 binary words each). Each physical record has 102 sequences (logical records). 
+SPHE-00536	66-058A-01C	4	DSC_0207	Explorer 33	Explorer 33	GSFC Magnetometer	82 Sec Vr Mag Field Data	none	none	IBM 7044/7090/7094	fixed	3876	none	binary	TBD	 
+SPHE-00537	66-058A-01A	6	DSC_0097	IMP	IMP-D	GSFC Magnetometer	5.12 Sec Vector Mag Field Data	none	none	IBM 360/370	variable	4388	none	binary	TBD	This datasets was excluded from OTTO it has \"restored\" data on DR tapes and \"unrestored\" data on DD tapes.
+SPHE-00539	66-049A-23B	6	DSC_0089	OGO	OGO 3	Ionization Chamber	Ion Chamber Conden Pulse Rte	none	none	IBM 7044/7090/7094	variable	5989	none	binary	TBD	On binary magnetic tape written on an IBM 7094.
+SPHE-00540	65-042A-05A	3	DSC_0170	IMP-C	IMP-C	Ion Chamber and GM Counters	Orig GM and Ion Chamber Counts	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00542	65-042A-02B	4	DSC_0017	MP-C	IMP-C	Fluxgate Magnetometer	Blocked BCD Version	none	none	IBM 7044/7090/7094	fixed	0	none	binary	TBD	
+SPHE-00544	64-060A-02D	3.5	DSC_0015	IMP-B	IMP-B	Fluxgate Magnetometer	Merged Magnetometer + Ephemeris	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00546	64-054A-21C	6	DSC_0216	OGO	OGO 1	Electron Spectrometer	Reduced Count Data, Accumulated	none	none	IBM 7044/7090/7094	variable	7500	none	binary	TBD	Each tape contains one file of reduced data, made up of an arbitrary number of records and covering an arbitrary amount of time. The records are of variable length: 21 to 1000 48-bit words.
+SPHE-00547	64-054A-18C	6	DSC_0058	OGO	OGO 1	Cosmic-Ray Spectra and Fluxes	Proton-Alpha Telescope PHA Data	none	none	Xerox/SDS Sigma 9	variable	4098	none	binary	TBD	Each tape has a 56-character header record followed by a variable number of files. Each file has a 25-character header record followed by a variable number of098-character records. Read errors occured in rec 25 file 1, rec 17 file 8 rec 8&14 file rec 6 fi
+SPHE-00548	63-046A-07D	6	DSC_0216	IMP	IMP-A	Faraday Cup	Chgd Part. Fluxes vs E+Time	none	none	IBM 360/370	fixed	1954	none	character	TBD	All available measurements made by the MIT Faraday cup experiment have been converted by the experimenter to what can best be described as \"engineering\" units, on five 800-bpi, 7-track, FORTRAN IV, BCD magnetic tapes produced on an IBM 360.
+SPHE-00550	65-105A-02D	6	DSC_0278	Pioneer	Pioneer 6	Solar Wind Plasma Faraday Cup	Hour Avg Plasma Parameters	none	none	IBM 360/370	fixed	2862	none	character	TBD	
+SPHE-00551	65-081A-07A	6	DSC_0133	OGO	OGO 2	Low-Energy Proton, Alpha Particle Measurement	Cosmic Ray Count Rates	none	none	IBM 7044/7090/7094	variable	7164	none	binary	TBD	Binary written on an IBM 7094 computer. Each tape has a 20-word file header record followed by a variable number of physical records (each having a six-word record header). There are a variable number of logical records per physical record.  This datasets
+SPHE-00557	63-046A-02C	1.5	DSC_013	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00559	65-058A-04C,65-058B-04C	6	DSC_0137	Vela	Vela 3A	Electrostatic Analyzer and GM Tubes	3-Hr Avg Solar Wind Den,Vel,Dir,T	none	none	IBM 7044/7090/7094	fixed	84	none	character	TBD	merged with 65-058B-04C, check names 
+SPHE-00562	68-109A-06B	6	DSC_0250	HEOS	HEOS 1	Cosmic-Ray Particle Flux	Proton Counts	none	none	IBM 360/370	variable	24084	none	binary	TBD	
+SPHE-00564	90-090B-06J	3	0	Ulysses	Ulysses	Unified Radio and Plasma Waves STO_URAP	WFA 10m Spectra Peak E-Field	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00565	90-090B-06G	3	DSC_0849	Ulysses	Ulysses	Unified Radio and Plasma Waves STO_URAP	RAR 10m Spectra Avg E-Field	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00569	90-090B-06D	3	0	Ulysses	Ulysses	Unified Radio and Plasma Waves STO_URAP	URAP 24h Summary Plot Postscript	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00585	72-012A-02D	5	DSC_0727	Pioneer	Pioneer 10	Charged Particle Composition (CPI)	15 min CPI Interplanet Data,SFDU	none	none	VAX	fixed	32256	none	character	TBD	
+SPHE-00590	73-078A-08G	2.5	DSC_672	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00591	73-078A-08A	6	DSC_0330	IMP	IMP 8	Particle Tele + GM Tubes (CPME)	Archive Files of All Detectors	none	none	IBM 7044/7090/7094	fixed	3224	none	binary	TBD	 
+SPHE-00595	73-019A-13D	2	DSC_412	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	Data in SPHE-00007, SPHE-00095, SPHE-00595, and XXNO-00041
+SPHE-00596	73-019A-12C	2	DSC_511	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00602	72-012A-13B	1.5	DSC_535	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00603	72-012A-01H	3	DSC_0398	Pioneer	Pioneer 10	Magnetic Fields	Hrly and Dly Magnetic Field Avg	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00605	71-019A-01B	6	DSC_0312	IMP	IMP 6	Measurement of Magnetic Fields	15-Sec B Vectors	none	none	IBM 360/370	variable	16564	TBD	binary	TBD	04/14/03 - Natasha is ingesting them to nssdcftp now but remain to be run through DIOnAS. 
+SPHE-00608	67-123A-05A	6	DSC_0269	Pioneer	Pioneer 8	Cosmic Ray Anisotropy	7 Min and 1 Hr Count Rates	none	none	IBM 370/155	fixed	8128	none	character	TBD	This datasets was excluded from OTTO it has \\\"restored\\\" data on DR tapes and \\\"unrestored\\\" data on DD tapes. 
+SPHE-00609	67-123A-03C	4	DSC_0124	Pioneer 8	Pioneer 8	Two-Frequency Beacon Receiver	Corrected Electron Density	none	none	IBM 7044/7090/7094	fixed	0	none	binary	TBD	
+SPHE-00611	67-123A-01B	6	DSC_0183	Pioneer	Pioneer 8	Single-Axis Magnetometer	30-Sec Vr Mag Field Avgs	none	none	IBM 7044/7090/7094	variable	4356	none	binary	TBD	
+SPHE-00612	67-070A-06D	6	DSC_0168	Explorerer	Explorer 35	Plasma Probe	1-Hr IP Plasma Data w/o zeroes	none	none	IBM 7044/7090/7094	fixed	84	none	character	TBD	
+SPHE-00613	67-070A-03E,67-070A-04G	6	DSC_0351	OV1	OV1-19	Omnidirectional Proton and Electron Fluxes and Spectra	Omni Prot/Elect Spectrometer	none	none	TBD	fixed	0	TBD	binary	TBD	(OV1-19 - 34 multi-exp tapes; why not DRP'd earlier?)
+SPHE-00615	67-070A-04B	5	DSC_0214	Explorer	Explorer 35	GSFC Magnetometer	82 Sec Vr Mag Fld Data	none	none	IBM 360/370	variable	5526	none	binary	TBD	errors: a.records 879,1119,1417;file 1 b. "  2685 file 1 c. " 1 file 1 d. " 246,1870 file 1 e. " 1160, 2430 file 1 f. " 1 file 1  xxx Candidate for Canada?
+SPHE-00616	67-070A-03D	6	DSC_0302	IMP	IMP-E	AMES Magnetic Fields	5.12 S Vector Mag Field	none	none	IBM 7044/7090/7094	variable	2760	padded	binary	TBD	In restoring the tapes the 6-bit bytes of the original tapes were expanded to 8-bit bytes & DCS format converted to ASCII.  2760 includes control word
+SPHE-00618	67-051A-03F	2	DSC_141	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00626	66-049A-22C	6	DSC_0091	OGO	OGO 3	Electron Spectrometer	Elect Spectrmtr Counts, Condensed	none	none	IBM 7044/7090/7094	variable	7500	none	binary	TBD	Binary magnetic tape. The tape contains reduced data, which is made up of an arbitrary number of records and covers an arbitrary period of time. The records are of variable length: 21 to 10008-bit words.
+SPHE-00628	66-049A-03C	6	DSC_0058	OGO	OGO 3	Cosmic-Ray Spectra and Fluxes	Proton-Alpha Telescope PHA Data	none	none	IBM 7044/7090/7094	variable	3072	none	binary	TBD	Each tape has a 56-character header record followed by a variable number of files. Each file has a 25-character header record followed by a variable number of 98-character records.
+SPHE-00629	65-105A-04D	6	DSC_0124	Pioneer	Pioneer 6	Two-Frequency Beacon Receiver	Corrected Electron Density	none	none	IBM 7044/7090/7094	fixed	3546	none	binary	TBD	Non-merged dataset, original DD tape shared with another dataset, used original DD record in IDA. 
+SPHE-00631	65-042A-03E	6	DSC_0139	IMP	IMP 3	Cosmic-Ray Range vs Energy Loss	CR Rate Summaries (5 Min Avg)	none	none	Xerox/SDS Sigma 9	variable	7524	none	character	TBD	
+SPHE-00632	64-077A-04A,64-077A-04B,64-077A-04C,64-077A-04D	3	DSC_0045	Mariner	Mariner  4	Cosmic Ray Telescope	D1_D2_Rate 4.24 Hr Avg +D.S.	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00633	64-060A-03D	6	DSC_0139	IMP	IMP-B	Cosmic-Ray Range vs Energy Loss	Reducd C.R. Count Accumlatns	none	none	Xerox/SDS Sigma 9	fixed	2448	none	binary	TBD	
+SPHE-00634	64-060A-02F	6	DSC_0216	IMP	IMP-B	Fluxgate Magnetometer	20 Sec Magnetic Vectors	none	none	IBM 3081/32-bit	variable	416	none	binary	TBD	Record 1774 of file 2 of D-82821 has a non-conforming blocksize and about two-thirds of that record contains questionable data. 
+SPHE-00636	64-054A-18A	6	DSC_0055	OGO	OGO 1	Cosmic-Ray Spectra and Fluxes	Reduced Count Rates	none	none	IBM 7044/7090/7094	variable	3972	none	binary	TBD	24-character (six bits/character) header record followed by a variable number of files. Each file has a 144-character header record, followed by a variable number of records that have 3972 characters, followed by a file trailer record (24 characters).
+SPHE-00637	64-054A-01A	6	DSC_0121	OGO	OGO 1	Triaxial Search-Coil Magnetometer	37-s Search Coil Mag. Data	none	none	IBM 7044/7090/7094	fixed	126	none	character	TBD	29 7-track, 556-bpi, BCD magnetic tapes, contains 36.864-s-averaged search coil magnetometer data from all experiment modes. Each file contains, in about 1600 records, data from one orbit, with the possibility of some overlap at the end of each file. 
+SPHE-00639	63-046A-03E	6	DSC_0552	IMP	IMP 1	Cosmic-Ray Range vs Energy Loss	5-min Avg Cosmic Ray Count Summ	none	none	Xerox/SDS Sigma 9	variable	7524	none	character	TBD	Last physical record in file is usually short.
+SPHE-00640	63-046A-02D	6	DSC_0013	IMP	IMP 1	Fluxgate Magnetometer	Interplanetary B-Field Hourly Avg	none	none	IBM 360/370	fixed	79	packed	character	TBD	
+SPHE-00644	68-109A-02E	6	DSC_0455	HEOS	HEOS 1	Fluxgate Magnetometer	Single Point Mag Field Data	none	none	CDC 6000/7000	fixed	1280	none	character	TBD	
+SPHE-00646	73-019A-05G	3	DSC_0615	Pioneer	Pioneer 11	Jovian Trapped Radiation	25h Inhomog.Comprsd IP Sumry Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00656	90-090B-02F	3	DSC_0817	Ulysses	Ulysses	Cosmic Ray and Solar Particles SIM_COSPIN	COSPIN AT2 I_P Part Flux 10-min	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00662	73-019A-01J	3	DSC_0377	Pioneer	Pioneer 11	Magnetic Fields	1-Min HVM Interpl Cruise Data	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00665	90-090B-05B	1	DSC_755	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00666	77-076A-07J,77-084A-07H	5	DSC_0751	Voyager 1	Voyager 1	Low-Energy Charged Particles (LECP)	24-Hr LECP Cosmic Ray Cruise Data	none	none	VAX	variable	32000	none	character	ANSI	
+SPHE-00667	73-019A-01H	4.5	DSC_0728	Pioneer 11	Pioneer 11	Magnetic Fields	15 min HVM Interplan Data,SFDU	none	none	VAX	variable	2048	none	character	ANSI	There is a version of these data already staged on NSSDC FTP.
+SPHE-00668	72-012A-05G	4.5	DSC_0724	Pioneer 10	Pioneer 10	Jovian Trapped Radiation	30 min Interplanetary Data,SFDU	none	none	VAX	fixed	1800	none	character	ANSI	There is a version of these data already staged on NSSDC FTP.
+SPHE-00669	78-079A-03F	5	DSC_0696	tbd	ISEE 3	Low-Energy Cosmic Rays	Counts, Summary, (Non-GZ)	none	none	IBM 360/370	fixed	8768	none	binary	TBD	
+SPHE-00670	78-079A-03D	2	DSC_647	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	Data in SPHE-00322 and SPHE-00670
+SPHE-00671	78-079A-02J	2	DSC_618	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00672	78-079A-02E	1.5	DSC_545	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00675	78-079A-01M	4	DSC_0683	ISEE 3	ISEE 3	Solar wind plasma, 2-D and 3-D distr. fns. p: 150eV - 7keV; e: 10eV-1keV	84-Second Electron Mom Geotail	none	TBD	Univac 11/80	fixed	0	none	character	TBD	
+SPHE-00676	77-102B-05A	1	DSC_434	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00677	77-102A-01J,77-102B-01H	1	DSC_541	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00681	69-053A-01A	1.5	DSC_201	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00684	77-102A-05A	1.5	DSC_434	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00685	77-076A-05F,77-084A-05F	1	DSC_486	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00686	74-097A-01C,74-097A-09B,76-003A-01C,76-003A-09B	3.5	DSC_0587	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00687	74-097A-09A,76-003A-09A	4.5	DSC_0546	Hellios-A	Helios-A	Plasma Detectors	Hourly Avg. Plasma Data	none	none	IBM 360/370	fixed	0	none	binary	TBD	
+SPHE-00688	76-003A-07A	2.5	DSC_534	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00690	74-097A-08B	1.5	DSC_473	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00691	74-097A-07A	1.5	DSC_534	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00692	73-085A-04D	4.5	DSC_0368	Mariner 10	Mariner 10	Triaxial Fluxgate Magnetometer	42 s data, SEQ Coordinates	none	none	IBM 360/370	variable	0	none	binary	TBD	
+SPHE-00693	73-078A-09A	6	DSC_0380	IMP	IMP 8	Solar and Cosmic-Ray Particles	1-Hr Avgd,20-40 MeV Proton Flux	none	none	Modcomp	fixed	320	none	character	TBD	
+SPHE-00694	72-073A-08K,73-078A-08D	6	DSC_0380	IMP	IMP-J	Charged Particle Measurements Experiment (CPME)	Mgd Hr Avg 1-2,14-25 MeV Flx Plt	none	none	Modcomp	fixed	80	none	character	TBD	Merged with dataset 72-073A-08K.
+SPHE-00695	73-078A-06D	6	DSC_0380	IMP	IMP 8	Elec+H+He Solid St Tele	Hourly Avgd Protons 4-12.5 MeV	none	none	IBM 360/370	variable	80	none	character	TBD	
+SPHE-00696	73-078A-06B	6	DSC_0419	IMP	IMP-J	Electrons and Hydrogen and Helium Isotopes	Hourly Average Count Rates	TBD	TBD	IBM 360/370	variable	520	TBD	binary	TBD	The data were created on an IBM 370/158 computer with a block size of 520 bytes.  Data for 1981 and forward were written on a VAX computer.  This datasets was excluded from OTTO it has \"restored\" data on DR tapes and \"unrestored\" data on DD tapes.
+SPHE-00698	73-078A-02A	1.5	DSC_409	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00700	64-054A-16A	6	DSC_0118	OGO	OGO 1	Trapped Radiation Scintillation Counter	Prot+Elec Rtes All Tm Equiv 1 kbs	none	none	IBM 360/370	variable	5184	padded	binary	TBD	The tapes contain one file and do not contain standard OS/360 tape labels. Each physical record contains 5184 bytes in eight 648-byte logical records. the last few records have various fields padded with the hexadecimal number FC19 16
+SPHE-00702	63-046A-05E	6	DSC_0108	IMP	IMP-A	Ion Chamber and GM Counters	L-Ordered Electron Cnt Rate	none	none	IBM 7044/7090/7094	fixed	84	none	character	TBD	See also B11381-000A. Data format statement for data set.
+SPHE-00704	63-046A-03A	6	DSC_0075	IMP	IMP 1	Cosmic-Ray Range vs Energy Loss	Rates+P.H. Reduced C.R. Data	none	none	IBM 7044/7090/7094	fixed	4824	none	binary	TBD	
+SPHE-00705	62-015A-03A	6	DSC_0834	Ariel	Ariel 1	Cosmic-Ray Detector	Cerenkov, Geiger Count Rates	none	none	IBM 360/370	fixed	2460	padded	character	TBD	
+SPHE-00709	72-012A-12B	2.5	DSC_511	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00710	72-012A-05C	2.5	DSC_318	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00712	65-105A-03A	6	DSC_0112	Pioneer	Pioneer 6	Cosmic-Ray Telescope	Count Rate + Pulse Height Data	none	none	IBM 7044/7090/7094	variable	4500	none	binary	TBD	
+SPHE-00713	65-105A-01A	6	DSC_0105	Pioneer	Pioneer 6	Uniaxial Fluxgate Magnetometer	30 Sec Vr Magnetic Field Avg	none	none	IBM 7044/7090/7094	variable	8343	none	binary	TBD	
+SPHE-00714	65-042A-02G	4	DSC_0017	MP-C	IMP-C	Fluxgate Magnetometer	Magnetospheric B Field, Hrly Avgs	none	none	IBM 7044/7090/7094	fixed	0	none	binary	TBD	
+SPHE-00715	64-060A-02E	1.5	DSC_015	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00718	64-054A-20B	6	DSC_0216	OGO	OGO 1	Ionization Chamber	Reduced Pulse Rate,Conden. Data	none	none	IBM 7044/7090/7094	variable	5971	packed	binary	TBD	Each tape is made up of an arbitrary number of records and covers an arbitrary amount of time. The records are of variable length, ranging from 21 to 1000 48-bit words.
+SPHE-00720	71-019A-09B	6	DSC_0234	IMP	IMP 6	Nuclear Composition of Cosmic and Solar Particle Radiations	5-Min Avg Count Rates	none	none	IBM 360/370	variable	1766	none	binary	TBD	
+SPHE-00722	69-051A-18A	6	DSC_0390	OGO	OGO 6	Neutron Monitor	1-Min Averaged Count Rates	none	none	IBM 360/370	variable	880	none	binary	TBD	Binary written on an IBM 360 computer. Each data file is preceded and followed by a header and trailer file containing file identification information. The data file records contain the day of year, hour, minutes, and seconds of day.
+SPHE-00723	68-014A-14I	6	DSC_0373	OGO	OGO 5	UCLA Triaxial Fluxgate Magnetometer	8+64kbs B-Fld for Spectrum Analys	none	none	IBM 360/370	variable	3084	none	binary	TBD	A physical record contains 128 logical records of six 32-bit words.
+SPHE-00725	68-014A-04A	6	DSC_0202	OGO	OGO 5	Energetic Radiations from Solar Flares	147s Av Elect+X-Ray Cnt Rtes	none	none	CDC 6000/7000	fixed	2966	none	character	TBD	Written in a BCD card image format on a CDC 6000 series computer. 
+SPHE-00727	67-070A-06B	6	DSC_0168	Explorerer	Explorer 35	Plasma Probe	3-Min Int Plasma Param, Character	none	none	IBM 360/370	fixed	1000	none	character	TBD	 
+SPHE-00728	67-051A-08C	6	DSC_0337	IMP	IMP 4	Electrostatic Analyzer	Hourly Averaged Plasma Parameters	none	none	IBM 360/75	variable	32004	none	binary	TBD	
+SPHE-00729	67-051A-07C	6	DSC_0144	IMP	IMP 4	Solar Proton Monitoring Experiment	Count Rates on Encyclopedia Files	none	none	IBM 360/370	fixed	14080	none	binary	TBD	Each tape is blocked with 20 logical records per physical record. Each logical record has 176 32-bit words. Both ID records and data records are interspersed on the tapes.
+SPHE-00731	69-053A-11B	4.5	0	IMP-G	IMP-G	Triaxial Fluxgate Magnetometer	2.5 Sec Mag Fld Vectrs	none	none	IBM 360/370	variable	0	none	binary	TBD	NO DCS# OR CROSS REF
+SPHE-00732	69-053A-07C	6	DSC_0212	IMP	IMP-G	Solar Proton Monitoring Experiment	Hourly Averaged Count Rates	none	none	IBM 360/370	variable	18720	none	binary	TBD	Each logical record consists of 3120 8-bit bytes and contains data for 1 day. There are 6 logical records per physical record, and one file for each calendar year of data on the tape.
+SPHE-00733	69-053A-03C	6	DSC_0193	IMP	IMP-G	Cosmic-Ray Proton (R vs DE/DX)	5-Min Avg Count Rates(Nonoverlap)	none	none	Xerox/SDS Sigma 9	variable	7524	TBD	character	TBD	Short rec. do occur, but only immediately before an EOF. Words per logical rec. =33.
+SPHE-00734	69-053A-02A	6	DSC_0227	IMP	IMP-G	Ion Chamber	Ion Chamber + GM Counts	none	none	CDC 6000/7000	fixed	1212	none	binary	TBD	Each physical record is 121 words in length
+SPHE-00735	69-053A-01C	6	DSC_0201	IMP	IMP-G	Low-Energy Solid-State Telescope	Data Set -01A in IBM 7094 Format	none	none	IBM 7044/7090/7094	variable	1920	TBD	binary	TBD	See 01A - Reducd Count Rates, DSC 201.Data set 69-053A-01C contains an IBM 7094 version of this data set. The ephemeris records consist of 20 36-bit words, 19 of which are floating point.  This datasets was excluded from OTTO it has \"restored\" data on D
+SPHE-00736	69-051A-20A	6	DSC_0248	OGO	OGO 6	Cosmic-Ray Study	Count Rates + Pulse Height	none	none	IBM 360/370	variable	3678	TBD	binary	TBD	There are a variable number of physical records per file (maximum length = 3678 bytes), each consisting of a variable number of logical records of types.  This datasets was excluded from OTTO it has \"restored\" data on DR tapes and \"unrestored\" data on
+SPHE-00738	67-051A-01D	6	DSC_0069	IMP	IMP-F	Low-Energy Solid-State Telescope	Data Set -01A in IBM 7094 Format	none	none	IBM 7044/7090/7094	variable	32760	none	binary	TBD	See 01A - Reducd Count Rates on Tape, DSC 69. Same as for 67-051A-01A, plus revised format if needed.  This datasets was excluded from OTTO it has \\\"restored\\\" data on DR tapes and \\\"unrestored\\\" data on DD tapes. 
+SPHE-00741	66-058A-06B	6	DSC_0168	Explorer	Explorer 33	Plasma Probe	3-Min Interplanetary Plasma Param	none	none	IBM 360/370	variable	1000	none	character	TBD	
+SPHE-00742	66-058A-06A	4	DSC_0168	Explorer 33	Explorer 33	Plasma Probe	Hr Avg Int Plasma Param-Block BCD	none	none	IBM 360/370	variable	0	packed	character	TBD	
+SPHE-00743	66-058A-01F,66-058A-03E	6	DSC_0365	Explorer	Explorer 33	Merged Ames & GSFC Fields	Merged Ness/Sonett 82 Sec Avg	none	none	IBM 360/370	variable	2804	none	binary	TBD	The physical blocks are of variable length and contain logical records of 34 32-bit words.  Merged with dataset 66-058A-03E. check names .  Formerly called IMP-D
+SPHE-00746	90-090B-06L	3	0	Ulysses	Ulysses	Unified Radio and Plasma Waves STO_URAP	WFA 10m Spectra Peak B-Field	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00758	90-090B-02A	3	DSC_0811	Ulysses	Ulysses	Cosmic Ray and Solar Particles SIM_COSPIN	COSPIN AT1 I_P Part Flux 10-min	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00761	SM-22A	5	TBD	Apollo 16 Lunar Modu	Apollo 16 Lunar Modu	Passive Seismic Experiment (PSE)	High Frequency Teleseisms	none	TBD	IBM 9021	fixed	0	none	binary	TBD	
+SPHE-00762	SM-41B	1	DSC_399	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00764	SM-41D	1	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00765	SM-41E	4	DSC_0399	Viking	Viking 2 Lander	tbd	OMNI with Particle Fluxes Added	none	none	VAX	fixed	0	none	binary	TBD	no DSC # assocated with this. This is the OMNI collection. We should not be attempting to migrate the tape(s) associated with it. We've worked out an agreement with Bobby Candey to handle collections such as OMNI in a "backup" mode.
+SPHE-00768	74-097A-07B	5	0	Hellios-A	Helios-A	Cosmic-Ray Particles	Hourly Avg Count Rate Data,ASCII	TBD	VMS Backup	IBM 360/370	fixed	0	TBD	binary	TBD	dd0109240 is 4 mm, dc033152 is 8 mm tapes
+SPHE-00770	74-097A-08C	5	DSC_0846	Helios	Helios 1	Galactic and Solar Cosmic Rays	Hourly Averaged Proton Flux,ASCII	none	none	VAX	fixed	4440	none	character	TBD	
+SPHE-00771	76-003A-08C	3	DSC_0846	Helios-B	Helios-B	Galactic and Solar Cosmic Rays	Hourly Averaged Proton Flux ASCII	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00772	74-097A-10B	3	DSC_0846	Helios-A	Helios-A	Energetic Electron and Proton Detector	Hourly Electron-Proton Flux,ASCII	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00773	76-003A-10B	4.5	DSC_0846	Helios	Helios 2	Energetic Electron and Proton Detector, E8	Hourly Electron-Proton Flux,ASCII	none	none	Modcomp	fixed	4440	none	character	TBD	
+SPHE-00781	90-090B-06N	3	0	Ulysses	Ulysses	Unified Radio and Plasma Waves STO_URAP	URAP 10-Day Dynamic Spectra PS	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00782	90-090B-06O	3	0	Ulysses	Ulysses	Unified Radio and Plasma Waves STO_URAP	URAP 26-Day Dynamic Spectra PS	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00783	90-090B-06M	3	0	Ulysses	Ulysses	Unified Radio and Plasma Waves STO_URAP	URAP 1-Day Dynamic Spectra PS	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00793	97-045A-07E	1.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00794	97-045A-07F	1.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00795	97-045A-07G	1.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00796	97-045A-07H	1.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00797	97-045A-01F,97-045A-02F	1	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00802	97-045A-01D,97-045A-02D	1	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00804	97-045A-01C,97-045A-02C	1	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00806	97-045A-01B,97-045A-02B	1	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00808	97-045A-01A,97-045A-02A	1	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00810	97-045A-09I	1.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00811	97-045A-09H	1.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00814	90-090B-10C	3	DSC_0819	Ulysses	Ulysses	Coronal Sounding radio science SCE	SCE 1-s Doppler Data Conj. C1	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00822	97-045A-06A	1.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00823	97-045A-06B	1.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00824	97-045A-06C	1.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00825	97-045A-06D	1.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00826	97-045A-06E	1.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00827	97-045A-06F	1.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00828	97-045A-05H	1.5	DSC_847	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00829	97-045A-05G	1.5	DSC_847	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00830	97-045A-05F	1.5	DSC_847	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00831	97-045A-05E	1.5	DSC_847	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00832	97-045A-05D	1.5	DSC_847	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00833	97-045A-05C	1.5	DSC_847	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00834	97-045A-05B	1.5	DSC_847	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00835	97-045A-05A	1.5	DSC_847	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00845	94-071A-06C	2.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00852	97-045A-04A	1.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00853	97-045A-04B	1.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00854	97-045A-04C	1.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00855	97-045A-04D	1.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00856	97-045A-04E	1.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00857	97-045A-04F	1.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00858	97-045A-04G	1.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPHE-00859	97-045A-04H	1.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00003	73-107A-02A	3	DSC_0655	Aureol	Aureol 2	Ion Mass Spectrometer	Ion Mass Spectrometer Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00006	71-024A-06B	1.5	DSC_343	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00009	69-051A-13A	6	DSC_0233	OGO	OGO 6	UV Photometer	Airglow Data (1304A,1216A)	none	none	IBM 7044/7090/7094	variable	2628	TBD	binary	TBD	Data on binary magnetic tapes, written on an IBM 7094 computer.  All words are 36 bits long.
+SPIO-00015	67-073A-12N	3	0	OGO	OGO 4	Airglow Photometer	Directory Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00028	62-049A-01I	4.5	DSC_0037	Alouette	Alouette 1	Sweep-Frequency Sounder	ARC N(H)+H Summaries	none	none	Modcomp	variable	0	none	character	TBD	
+SPIO-00036	75-107A-01A,75-107A-02A,75-107A-03A,75-107A-04A,75-107A-07A,75-107A-08A,75-107A-09A,75-107A-10A,75-107A-11A,75-107A-16A,75-107A-19A	1.5	DSC_394	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00039	75-096A-00D	1	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00045	75-096A-01A,75-096A-02A,75-096A-03A,75-096A-04A,75-096A-07A,75-096A-08A,75-096A-09A,75-096A-10A,75-096A-11A,75-096A-12A,75-096A-13A	1.5	DSC_394	TBD	TBD	TBD	TBD	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00048	71-109A-01A,71-109A-02A,71-109A-03A,71-109A-04A	6	DSC_0263	TBD	TBD	TBD	TBD	none	none	TBD	variable	2676	padded	binary	none	
+SPIO-00050	71-024A-12A	4	DSC_0246	ISIS 2	ISIS 2	6300-A Photometer	6300-A Intensity Maps	none	none	IBM 360/370	fixed	0	none	binary	TBD	Data in SPIO-00281 and SPIO-00050
+SPIO-00054	69-051A-05A	6	DSC_0457	OGO	OGO 6	Ion Mass Spectrometer	Ion Mass Spectrometer Data	none	none	IBM 360/370	variable	20444	none	binary	TBD	The data records contain a variable number of 68-byte records. 
+SPIO-00055	69-051A-03C	6	DSC_0301	OGO	OGO 6	Planar Ion and Electron Trap	Ion Density, Flux + Temp	none	none	IBM 360/370	fixed	3168	TBD	binary	TBD	Last physical record is normally short. This datasets was excluded from OTTO it has \"restored\" data on DR tapes and \"unrestored\" data on DD tapes.
+SPIO-00059	67-073A-12Q	3	0	OGO	OGO 4	Airglow Photometer	Synoptic Airglow Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00061	67-042A-04A,67-042A-06A	6	DSC_0142	Ariel	Ariel 3	Radio Frequency Capacitance Probe	Plasma Frequency Values	none	none	IBM 7044/7090/7094	variable	162	none	character	TBD	Ariel 3, non-NASA;  ESAD-00075 was deleted DS media has been transfered to ESDIS only DR tapes remain.
+SPIO-00063	67-042A-01A	6	DSC_0132	Ariel	Ariel 3	Langmuir Probe	Electron Temperatures	none	none	IBM 7044/7090/7094	fixed	176	none	character	TBD	Ariel 3, non-NASA;  Dieter wants to migrate all of the experiments.A graphical version of this data set appears in data set 67-042A-01B.
+SPIO-00065	66-044A-01A	5	DSC_0298	AE	AE-B	Ion Mass Spectrometer	Ion Mass Spectrometer Data	none	none	IBM 360/370	variable	27684	none	binary	TBD	
+SPIO-00067	65-098A-01I	4.5	0	Alouette	Alouette 2	Sweep-Frequency Sounder	NSSDC Ionogram Inventory	none	none	IBM 7044/7090/7094	fixed	0	none	character	TBD	DATA SET WAS NOT FOUND WITH DSC# NOTHING TO CROSS REF.
+SPIO-00069	62-049A-01T	6	DSC_0037	Alouette	Alouette 1	Sweep-Frequency Sounder	AL-1,CRC Ne Profiles, ASCII	none	none	Modcomp	variable	620	none	character	TBD	
+SPIO-00070	62-049A-01O	4.5	DSC_0243	Alouette	Alouette 1	Sweep-Frequency Sounder	NSSDC Ionogram Inventory	none	none	IBM 360/370	fixed	0	none	binary	TBD	
+SPIO-00071	62-015A-01A	6	DSC_0027	Ariel	Ariel 1	Radio Frequency Capacitance Probe	Electron Density	none	none	IBM 7044/7090/7094	variable	90	padded	character	TBD	
+SPIO-00075	73-027A-08C	1	DSC_370	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00082	72-100A-02A	2	DSC_565	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00087	68-014A-22A	6	DSC_0242	OGO	OGO 5	Geocoronal Lyman-Alpha Measurement	Lyman Alpha Geocorona Data	none	none	IBM 360/370	variable	10000	none	binary	TBD	104 words per logical record, written on an IBM 360/65 computer in a floating point format. The number of files per tape varies. 
+SPIO-00091	67-073A-12C	6	DSC_0184	OGO	OGO 4	Airglow Photometer	Airglow Emission Intensities	none	none	IBM 360/370	variable	1988	none	binary	TBD	The data set consists of airglow emission data on a binary magnetic tape written on an IBM 360 computer. The tape contains multiple files, and consecutive files may not be chronologically ordered.
+SPIO-00097	78-096A-04A	1	DSC_550	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00107	73-101A-00D	6	DSC_0743	AE-C	AE-C	tbd	AE-C Telemetry Data	none	VMS Backup	VAX	TBD	0	none	character	TBD	33 tapes dd tapes are 8 mm and the dc are 4mm
+SPIO-00112	68-014A-21A	6	DSC_0146	OGO	OGO 5	Ultraviolet Airglow	Airglow Intensities (1304A,1216A)	none	none	IBM 7044/7090/7094	fixed	0	none	binary	TBD	"This datasets was excluded from OTTO it has Rstored  data on DR tapes and unrestored data on DD tapes.There was 458 tapes 139 was  not restored because of bad tapes. and 34
+
+tapes was restored. "
+SPIO-00124	65-098A-01J	1	DSC_167	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00128	62-049A-01C	4.5	DSC_0060	Alouette	Alouette 1	Sweep-Frequency Sounder	Alosyn-Scaled Data	none	none	Modcomp	variable	0	none	character	TBD	
+SPIO-00144	72-092A-02A	5	DSC_0744	ESRO 4	ESRO 4	Neutral Mass Spectrometer	N2, O, He, Ar Densities	none	none	IBM 360/370	fixed	0	TBD	binary	TBD	
+SPIO-00145	88-026A-05A	5	DSC_0820	San Marco-D_L	San Marco D_L	3-Axis Electric Field Instrument (EFI)	SM D/L,EFI AC/DC, online	none	none	IBM 360/370	variable	0	none	character	ANSI	 
+SPIO-00152	71-024A-07A	1.5	DSC_322	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00157	69-009A-01C	1.5	DSC_167	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	Data in SPIO-00157 and SPIO-00235
+SPIO-00159	67-073A-14A	6	DSC_0266	OGO	OGO 4	UV Airglow Spectrometer 1100-1750A, 1750-3400A	Ozone Profiles	none	none	IBM 7044/7090/7094	fixed	84	none	character	TBD	Originally recorded format as BCD, changed to ASCII.
+SPIO-00160	69-009A-08B	5	DSC_0213	ISIS 1	ISIS 1	Spherical Electrostatic Analyzer	Ion Temp and Density	none	none	IBM 360/370	fixed	0	none	binary	TBD	
+SPIO-00162	69-009A-07A	1.5	DSC_197	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00176	74-055A-02A	3	DSC_0565	Aeros-B	Aeros-B	Energy Distribution of Ions and Electrons	RPA Plasma Measurement	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00195	65-098A-05A	5	DSC_0196	Alouette	Alouette 2	Cylindrical Electrostatic Probes	Electron Density + Temp	none	none	IBM 360/370	fixed	0	none	binary	TBD	
+SPIO-00196	65-098A-01E	4.5	DSC_0150	Alouette	Alouette 2	Sweep-Frequency Sounder	ERC Index of Ducted Echoes	none	none	IBM 9021	variable	0	none	character	TBD	
+SPIO-00201	73-101A-01A,73-101A-02A,73-101A-03A,73-101A-04A,73-101A-07A,73-101A-08A,73-101A-09A,73-101A-10A,73-101A-11A,73-101A-12A,73-101A-13A,73-101A-14A	1.5	DSC_394	TBD	TBD	TBD	TBD	NSSD1720	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00204	73-027A-08B	1	DSC_370	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00205	73-027A-08A	1	DSC_370	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00219	78-018A-01A	4.5	0	ISS-B	ISS-B	Sweep Frequency Topside Ionospheric Sounder TOP	FOF2 Models for 6 4-Months Period	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00222	62-049A-01Q,65-098A-01N,69-009A-01E,71-024A-01E	4.5	DSC_0243	Alouette	Alouette 1	Sweep-Frequency Sounder	CRC Index of Ducted Echoes	none	none	IBM 360/370	variable	42	none	character	TBD	
+SPIO-00227	62-049A-01U	6	DSC_0037	Alouette	Alouette 1	Sweep-Frequency Sounder	AL-1,CRC Ne Profiles, ASCII, onli	none	none	Modcomp	variable	900	none	character	TBD	
+SPIO-00231	81-070B-09D	2	DSC_713	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00232	81-070B-06A	1.5	DSC_661	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00233	74-055A-03A	4.5	DSC_0605	Aeros	Aeros-B	Electron Concentration in the Ionosphere	Electron Density Data	none	none	Univac 1108	fixed	13200	none	binary	TBD	
+SPIO-00235	71-024A-01C	5	DSC_0167	ISIS	ISIS 2	Swept-Frequency Sounder	Arc N(h) Int Profiles	none	none	IBM 360/370	variable	288	none	binary	TBD	Data in SPIO-00157 and SPIO-00235
+SPIO-00238	88-026A-00D	1	DSC_821	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00246	67-073A-12M	3	0	OGO	OGO 4	Airglow Photometer	Calibration Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00247	67-073A-12K	3	0	OGO	OGO 4	Airglow Photometer	Zonal Averages	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00256	81-100A-01B	1	DSC_625	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00261	67-073A-12P	6	DSC_0411	OGO	OGO 4	Airglow Photometer	Sec. by Sec. Airglow Data	none	none	IBM 360/370	variable	21676	none	binary	TBD	
+SPIO-00262	67-073A-12O	3	0	OGO 4	OGO 4	Airglow Photometer	Photometer Output	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00263	67-042A-05B	6	DSC_0095	Ariel	Ariel 3	VLF Receiver, Fixed-Frequency Signal Strength	VLF Signal Strngth at 3 Freq	none	none	IBM 7044/7090/7094	variable	162	none	character	TBD	Ariel 3, non-NASA;  Dieter wants to migrate all of the experiments.
+SPIO-00265	65-098B-05B	6	DSC_0182	DME-A	DME-A	Magnetic Ion-Mass Spectrometer	Ion Comp and Density Meas	none	none	IBM 360/370	variable	6602	none	character	TBD	This datasets was excluded from OTTO it has \"restored\" data on DR tapes and \"unrestored\" data on DD tapes.
+SPIO-00278	81-100A-01F	1	DSC_625	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00279	81-070B-07A	1.5	DSC_661	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00281	71-024A-11A	4	DSC_0246	ISIS 2	ISIS 2	3914- and 5577-A Photometer	3914-A and 5577-A Data	none	none	IBM 360/370	fixed	0	none	binary	TBD	Data in SPIO-00281 and SPIO-00050
+SPIO-00282	71-024A-08D	4.5	0	ISIS 2	ISIS 2	Retarding Potential Analyzer	Ion Temp, Conc of H, He, O	none	none	IBM 3081	fixed	31972	none	binary	TBD	NO DSC# FOUND
+SPIO-00287	81-100A-01G	1	DSC_625	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00288	81-070B-09C	2	DSC_713	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00291	66-110A-15C	6	DSC_0229	ATS	ATS 1	Faraday Rotation	Total Electron Content Data	none	none	IBM 360/370	variable	1200	none	binary	TBD	(ATS 1; why 01A not DRP'd? (Kent?); no DIO-ingest for -02G-treat as docum file for -02C&E; no DIO-ingest for -03A, release it)
+SPIO-00293	65-105A-08A,66-075A-08A	6	DSC_0092	Pioneer	Pioneer 6	Superior Conjunction Faraday Rotation	Superior Conjunction Faraday Rot	none	none	IBM 7044/7090/7094	variable	84	none	character	TBD	Merged with dataset 66-075A-08A.check names 
+SPIO-00296	65-098A-01O	1.5	DSC_256	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00303	69-051A-12A	6	DSC_0111	OGO	OGO 6	Lyman-Alpha Photometer	Photom Current, Attitude, Orbit	none	none	IBM 7044/7090/7094	fixed	4002	none	character	TBD	BCD magnetic tape, written on an IBM 7094 computer Each data record contains 4000 characters arranged into 40 frames with 100 characters.
+SPIO-00306	69-006A-07C	6	DSC_0225	OSO	OSO 5	Zodiacal Light Monitor	Zodiacal Light+Airglow	none	none	CDC 6000/7000	variable	5120	none	binary	TBD	
+SPIO-00307	62-049A-01P	1.5	DSC_116	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIO-00380	MI-92A	4	0	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	Data in SPIO-00380, XXNO-00277
+SPIO-00381	MI-92B	1	DSC_087	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIS-00001	74-097A-12A	1.5	DSC_514	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIS-00002	79-082A-03D	2.5	DSC_593	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIS-00003	79-082A-03A	2.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIS-00005	78-079A-08F	1.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIS-00006	79-082A-03C	2.5	DSC_593	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIS-00007	78-079A-07D	2	DSC_813	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIS-00008	75-066A-02A	1	DSC_400	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIS-00010	77-102A-00L,77-102B-00J	1.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIS-00011	78-079A-01R	2	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIS-00012	79-082A-03E	2.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIS-00013	79-082A-03B	2.5	DSC_593	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPIS-00014	78-079A-10D	2.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPME-00001	72-005A-01D	6	DSC_0455	HEOS	HEOS 2	Fluxgate Magnetometer	Single Point Magnetic Field Data	none	none	CDC 6000/7000	fixed	1280	none	binary	TBD	
+SPMS-00004	78-071A-02B	3	DSC_0542	ESA-GEOS	ESA-GEOS 2	Thermal Plasma Flow	Thermal Plasma 3 Min Average Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00005	78-071A-06B	3	DSC_0542	ESA-GEOS	ESA-GEOS 2	Magnetic Wave Fields	LS VLF Filterbank	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00009	68-014A-18A	6	DSC_0143	OGO	OGO 5	Light Ion Mass Magnetic Spectrometer	O, He, + H Ion Concs + Ephem	none	none	Unisys/Univac 36-bit	variable	780	padded	binary	TBD	The experimenter on a Univac 1108, binary magnetic tapes. There are multiple files per tape, and the tapes contain header records in BCD format.
+SPMS-00010	67-073A-08A	6	DSC_0133	OGO	OGO 4	Low-Energy Proton, Alpha Particle Measurement	Cosmic Ray Count Rates	none	TBD	IBM 360/370	TBD	0	none	binary	TBD	The data are on binary magnetic tapes written on an IBM 360/75 computer. This datasets was excluded from OTTO it has \"restored\" data on DR tapes and \"unrestored\" data on DD tapes.
+SPMS-00014	58-005A-01B	6	DSC_0001	Explorer	Explorer 4	Charged Particle Detector	Time Ordered Count Rates	none	none	IBM 7044/7090/7094	fixed	120	none	character	TBD	(some redundancy, but retain all for historic interest) The data contained here are the same as those in data set 58-005A-01A, except here they are time ordered instead of station ordered. Missing DR and DS tapes.
+SPMS-00015	58-005A-01A	6	DSC_0001	Explorer	Explorer 4	Charged Particle Detector	St. Ordered Count Rates	none	none	CDC 6000/7000	fixed	120	none	character	TBD	(some redundancy, but retain all for historic interest) The data are ordered by satellite telemetry station.
+SPMS-00018	62-067B-01B,62-067B-02A,62-067B-03A,62-067B-04A,62-067B-05A,62-067B-06A,62-067B-07A,62-067B-08A,62-067B-09A	6	DSC_0065	Injun	Injun 3	VLF Electromagnetic Radiation	VLF Rec Sig Strength	none	none	IBM 7044/7090/7094	fixed	4080	none	character	TBD	(should be one JEDS ID?)
+SPMS-00023	61-015B-01B,61-015B-02A,61-015B-03A,61-015B-04A,61-015B-05A,61-015B-06A	6	DSC_0080	Injun	Injun 1	Combined Experiments	MasterFile All Detectors Combined	none	none	IBM 7044/7090/7094	fixed	2040	none	character	TBD	this data set is merged with 61-015B-02A, -03A, -04A, -05A, and -06A 
+SPMS-00026	66-110A-03C	6	DSC_0084	ATS	ATS 1	Omnidirectional Spectrometer	Reformatted Protn+Elect Flux	none	none	IBM 7044/7090/7094	variable	6000	none	binary	TBD	(ATS 1; why 01A not DRP'd? (Kent?); no DIO-ingest for -02G-treat as docum file for -02C&E; no DIO-ingest for -03A, release it)
+SPMS-00028	65-081A-05H	1.5	DSC_173	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00029	62-068A-03D	6	DSC_0044	Relay	Relay 1	Proton-Electron Detectors	1-S and 10-S Avg Count Rates	none	none	CDC 6000/7000	variable	1440	none	character	TBD	(should be one JEDS ID?)  (d.s. 03A is program file; add as supporting documentation for data set)
+SPMS-00031	61-020A-03C	6	DSC_0108	Explorer	Explorer 12	Charged Particles	L-Ordered Electron Count Rates	none	none	IBM 7044/7090/7094	variable	80	none	character	TBD	Data in SPMS-00031 and SPMS-00057  NSSDC-generated, data records (one logical record per physical record) are ordered by L value. Data records 80 characters long, preceded by 60-character header record, followed by a 2-character trailer record.
+SPMS-00033	77-102A-11C	5	DSC_0384	ISEE	ISEE 1	DC and low frequency electric fields, double-probe, 0.19-1900 Hz	DC E Field High Res Digital Data	none	none	IBM 360/370	fixed	4096	none	binary	TBD	
+SPMS-00034	77-102A-10B	3	DSC_0434	ISEE	ISEE 1	Electron and Proton Fluxes in the Outer Magnetosphere 1.5 to 300 keV	Particle Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00035	77-102A-09F	3	DSC_0541	ISEE	ISEE 1	Medium Energy Particles Instrument Distrib. fns. p greater than 24 keV e greater than 20 keV	Electron Proton - LBR Sector	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00036	77-102A-09D	3	0	ISEE	ISEE 1	Medium Energy Particles Instrument Distrib. fns. p greater than 24 keV e greater than 20 keV	Eng. Elect + Protons Revised	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00037	77-102A-08A	3	DSC_0434	ISEE	ISEE 1	Plasma Total Electron Density by Radio Techniques	Sounder Measurement Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00038	77-102A-07E	3	DSC_0541	ISEE	ISEE 1	Plasma waves electric and magnetic fields spectra_flux_direction 5.62Hz to 311khz	VLF Elec.Spec.Analyzer - Averages	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00041	77-102A-04D	3.5	DSC_0434	ISEE	ISEE 1	Fluxgate Magnetometer Tri-axial	60-ms Fluxgate Magnetom Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00042	73-078A-10E	3	DSC_0417	IMP-J	IMP-J	Solar Plasma Electrostatic Analyzer	High Resolution Plasma PROMIS Prd	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00044	72-073A-08A	6	DSC_0330	IMP	IMP 7	Charged Particle Telescope and gm tubes	Archive Files of All Detectors	none	none	IBM 360/370	fixed	29016	none	binary	TBD	No detailed tape specifications in blackbook. This datasets was excluded from OTTO it has \"restored\" data on DR tapes and \"unrestored\" data on DD tapes.
+SPMS-00048	68-066B-01A,68-066B-02A,68-066B-03A,68-066B-04A	6	DSC_0175	Injun	Injun 5	Solid-State Particle Detector	SS Prot  and Elect Cnt Rate	none	TBD	IBM 7044/7090/7094	variable	6960	none	character	TBD	(141 Injun 5 DR tapes; should be one JEDS ID?)
+SPMS-00050	66-110A-04A	6	DSC_0151	ATS	ATS 1	Electron Spectrometer	6-Min Avg Count Rate	none	none	IBM 360/370	fixed	400	none	character	TBD	(ATS 1; why 01A not DRP'd? (Kent?); no DIO-ingest for -02G-treat as docum file for -02C&E; no DIO-ingest for -03A, release it)
+SPMS-00054	64-086A-01D	6	DSC_0071	Explorer	Explorer 15	Solid-State Electron Detector	L-Ordered Electron Cnt Rate	none	none	IBM 360/370	variable	84	none	character	TBD	
+SPMS-00055	64-076B-02A,64-076B-03A,64-076B-04A,64-076B-05A,64-076B-06A	6	DSC_0079	Injun	Injun 4	Geiger-Mueller Counter	GM Counts	none	none	IBM 360/370	variable	9000	none	binary	TBD	(should be only one JEDS ID?)
+SPMS-00056	63-046A-02F	5	DSC_0013	IMP	IMP-A	Fluxgate Magnetometer	Mspheric B-Field Hourly Avgd	none	none	IBM 360/370	fixed	79	none	character	TBD	
+SPMS-00057	62-051A-03D	5	DSC_0007	Explorer	Explorer 14	Trapped Particles	L-Ordered Electrn Count Rate	none	none	IBM 7044/7090/7094	variable	780	none	character	TBD	Data in SPMS-00031 and SPMS-00057 On original DD05520 Files 1-4 are to 62-051A-03C and are fixed at 780 Block size.  Files 5-8 are to 62-051A-03D and are fixed at 84 Block size.
+SPMS-00060	61-013A-02A	6	DSC_0836	S 15	S 15	Crystal Sandwich Cerenkov Counter	Count Rate, Long, Lat, B, L, UT	none	none	IBM 7044/7090/7094	fixed	84	none	character	TBD	
+SPMS-00063	64-040C-01A	6	DSC_0216	ERS	ERS 13	Charged Particle Detectors	Electron+Proton Count Rate	none	none	IBM 7044/7090/7094	variable	104	none	binary	TBD	
+SPMS-00064	72-092A-01A	4	DSC_0420	ESRO 4	ESRO 4	Positive Ion Spectrometer	Positive Ion Data	none	none	IBM 360/370	variable	0	none	binary	TBD	
+SPMS-00083	78-071A-11B	1	DSC_542	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00084	78-071A-07B	3	DSC_0542	ESA-GEOS	ESA-GEOS 2	DC Fields by Double Probe	Double Probe E-Field Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00089	84-088B-02B,84-088B-03B,84-088B-04B,84-088B-06A	4	DSC_0677	AMPTE/IRM	AMPTE/IRM	30-channel, 3-D Plasma Analyzer. e: 15 eV -30 keV; ions: 20 eV/q-40 keV/q	5-s Avg Fields & Particles	none	none	IBM 7044/7090/7094	fixed	9200	none	binary	none	67 TAPES WITH 4 DATA SET
+SPMS-00090	69-097A-02A,69-097A-04A	6	DSC_0244	Azur	Azur	Proton-Electron Detector	Particle Count Rates	none	none	IBM 360/370	variable	9844	none	binary	TBD	The tape begins with a tape identification record containing 81 words followed by an end-of-file mark. The tape identification record is followed by a variable number of physical records. SPMS-00091 has been merged with this collection
+SPMS-00092	69-099C-05G	4	DSC_0805	Apollo	Apollo 12 ALSEP	Suprathermal Ion Detector Experiment (SIDE)	NPAK Format (raw)	none	none	IBM 3081	fixed	0	none	binary	TBD	 
+SPMS-00093	86-019B-02B	3	0	Viking Sweden	Viking Sweden	High Frequency Wave Experiment	19.2 CDAW9 PROMIS Events A-E	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00094	79-007A-13A	3	DSC_0547	STP P78-2	STP P78-2	Energetic Ion Spectrometer	Energetic Ion Spectrometer	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00104	81-070B-02A	1	DSC_646	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00108	79-094A-01C,79-094A-02C	4	DSC_0445	magsat	Magsat	Scalar Magnetometer	Magsat Orbit Ret Subrout	none	TBD	IBM 360/370	variable	0	none	character	TBD	
+SPMS-00109	78-079A-08C	2	DSC_647	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00110	78-012A-02B	5	DSC_0522	IUE	IUE	Particle Flux Monitor (Spacecraft)	5 Minute Median Count Rate Data	none	none	Xerox/SDS Sigma 5	fixed	248	none	character	TBD	
+SPMS-00111	77-102B-07B	4	DSC_0434	ISEE 2	ISEE 2	Medium Energy Particles Instrument - distrib. fns., p > 24 keV, e > 20 keV	Energ. Elect.&Prot. Flux Spectra	none	none	PDP-11	fixed	7614	none	binary	TBD	
+SPMS-00112	77-102B-06A	2.5	DSC_434	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00113	77-102A-04U,77-102B-04Q	5	DSC_0588	ISEE	ISEE 1	Fluxgate Magnetometer, Tri-axial	Magnetosph B-Fld with IMF & N V T	none	none	IBM 360/370	variable	7040	none	character	TBD	
+SPMS-00114	77-102B-04G	2.5	DSC_541	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00116	77-102B-04A	2	DSC_434	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00117	77-102A-12F	5	DSC_0480	ISEE	ISEE 1	Energetic Ion Mass Spectrometer (0-17 keV/q; 1 AMU to > 150 AMU)	Summary: R-Files (FORMAT4)	none	none	IBM 360/370	variable	2046	none	binary	ANSI	
+SPMS-00118	77-102A-03A	4	DSC_0453	ISEE 1	ISEE 1	Low-Energy Proton and Electron Differential Energy Analyzer (LEPEDEA)	128- &512-S Res. Plasma Data	none	TBD	Univac 418	fixed	0	none	binary	TBD	Need to merge SPMS-00118, SPMS-00450, and SPMS-00539
+SPMS-00119	77-102A-02D	4.5	DSC_0714	ISEE	ISEE 1	Vector Electron Spectrometer Experiment	9s/18s Electron Moments N V T H	none	none	VAX	fixed	32720	none	character	ANSI	This was a replacement data set for 77-102a-02a, this data set had 40 tapes and was released and replacement with 77-102a-02d
+SPMS-00120	77-102A-01G	4	DSC_0434	ISEE	ISEE 1	Plasma, LANL	Fast Plasma & SWind Ion,2-D, CDAW	none	none	CDC 6000/7000	variable	1785	none	binary	TBD	
+SPMS-00121	77-102A-01B	4.5	DSC_0434	ISEE	ISEE 1	Fast Plasma Experiment (FPE) and Solar Wind Ion Experiment (SWE)	Two-Dimensional Plasma Data	none	none	CDC 6000/7000	variable	1125	none	binary	TBD	 
+SPMS-00122	72-073A-08D	6	DSC_0363	IMP	IMP 7	Charged Particle Telescope + GM Tubes	10-Min + Daily Average X-ray Flux	none	none	IBM 7044/7090/7094	variable	26400	packed	character	TBD	Incomplete original tape specifications. 
+SPMS-00126	78-071A-09B	2	DSC_542	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00128	78-071A-03A	3	DSC_0542	ESA-GEOS	ESA-GEOS 2	Low Energy Ion Composition	Low Energy Ion Comp Moments Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00129	84-088B-04C	2	DSC_697	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00131	59-007A-01A	6	DSC_0026	Vanguard	Vanguard 3	Proton Precessional Magnetometer	Scalar Magnetic Field Val.	none	none	IBM 7044/7090/7094	fixed	84	packed	binary	TBD	Original tape BCD, during restoration process new tape was written in EBCDIC and Packed
+SPMS-00132	59-004A-02F	6	DSC_0108	Explorer	Explorer 6	Scintillation Counter	L-Ordered Count Rate vs Time	none	none	IBM 7044/7090/7094	fixed	84	none	character	TBD	Non-merged dataset, original DD tape shared with another dataset, used original DD record in IDA.
+SPMS-00133	72-076B-01A	3.5	DSC_0430	RADSAT	RADSAT	Solar Proton, Deuteron Triton Solid-State Telescope	Lat.Long.Sort Trap.Prot.Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00134	72-073A-10B,73-078A-10B	6	DSC_0417	IMP	IMP-J	Solar Plasma Electrostatic Analyzer	H,J Merged Hrly Solar Wind Plasma	none	none	CDC 6000/7000	fixed	5000	none	binary	TBD	Merged with dataset 72-073A-10B.
+SPMS-00135	72-073A-08B	6	DSC_0378	IMP	IMP 7	Charged Particle Telescope + GM Tubes	Master Science Files, 5.5 Min Avg	none	none	Modcomp	variable	256	none	binary	TBD	The tape is blocked 5:1, 3140 bytes per LRECL, 15700 bytes per physical record. 
+SPMS-00136	72-069A-01A	4	DSC_0443	TIP 1	TIP 1	Triaxial Fluxgate Magnetometer	Triad Magnetometer Data	none	none	IBM 360/370	fixed	0	none	binary	TBD	
+SPMS-00140	69-025C-01A,69-025C-02A,69-025C-04A,69-025C-05A,69-025C-06A,69-025C-11A	6	0	OV1	OV1-19	Omnidirectional Proton and Electron Fluxes and Spectra	Omni Prot/Elect Spectrometer	none	none	TBD	fixed	0	none	binary	TBD	(OV1-19 - 34 multi-exp tapes; why not DRP'd earlier?)
+SPMS-00142	68-026A-02A	2	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00146	77-102A-03F	4	0	ISEE 1	ISEE 1	Low-Energy Proton and Electron Differential Energy Analyzer (LEPEDEA)	LEPEDEA 2 Min,Den,Vel,Temp. Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00147	77-102A-00H,77-102A-01D,77-102A-03B,77-102A-04C,77-102A-05B,77-102A-06B,77-102A-07C,77-102A-08C,77-102A-09C,77-102A-10C,77-102A-12B	5	DSC_0456	ISEE 1	ISEE 1	Electron and Proton Fluxes in the Outer Magnetosphere (1.5-300 keV)	QuickLook Data Pool, 10 Exp + Eph	none	none	IBM 360/370	fixed	0	none	binary	TBD	
+SPMS-00148	77-102A-01N	4.5	DSC_0676	ISEE	ISEE 1	Fast Plasma Experiment FPE and Solar Wind Ion Experiment SWE	SW Ion Moments X-Fan Anal, 24-Sec	none	VMS Backup	VAX	variable	32767	none	character	TBD	This data set exists on nssdcftp now, but with the name "xfan_ascii".
+SPMS-00149	77-102A-01I	4.5	DSC_0481	ISEE	ISEE 1	Fast Plasma Experiment FPE and Solar Wind Ion Experiment SWE	Proton Fluid Param 6Re-Bow Shock	none	none	IBM 360/370	fixed	4460	none	character	TBD	
+SPMS-00154	75-100A-04A	2	DSC_435	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00168	73-078A-04D	6	DSC_0701	IMP	IMP 8	Protons and Electrons 25 eV - 50 KeV	Digital Distribution Functions	none	none	VAX	variable	10880	none	binary	TBD	 
+SPMS-00170	84-088A-01C	2.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00171	84-088A-01B	4	DSC_0666	AMPTE/CCE	AMPTE/CCE	Hot Plasma Composition Experiment (HPCE)	6.4-min, Energy-Mass Spectra	none	none	IBM 360/370	variable	28672	none	binary	TBD	
+SPMS-00175	79-094A-01J,79-094A-02N	4	DSC_0445	Magsat	Magsat	Scalar Magnetometer	Select Data for Field Model	none	TBD	IBM 360/370	fixed	0	none	binary	TBD	
+SPMS-00177	79-094A-01D,79-094A-02D	4	DSC_0445	magsat	Magsat	Scalar Magnetometer	Purdue Mag Field Routines	none	none	IBM 360/370	fixed	0	none	character	TBD	
+SPMS-00178	78-062A-04A	3	DSC_0550	GOES	GOES  3	Magnetic Field Monitor	Magnetometer Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00179	77-102B-08F	5	DSC_0675	ISEE 2	ISEE 2	Electron and Proton Fluxes in the Outer Magnetosphere (1.5-300 keV)	4-Sec Avg Electron + Proton Flux	none	none	IBM 360/370	variable	3400	none	binary	TBD	 
+SPMS-00182	77-102A-09A,77-102B-07A	3	DSC_0434	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00183	77-102B-06B	2.5	DSC_434	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00184	77-102B-04P	5	DSC_0675	ISEE	ISEE 2	Fluxgate Magnetometer, Tri-axial	4-S Resol B-Fld Data (12-S Avg)	none	none	IBM 360/370	fixed	2400	none	binary	TBD	 
+SPMS-00185	77-102A-04O,77-102B-04L	3.5	DSC_0434	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00186	77-102B-02A	2.5	DSC_434	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00189	77-102A-08D	3.5	DSC_0434	ISEE	ISEE 1	Plasma Total Electron Density by Radio Techniques	Plasma Density Sounder	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00190	77-102A-06C	4.5	0	ISEE	ISEE 1	Quasi_static and low_frequency electric fields 0.1 to 200 mV_m frequency less than 1000Hz	Spin-Period Averaged Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00193	77-102A-02C	4.5	DSC_0527	ISEE	ISEE 1	Vector Electron Spectrometer Experiment	5 Min Avg Electron Parameters	none	none	IBM 3081	variable	24804	none	binary	TBD	
+SPMS-00202	71-019A-11C,72-073A-10A,73-078A-10A	6	DSC_0372	IMP	IMP-J	Solar Plasma Electrostatic Analyzer	Merged IMP I,H,J 3 Hr Plasma Parm	none	none	IBM 360/370	fixed	136	none	character	TBD	Merged with datasets 71-019A-11C and 72-073A-10A.
+SPMS-00203	72-073A-10C	6	DSC_0372	IMP	IMP 7	Solar Plasma Electrostatic Analyzer	2-Min Prot,Alpha Solar Wind Mmts	none	none	VAX	variable	2048	padded	character	TBD	VAX label=IMPH72  - contains 16 words, maxblk 90 bytes.
+SPMS-00211	69-069A-04A	6	DSC_0190	ATS	ATS 5	Tri-Directional Medium-Energy Particle Detector	40-120 KV El & 60-165 KV Protn	none	none	IBM 360/370	variable	3646	none	binary	TBD	This datasets was excluded from OTTO it has \"restored\" data on DR tapes and \"unrestored\" data on DD tapes.
+SPMS-00212	69-053A-04A	6	DSC_0354	IMP	IMP-G	Low-Energy Proton and Electron Differential Energy Analyzer (LEPEDEA)	LEPEDEA Count Rates	none	none	IBM 360/75	variable	7440	none	character	TBD	
+SPMS-00213	66-110A-01A	6	DSC_0177	ATS	ATS 1	Suprathermal Ion Detector	1.88Min Interval,0-50 eV Ion Data	none	none	IBM 7044/7090/7094	fixed	2640	packed	character	TBD	(ATS 1; why 01A not DRP\\'d? (Kent?); no DIO-ingest for -02G-treat as docum file for -02C&E; no DIO-ingest for -03A, release it)
+SPMS-00214	65-081A-05B	2	DSC_033	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00215	62-068A-02A	6	DSC_0831	Relay	Relay 1	Solid-State Ion Chamber Electron and Proton Detector	L-Ordered Electron-Proton Data	none	none	IBM 7044/7090/7094	variable	776	none	binary	TBD	
+SPMS-00216	62-059A-02A	6	DSC_0009	Explorer	Explorer 15	Directional and Omnidirectional Energetic Protons and Electrons	Time-Ordered Particle Count Rates	none	none	CDC 3600	fixed	960	padded	binary	TBD	04/15/03 All files are now padded....GLS Data are binary, but were padded as if character mode when converting from 6-bit to 8-bit bytes.  Dataset catalog does not reflect the padding, must be updated.  PWM 2007-03-29
+SPMS-00218	62-051A-03A	2	DSC_007	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00227	77-102A-07A	4.5	0	ISEE	ISEE 1	Plasma waves electric and magnetic fields spectra_flux_direction 5.62Hz to 311khz	VLF Elec Spect Analyzer Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00234	77-102A-04Y	6	0	ISEE	ISEE 1	Fluxgate Magnetometer Tri-axial	4-s Avg B_SC Coords  Definitive	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	Data in SPMS-00234 and SPMS-00669
+SPMS-00238	77-102A-06G	6	DSC_0529	ISEE	ISEE 1	Quasi-static and low-freq electric fields (0.1-200 mV/m, frequency < 1000Hz	3-S E+B Fld, SC Potential, Waves	none	none	PDP-11	fixed	3536	none	binary	TBD	
+SPMS-00240	84-088A-03C	2.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00241	84-088A-02C	2.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00243	83-041A-05A	1.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	Data in SPMS-00243 and SPMS-00355
+SPMS-00244	81-070A-06C	2.5	DSC_692	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00245	81-049A-04A	2.5	DSC_646	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00246	79-094A-01M	4	DSC_0526	Magsat	Magsat	Scalar Magnetometer	Low-Latitude Scalar Anomaly	none	none	IBM 360/370	variable	800	none	character	TBD	
+SPMS-00247	79-007A-14B	3	DSC_0697	STP P78-2	STP P78-2	Energetic Proton Detector	10 Min CDAW9 PROMIS Events A-E	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00248	78-079A-08A	3	0	ISEE	ISEE 3	Energetic Particle Anisotropy Spectrometer EPAS	3-Ch Protn Flux 256-s OMNI+Sector	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00250	78-071A-03B	3	DSC_0542	ESA-GEOS	ESA-GEOS 2	Low-Energy Ion Composition	Low Energy Ion Comp Original Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00253	77-102A-04M,77-102B-04J	3.5	DSC_0541	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00255	77-102A-11D	5	DSC_0556	ISEE	ISEE 1	DC and Low Frequency Electric Fields, Double-probe, 0.19-1900 Hz	3-S Avgd Plasmaspheric Elec Field	none	none	IBM 360/370	fixed	2750	none	character	TBD	
+SPMS-00256	77-102A-08E	3	0	ISEE	ISEE 1	Plasma Total Electron Density by Radio Techniques	Plasma Density - Sounder revisd	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00259	77-102A-04A	3.5	DSC_0434	ISEE	ISEE 1	Fluxgate Magnetometer Tri-axial	64 Second Avg Magnetometer Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00260	65-098A-04B	4	DSC_0277	Alouette	Alouette 2	Energetic Particle Detectors	Particle Boundary Data	none	none	IBM 360/370	fixed	0	none	character	TBD	
+SPMS-00263	64-083C-01A	6	DSC_0032	1964-083C	1964-083C	Rubidium Vapor Magnetometer	Rubidium Vapor Mag. Data	none	none	IBM 7044/7090/7094	fixed	84	none	character	TBD	
+SPMS-00265	63-038C-01E	6	DSC_0837	1963-038C	1963-038C	Energetic Electron and Proton Detectors	Sorted Index of Data	none	none	IBM 7044/7090/7094	variable	7184	none	binary	TBD	(DIO-ingest only -01D, retain -01E as supporting material for -01D) -01E = yearly index of the information contained in data set 63-038C-01D.  This datasets was excluded from OTTO it has \"restored\" data on DR tapes and \"unrestored\" data on DD tapes.
+SPMS-00266	62-059A-05A	6	DSC_0081	Explorer	Explorer 15	Proton-Electron Scintillation Detector	Trapped Radiation Reduced Data	none	none	IBM 7044/7090/7094	variable	2760	padded	binary	TBD	Each record is 60 words long, physical record 2760 bytes.
+SPMS-00267	62-059A-01A	6	DSC_0008	Explorer	Explorer 15	Electron and Proton Solid-State Detectors	L-Ordered Protn+Electn Count	none	none	IBM 7044/7090/7094	variable	747	none	binary	TBD	Logical records are separated in the blocks (physical record) by control words (of 6 chars).  14 words per logical record and up to 167 words per physical record. Changed recordtype 'fixed' to 'variable' and logical size from 84 to 63.  PWM 2007-03-29
+SPMS-00268	74-039A-07A	5	DSC_0418	ATS	ATS 6	Omnidirectional Spectrometer	Energetic Particle Spectrmtr Data	none	none	CDC 6000/7000	fixed	3720	none	binary	TBD	
+SPMS-00269	74-039A-03A	4	0	ATS	ATS 6	Low Energy Proton_Electron Experiment	Lo-E Elec+Ion Plasma Spectra	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00272	72-073A-04B,73-078A-04A	4	DSC_0453	IMP-H	IMP-H	Measurement of Low-Energy Protons and Electrons	Plasma Data, CDAW	none	none	Univac 418	fixed	0	none	binary	TBD	
+SPMS-00276	62-051A-03B	5	DSC_0007	Explorer	Explorer 14	Trapped Particle Radiation	Anton 213, 302GM Count Rate+Ephem	none	none	IBM 7044/7090/7094	variable	1200	none	character	TBD	
+SPMS-00277	62-029A-01A	6	DSC_0024	Telstar	Telstar 1	Proton and Electron Radiation	Protn+Elec Count Rt+Ephm,Besys	none	none	IBM 7044/7090/7094	variable	748	none	binary	TBD	
+SPMS-00279	61-020A-05A	6	DSC_0179	Explorer	Explorer 12	Proton-Electron Scintillation Detector	Reduced Elect+Prot Cnt Rates	none	none	IBM 7044/7090/7094	fixed	2760	none	binary	TBD	Each record is 60 words long. The data include phototube current, count rates, and housekeeping channel readings for 256 telemetry frames. The channel readings for each frame are packed together as binary integers in one 36-bit word. This datasets was exc
+SPMS-00281	62-006A-11B	6	DSC_0833	OSO	OSO 1	Proton Electron Analyzer	Protons, Electrons, Clean Files	none	none	IBM 360/370	fixed	3200	none	character	TBD	
+SPMS-00282	75-100A-02A	2	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00283	77-102A-01E	3.5	DSC_0434	ISEE	ISEE 1	Fast Plasma Experiment FPE and Solar Wind Ion Experiment SWE	Bow Shock Crossing Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00284	77-102A-02A	4.5	DSC_0434	ISEE 1	ISEE 1	Vector Electron Spectrometer Experiment	3-D 6eV-10KeV Elect Spect Data	none	none	PDP-11	fixed	0	none	binary	TBD	
+SPMS-00285	77-102A-04P	4	DSC_0675	ISEE 1	ISEE 1	Fluxgate Magnetometer, Tri-axial	3-Sec Magnetic Field Data in GSE	none	none	IBM 360/370	fixed	0	none	binary	TBD	
+SPMS-00290	77-102A-04J,77-102B-04H	4.5	DSC_0530	ISEE 1	ISEE 1	Fluxgate Magnetometer, Tri-axial	High Resol. Bow Shock Magnetometr	none	none	IBM 3081/32-bit	fixed	0	none	binary	TBD	
+SPMS-00291	77-102B-04C	2.5	DSC_434	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00293	77-102B-02B	1.5	DSC_541	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00294	77-102A-12D	5	DSC_0480	ISEE	ISEE 1	Energetic Ion Mass Spectrometer (0-17 keV/q; 1 AMU to > 150 AMU)	Thermal Ion Measurements Data	none	none	Univac 11/80	variable	15054	none	binary	TBD	
+SPMS-00295	77-102A-11A	5	DSC_0434	ISEE	ISEE 1	DC and Low Frequency Electric Fields, Double-Probe, 0.19-1900 Hz	DC Electric Field HFSRD data	none	none	IBM 360/370	fixed	4096	none	binary	TBD	
+SPMS-00296	77-102A-10H	5	DSC_0675	ISEE	ISEE 1	Electron and Proton Fluxes in the Outer Magnetosphere 1.5-300 keV	4-Second Avg Electron+Proton Flux	none	none	IBM 360/370	variable	3400	none	binary	TBD	
+SPMS-00298	77-102A-09G	3	DSC_0541	ISEE	ISEE 1	Medium Energy Particles Instrument Distrib. fns. p greater than 24 keV e greater than 20 keV	Medium Energy Particles MEPI	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00301	77-102A-07F	3	DSC_0541	ISEE	ISEE 1	Plasma waves electric and magnetic fields spectra flux direction 5.62Hz to 311khz	VLF Elec.Spec.Analyzer Peaks	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00302	77-102A-06F	4	0	ISEE	ISEE 1	Quasi static and low frequency electric fields 0.1 to 200 mV_m frequency less than 1000Hz	3 Sec E and B Field Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00303	77-102A-06E	4	DSC_0647	ISEE 1	ISEE 1	Quasi-static and low-frequency electric fields (0.1-200 mV/m, frequency < 1000Hz	Quasi-Static E-Field	none	none	IBM 3032	fixed	0	none	character	TBD	
+SPMS-00304	77-102A-04T	4.5	DSC_0675	ISEE	ISEE 1	Fluxgate Magnetometer, Tri-axial	4-s Res. B-Field Data 12-s Avg	none	none	IBM 360/75	fixed	2400	none	binary	TBD	
+SPMS-00306	77-102A-04I	3.5	DSC_0541	ISEE	ISEE 1	Fluxgate Magnetometer Tri-axial	GSE_GSM Mag Vectors 1 Min Avg	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00307	77-102A-04E	4.5	DSC_0434	ISEE 1	ISEE 1	Fluxgate Magnetometer, Tri-axial	4-S Avgd. Magnetometer Data	none	none	IBM 360/370	fixed	0	none	binary	TBD	Data in SPMS-00307, SPMS-00476
+SPMS-00308	77-102A-03G	4.5	DSC_0676	ISEE	ISEE 1	Low-Energy Proton and Electron Differential Energy Analyzer LEPEDEA	LEPEDEA 3-D Distr Func 128/512 S	none	none	Univac 11/80	variable	6560	none	binary	TBD	
+SPMS-00309	77-102A-01K	4	0	ISEE	ISEE 1	Fast Plasma Experiment FPE and Solar Wind Ion Experiment SWE	5-Min Avgd Solar Wind Ion Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00310	77-102A-01H	4	0	ISEE 1	ISEE 1	Fast Plasma Experiment (FPE) and Solar Wind Ion Experiment (SWE)	Fast Plasma 3-Dimen 12+48 Sec Dat	none	none	IBM 360/370	fixed	0	none	binary	TBD	Data in SPHE-00076 and SPMS-00310
+SPMS-00311	77-102A-01F,77-102B-01C	4	DSC_0434	ISEE 1	ISEE 1	Fast Plasma Experiment (FPE) and Solar Wind Ion Experiment (SWE)	2-D Plasma Temp Tensor Data	none	none	IBM 360/370	variable	0	none	character	TBD	
+SPMS-00313	74-039A-02E	4	DSC_0438	ATS 6	ATS 6	Magnetometer Experiment	0.5-Sec S/C X+Z Comp Mag. Field	none	none	IBM 360/370	fixed	0	none	binary	TBD	
+SPMS-00315	72-073A-08J	4	DSC_0380	IMP-H	IMP-H	Charged Particle Measurements Experiment (CPME)	Hr Avg 1-2,14-25 MeV Prot Flx	none	none	Modcomp	fixed	0	none	binary	TBD	REF TO 73-078A-08B
+SPMS-00320	69-069A-11C	6	DSC_0490	ATS	ATS 5	Bidirectional Low-Energy Particle Detector	4 Moms. Elect & Prot Perp & Par	none	none	CDC 6000/7000	fixed	5122	none	binary	TBD	 
+SPMS-00323	68-014A-13A	6	DSC_0152	OGO	OGO 5	Particle Wave Study	Electron Flux (6dir) .05-1.2 MeV	none	none	IBM 360/370	fixed	4088	none	binary	TBD	120-byte header. The physical record size of these tapes is088 bytes. Physical records containing fewer than 255 logical data records are padded out with blanks.  This datasets was excluded from OTTO it has \\\"restored\\\" data on DR tapes and \\\"unrest
+SPMS-00326	64-086A-01B	6	DSC_0071	Explorer	Explorer 15	Solid-State Electron Detector	E>1.7MeV Electron Count Rate	none	none	IBM 360/370	variable	748	none	binary	TBD	E7 analog data This datasets was excluded from OTTO it has \"restored\" data on DR tapes and \"unrestored\" data on DD tapes.
+SPMS-00328	62-051A-05A	6	DSC_0189	Explorer	Explorer 14	Proton-Electron Scintillation Detector	Trapped Radiation Reduced Data	none	none	IBM 7044/7090/7094	fixed	2760	none	binary	TBD	Each record is60 words long, physical record 2760 bytes.  This datasets was excluded from OTTO it has \"restored\" data on DR tapes and \"unrestored\" data on DD tapes.
+SPMS-00329	62-051A-04B	6	DSC_0109	Explorer	Explorer 14	Cosmic Rays	GM+Scint 1-hr Cnt Data Logbk	none	none	IBM 7044/7090/7094	variable	3642	none	binary	TBD	781 words  This datasets was excluded from OTTO it has \"restored\" data on DR tapes and \"unrestored\" data on DD tapes.
+SPMS-00330	62-051A-04A	6	DSC_0063	Explorer	Explorer 14	Cosmic Rays	GM+Scint CR Cnt Data,Encycl	none	none	IBM 7044/7090/7094	variable	3942	none	binary	TBD	875 words.  This datasets was excluded from OTTO it has \"restored\" data on DR tapes and \"unrestored\" data on DD tapes.
+SPMS-00331	62-051A-03C	6	DSC_0007	Explorer	Explorer 14	Trapped Particle Radiation	Compacted GM Tube Cnt Rates+Orbit	none	none	IBM 7044/7090/7094	variable	780	none	character	TBD	IBM 7094, even-parity, BCD magnetic tapes.
+SPMS-00332	62-051A-02A	6	DSC_0188	Explorer	Explorer 14	Fluxgate Magnetometer	10-Sec Avg B-Fld Comp Every 5 Min	none	none	IBM 360/370	fixed	112	padded	character	TBD	Two tapes were written on an IBM 360 (1,3) and the remaining four on CDC 3600 (2,4,5,6).  When a record contains less than 112 characters in a record, it is padded with blanks.  On tapes 1 and 3, when day number equals 999, that indicates EOF.
+SPMS-00333	65-058C-01A,65-058C-02A,65-058C-03A	6	DSC_0155	ERS	ERS 17	Charged Particle Detectors	4.5 S Merged Part, X, Gamma Cnts	none	none	CDC 3000	fixed	960	none	character	TBD	Merged with datasets 65-058C-02A and -03A 
+SPMS-00334	65-058C-01D	6	DSC_0108	ERS	ERS 17	Charged Particle Detectors	L-Ordered Elec+Prot Cnt Rates	none	none	IBM 7044/7090/7094	variable	84	none	character	TBD	Non-merged dataset, original DD tape shared with another dataset, used original DD record in IDA. 
+SPMS-00335	68-026A-02B,68-026A-04B	6	DSC_0437	OV1	OV1-13	High Energy Electron Scintillator	Count Rates	none	none	Modcomp	fixed	9776	none	binary	TBD	Merged with dataset 68-026A-02B. ASCII header
+SPMS-00341	65-078A-03B	5	0	OV1- 2	OV1- 2	X-ray CSI Crystal Dosimeter	Dosimetry Data	none	none	IBM 360/370	variable	1387	none	character	TBD	Data in SPMS-00341 & SPMS-00652    NO DSC# NO CROSS REF
+SPMS-00349	78-071A-03C	3	DSC_0542	ESA-GEOS	ESA-GEOS 2	Low Energy Ion Composition	Low Energy Ion Composition	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00350	78-071A-01B	3	DSC_0542	ESA-GEOS	ESA-GEOS 2	Electron and Proton Pitch Angle Distribution	Elec_Prot Pitch Angle Dist	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00351	79-007A-14A	4	DSC_0547	STP P78-2	STP P78-2	Energetic Proton Detector	Energetic Proton Fluxes 1-Min Avg	none	none	Modcomp	fixed	0	none	character	TBD	
+SPMS-00354	83-067A-04B	3.5	DSC_0664	Prognoz	Prognoz  9	Plasma Spectrometer	Solar Wind Hourly Plasma Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00355	81-049A-04B	2.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	Data in SPMS-00243 and SPMS-00355
+SPMS-00357	69-097A-03A	6	0	Azur	Azur	Proton Telescope	Proton + Alpha Count Rates	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00358	86-019B-05B	3	DSC_0697	Viking Sweden	Viking Sweden	Hot Plasma Experiment	.15 Sec CDAW9 Promis Events A-E	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00361	75-114B-06A	1	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00363	64-069A-01D	6	DSC_0166	Cosmos	Cosmos 49	Proton Precessional Magnetometers	Scalar Magnetometer Data	none	none	IBM 360/370	variable	2400	none	character	TBD	
+SPMS-00365	69-097A-01A	6	DSC_0205	Azur	Azur	Fluxgate Magnetometer	10-Sec Mag Field Vectors	none	none	CDC 3800	variable	2640	none	binary	TBD	
+SPMS-00371	63-038C-01C	3	0	1963-038C	1963-038C	Energetic Electron and Proton Detectors	Sorted Index of Data in Set A	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00373	76-065B-07A	2	DSC_441	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00374	77-023A-05A	2	DSC_479	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00378	79-007A-08A	4	DSC_0547	STP P78-2	STP P78-2	Magnetic Field Monitor	B Field Averages - 1 Min	none	none	Modcomp	fixed	0	none	character	TBD	
+SPMS-00379	79-007A-05A	2	DSC_547	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00383	78-101A-04A	4	DSC_0664	Prognoz 7	Prognoz 7	Three-Axis Fluxgate Magnetometers	5-min Averaged Mag Field Vector	none	none	IBM 360/370	fixed	0	none	binary	TBD	
+SPMS-00385	76-059A-01A,77-007A-01A	2	DSC_439	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00386	76-065B-02A	2	DSC_441	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00395	77-102A-06H	4.5	DSC_0529	ISEE1	ISEE1	TBD	TBD	none	none	VAX	variable	3200	none	binary	TBD	
+SPMS-00396	81-070B-01A	1	DSC_646	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00397	81-070A-04A	2.5	DSC_646	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00399	79-094A-01E,79-094A-02H	4	DSC_0445	magsat	Magsat	Scalar Magnetometer	User Programs	none	none	IBM 360/370	variable	0	none	character	TBD	
+SPMS-00400	79-094A-01A,79-094A-02A	4	DSC_0445	magsat	Magsat	Scalar Magnetometer	0.06-s Chronicle Int-Att.	none	none	IBM 360/370	fixed	0	none	binary	TBD	
+SPMS-00404	77-102B-08E	3.5	DSC_0647	ISEE	ISEE 2	Electron and Proton Fluxes in the Outer Magnetosphere 1.5 to 300 keV	Protn_Electrn Flux and Cnt Rate	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00409	81-070A-06E	5	DSC_0796	Dynamics Explorer 1	Dynamics Explorer 1	Energetic Ion Composition Spectrometer (EICS)	DE-1 EICS DE_VS_EICS H+,O+,He+ fl	tar	tar	VAX	variable	0	none	character	TBD	"D-108614 MAX BLOCK IS (20480) ONLY THIS TAPE THE REST IS
+
+10240. THREE 4MM TAPES"
+SPMS-00414	84-088A-02B	4	DSC_0666	AMPTE	CCE	Medium Energy Particle Analyzer (MEPA)	6.4-min, Mass-Energy Spectra	none	none	IBM 7044/7090/7094	variable	22528	none	binary	TBD	 
+SPMS-00415	79-094A-01K,79-094A-02O	4	DSC_0445	Magsat	Magsat	Scalar Magnetometer	5-s Inves-B Quiet Time Data	gzip	none	IBM 360/370	fixed	0	none	binary	TBD	3 tapes First two D tape was blocked three C tapes are unblocked
+SPMS-00417	79-094A-01B,79-094A-02B	4	DSC_0445	magsat	Magsat	Scalar Magnetometer	0.06-s Chronicle, SC Coords	none	none	IBM 360/370	fixed	0	none	binary	TBD	
+SPMS-00418	78-079A-08E	2	DSC_647	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00420	77-102B-08A	3.5	DSC_0434	ISEE	ISEE 2	Electron and Proton Fluxes in the Outer Magnetosphere 1.5 to 300 keV	Particle Flux and Cnt. Rate Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00421	77-102A-04S,77-102B-04O	3.5	DSC_0690	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00423	74-040A-01A,74-040A-02A,74-040A-03A	4.5	DSC_0789	Hawkeye	Hawkeye 1	ELF/VLF Receivers	Master Science File	none	VMS Backup	VAX	fixed	0	none	character	TBD	15 4 MM TAPES BACKUP FORMAT
+SPMS-00424	84-088A-05B	4	DSC_0666	AMPTE/CCE	AMPTE/CCE	CCE Magnetometer (MAG)	Magnetic Field Vector SFDU	none	none	VAX	variable	12288	none	character	TBD	
+SPMS-00425	77-102A-10G	4.5	0	ISEE	ISEE 1	Electron and Proton Fluxes in the Outer Magnetosphere 1.5 to 300 keV	Protn_Electrn Flux and Cnt Rate	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00426	77-102A-07G	3	DSC_0541	ISEE	ISEE 1	Plasma waves electric and magnetic fields spectra_flux_direction 5.62Hz to 311khz	VLF Mag Spec Analyzer Averages	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00427	77-102A-07B	4.5	0	ISEE	ISEE 1	Plasma waves electric and magnetic fields spectra_flux_direction 5.62Hz to 311khz	VLF Mag. Spectrum Ana. Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00430	64-040C-01B	6	DSC_0108	ERS	ERS 13	Charged Particle Detectors	Electrons above 700 KeV,L-Ordered	none	none	IBM 7044/7090/7094	variable	84	none	character	TBD	Non-merged dataset, original DD tape shared with another dataset, assigned new DD record in IDA.This data set and data set 65-058c-01d appear as separate files on this tape.
+SPMS-00432	58-005A-01C	6	DSC_0001	Explorer	Explorer 4	Charged Particle Detector	Count Rates-Recal. B and L	none	none	IBM 7044/7090/7094	fixed	120	none	character	TBD	(some redundancy, but retain all for historic interest)   It contains the same data as in data set 58-005A-01B (time ordered), except that in this data set a 120-term GSFC 1966 model was added to the8-term Jensen-Cain (J-C) model. Missing DR and DS tapes.
+SPMS-00434	62-068A-03B	6	DSC_0044	Relay	Relay 1	Proton-Electron Detectors	Proton-Electron L-Sorted Avg Cnts	none	none	CDC 3600	variable	2160	none	character	TBD	(should be one JEDS ID?) (d.s. 03A is program file; add as supporting documentation for data set)
+SPMS-00436	84-015A-08A	3.5	DSC_0687	Ohzora	Ohzora	Monitor of High Energy Particles	Ohzora Proton and Elect Rates	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00439	77-102A-09H	5	DSC_0748	ISEE	ISEE 1	Medium Energy Particles Instrument - Distrib. fns. p > 24 keV e > 20 keV	MEPI/WAPS 3-D Distr. Func. 36-s	none	VMS Backup	VAX	fixed	8192	none	character	TBD	
+SPMS-00441	84-088A-04C	2.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00442	84-088A-03B	4	DSC_0666	AMPTE	CCE	Charge-Energy-Mass Spectrometer (CHEM)	Charge-Energy-Mass Spectrum SFDU	none	none	IBM 7044/7090/7094	variable	20480	none	binary	TBD	 
+SPMS-00444	77-102B-06C	2.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00450	77-102B-03A	1.5	DSC_453	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	Data in SPMS-00118, SPMS-00450, and SPMS-00539
+SPMS-00453	74-039A-05B	4.5	DSC_0490	ATS	ATS 6	Auroral Particles Experiment	Geosyn Plasma Environ. Pict Atlas	none	none	CDC 6000/7000	fixed	13468	none	binary	TBD	
+SPMS-00457	79-094A-02T	4	0	Magsat	Magsat	Vector Magnetometer	65S-65N Vector Anomaly Comps	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00460	68-066B-03B	6	DSC_0335	Injun	Injun 5	Solid-State Particle Detector	15-s Avg Count Rates	none	none	Univac 418	fixed	6456	none	binary	TBD	Tapes d-022967, had lots of read errors on file 1 rec 5,9,190-191,763,1655,2310,2871,3167 and 3172 
+SPMS-00461	68-014A-24D	6	DSC_0010	OGO	OGO 5	Plasma Wave Detector	3-Min Avg E+B Digital Spec Analys	none	none	IBM 7044/7090/7094	fixed	136	none	character	TBD	
+SPMS-00464	67-073A-11A	6	DSC_0125	OGO	OGO 4	Low-Energy Auroral Particle Detector	Auroral Particle Count Rates	none	TBD	IBM 360/370	variable	9002	TBD	binary	TBD	On binary magnetic tapes written on an IBM 360 computer. There are five possible logical record lengths corresponding to each of the formats used in sampling and telemetering the data, with the maximum logical record being 9002 bytes.  This datasets was e
+SPMS-00465	67-073A-06A	6	0	OGO	OGO 4	Magnetic Survey Rubidium Vapor Magnetometer	Magnetic Field Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00468	84-088A-05C	2.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00470	79-094A-01G,79-094A-02J	4	DSC_0445	Magsat	Magsat	Scalar Magnetometer	5-s Investigator-B Data	none	none	IBM 360/370	fixed	0	none	binary	TBD	D tapes are blocked and C tapes are unblocked
+SPMS-00475	77-102A-04L,77-102B-04I	4.5	DSC_0541	ISEE 1	ISEE 1	Fluxgate Magnetometer, Tri-axial	Fluxgate Magnetometer 4 S Mag Fld	none	none	IBM 3081/32-bit	fixed	0	none	binary	TBD	
+SPMS-00476	77-102B-04B	3	0	ISEE	ISEE 2	Fluxgate Magnetometer Tri-axial	4-Sec Avgd Magnetometer Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00481	77-102A-06A	4	DSC_0434	ISEE 1	ISEE 1	Quasi-static and low-frequency electric fields (0.1-200 mV/m, frequency < 1000Hz	Quasi-Static Electric Field	none	none	PDP-11	fixed	3536	none	binary	TBD	 
+SPMS-00484	77-102A-01L	4.5	DSC_0628	ISEE	ISEE 1	Fast Plasma Experiment FPE and Solar Wind Ion Experiment SWE	Hr-Avg SW Den V Prot Temp	none	none	PDP-11	fixed	2048	none	character	TBD	
+SPMS-00489	72-073A-08M	3	DSC_0672	IMP-H	IMP-H	Charged Particle Measurements Experiment CPME	Hour Prot Flx_1_2_4_10_30_60 MeV	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00490	72-073A-08L	4	DSC_0553	IMP-H	IMP-H	Charged Particle Measurements Experiment (CPME)	Daily Avgd Pro Flx gt 10,30,60MeV	none	none	IBM 360/370	variable	0	none	character	TBD	Data in SPHE-00213 and SPMS-00490
+SPMS-00493	71-024A-04A	4.5	DSC_0264	ISIS 2	ISIS 2	Energetic Particle Detectors	Electron + Proton Data	none	none	IBM 360/370	variable	0	none	binary	TBD	
+SPMS-00495	68-014A-13B	6	DSC_0187	OGO	OGO 5	Particle Wave Study	Playback Electron Flux .05-1.2MeV	none	none	IBM 360/370	fixed	4088	none	binary	TBD	The physical record size of these tapes is088 bytes. Physical records containing fewer than 255 logical data records are padded out with blanks.
+SPMS-00496	67-100A-04A	6	DSC_0126	OSO	OSO 4	Proton Electron Detector	Electron,Proton Count Rates	none	none	CDC 3600	variable	0	none	binary	TBD	"This datasets was excluded from OTTO it has \\\\\\\""restored\\\\\\\"" data on DR tapes and \\\\\\\""unrestored\\\\\\\"" data on DD tapes.
+
+1 bad tape during restoration DD006061"
+SPMS-00497	66-110A-03A	6	DSC_0084	ATS	ATS 1	Omni Solid State Part Spect	Proton & Electron Fluxes	none	none	IBM 7044/7090/7094	fixed	5020	none	binary	TBD	(ATS 1; why 01A not DRP\\'d? (Kent?); no DIO-ingest for -02G-treat as docum file for -02C&E; no DIO-ingest for -03A, release it)
+SPMS-00498	65-081A-05G	1.5	DSC_173	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00499	65-081A-05E	1.5	DSC_173	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00502	64-086A-02A	6	DSC_0102	Explorer	Explorer 26	Omnidirectional and Unidirectional Electron and Proton Fluxes	L-Ordered Particle Cnt Rate	none	none	CDC 3000	fixed	1440	none	character	TBD	
+SPMS-00503	64-086A-01C	6	DSC_0071	Explorer	Explorer 26	Solid-State Electron Detector	E>0.45 MeV Electron Count Rate	none	none	IBM 360/370	variable	996	none	binary	TBD	E6 analog data 
+SPMS-00504	64-086A-01A	6	DSC_0071	Explorer	Explorer 26	Solid-State Electron Detector	0.3-3.5 MeV Electron Count Rate	none	none	IBM 360/370	variable	996	packed	binary	TBD	The first file of every tape is a BCD identification file which describes the format of the tape. The second file of the E6 and E7 analog tapes has 17-word binary records. Parity errors during restoration see DSC 
+SPMS-00506	64-060A-05B	6	0	IMP	IMP-B	Ion Chamber and GM Counters	Time-Sorted GM+Ion Cham Cnts	none	none	IBM 7096	variable	7524	none	character	TBD	
+SPMS-00507	64-060A-05A	2	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00509	62-049A-02A	5	DSC_0077	Alouette	Alouette 1	Energetic Particles Detectors	E GT 40-,P GT 500KEV 10S AV	none	none	IBM 360/370	variable	2576	none	character	TBD	
+SPMS-00510	61-020A-04B	6	DSC_0110	Explorer	Explorer 12	Cosmic Rays	GM+Scint 1-hr Cnt Data Logbk	none	none	IBM 7044/7090/7094	fixed	4686	none	binary	TBD	IBM 7094, binary magnetic tape. 
+SPMS-00516	63-038C-01D	6	DSC_0837	1963-038C	1963-038C	Energetic Electron and Proton Detectors	Time-Ordered Count Rates	none	none	IBM 7044/7090/7094	variable	7176	none	binary	TBD	(DIO-ingest only -01D, retain -01E as supporting material for -01D) 
+SPMS-00521	78-071A-04B	3	DSC_0542	ESA-GEOS	ESA-GEOS 2	Low-Energy Electron and Proton Pitch Angle Distribution	Low Energy Electron and Proton	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00523	79-007A-11B	3	DSC_0547	STP P78-2	STP P78-2	UCSD Charged Particle Detector	UCSD Charged Particle Det Average	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00524	79-007A-11A	2	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00525	79-007A-06A	3	DSC_0547	STP P78-2	STP P78-2	Spacecraft Sheath Fields Detector	SC2-3 Plasma Data	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00539	72-073A-04C,73-078A-04B	4	DSC_0453	IMP-H	IMP-H	Measurement of Low-Energy Protons and Electrons	164-Sec Resolution Plasma, CDAW	none	none	Univac 418	fixed	0	none	binary	TBD	Need to merge SPMS-00118, SPMS-00450, and SPMS-00539
+SPMS-00541	76-059A-01C,77-007A-01C,79-053A-01A	2.5	DSC_550	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00542	78-101A-01A	4	DSC_0663	Prognoz 7	Prognoz 7	Selective Combined Plasma Spectrometer	H+ & He++ Flux, V, T, & Den	none	none	IBM 360/370	fixed	0	none	binary	TBD	
+SPMS-00543	66-110A-02G	6	DSC_0206	ATS	ATS 1	Biaxial Fluxgate Magnetometer	Octal Command Logs	none	none	IBM 360/370	variable	7622	none	binary	TBD	(ATS 1; why 01A not DRP'd? (Kent?); no DIO-ingest for -02G-treat as docum file for -02C&E; no DIO-ingest for -03A, release it)
+SPMS-00544	66-110A-02E	6	DSC_0206	ATS	ATS 1	Biaxial Fluxgate Magnetometer	15 Sec Vect Mag Field Corr.	none	none	IBM 360/370	variable	3313	none	character	TBD	(ATS 1; why 01A not DRP\\'d? (Kent?); no DIO-ingest for -02G-treat as docum file for -02C&E; no DIO-ingest for -03A, release it) This datasets was excluded from OTTO it has \"restored\" data on DR tapes and \"unrestored\" data on DD tapes.
+SPMS-00545	66-110A-02C	6	DSC_0206	ATS	ATS 1	Biaxial Fluxgate Magnetometer	2.5 Min Avg Vect Mag Field	none	none	IBM 360/370	variable	3206	none	character	TBD	(ATS 1; why 01A not DRP'd? (Kent?); no DIO-ingest for -02G-treat as docum file for -02C&E; no DIO-ingest for -03A, release it)
+SPMS-00546	64-086A-02B	6	DSC_0059	Explorer	Explorer 26	Omni- and Unidirectional Electron and Proton Fluxes	Time-Ordered Count Rates	none	none	CDC 3600	variable	960	none	binary	TBD	CDC 3600, binary magnetic tape. There are 10 96-character logical records per physical record. 
+SPMS-00552	67-051A-04B	6	DSC_0268	IMP	IMP 4	Low-Energy Proton and Electron Differential Energy Analyzer (LEPEDEA)	LEPEDEA 5.8Min Cnt Rates & Fluxes	none	none	Univac 418	variable	7452	none	character	TBD	
+SPMS-00553	62-068A-03C	6	DSC_0044	Relay	Relay 1	Proton-Electron Detectors	10s Avg Rates Time Order	none	none	IBM 7044/7090/7094	variable	1400	none	binary	TBD	(should be one JEDS ID?) (d.s. 03A is program file; add as supporting documentation for data set))
+SPMS-00554	61-020A-04A	6	DSC_0110	Explorer	Explorer 12	Cosmic Rays	GM+Scint CR Cnt Data,Encycl	none	none	IBM 7044/7090/7094	variable	3942	none	binary	TBD	This reduced cosmic ray experiment data set is on seven experimenter-submitted, 7-track, 800-bpi, IBM 7094, binary magnetic tapes.  The tapes are blocked with 6.8 min of data per tape record. 
+SPMS-00555	61-020A-03A	6	DSC_0006	Explorer	Explorer 12	Charged Particles	Particle Count Rate + Ephem	none	none	IBM 7044/7090/7094	fixed	1710	none	character	TBD	
+SPMS-00556	61-020A-02A	2	DSC_093	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00558	59-004A-03D	6	DSC_0108	Explorer	Explorer 6	Ion Chamber and GM Counter	Merged L-Ordered Count Rate Data	none	none	IBM 7044/7090/7094	fixed	84	none	character	TBD	Non-merged dataset, original DD tape shared with another dataset, assigned new DD record in IDA.
+SPMS-00560	77-102A-12I	5	DSC_0480	ISEE	ISEE 1	Energetic Ion Mass Spectrometer (0-17 keV/q; 1 AMU to > 150 AMU)	Ion Comp Moments & Energy Spectra	none	VMS Backup	VAX	fixed	84	none	character	TBD	 
+SPMS-00564	71-063C-05G	4	DSC_0805	APOLLO 15	APOLLO 15	Suprathermal Ion Detector Experiment (SIDE)	NPAK Format (raw)	padded	none	IBM 3081/32-bit	variable	432	none	binary	TBD	 
+SPMS-00566	88-051A-04A	3.5	DSC_0695	Meteosat	Meteosat 3	LANL 43 to 300 keV Electron Detector SEM-2	Energetic Electron Detector	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00567	86-019B-05C	3	0	Viking Sweden	Viking Sweden	Hot Plasma Experiment	.1.2 S Viking Hot Plasma_Ener Par	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00573	79-007A-13B	2	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00575	86-019B-03B	3	DSC_0697	Viking Sweden	Viking Sweden	Low Frequency Wave Experiment	2-S Viking Low Freq Waves CDAW9	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00578	69-009A-04A	4.5	DSC_0285	ISIS	ISIS 1	Energetic Particle Detectors	Electron + Proton Data	none	none	IBM 360/370	fixed	11626	none	binary	TBD	 
+SPMS-00589	76-065B-01A	2	DSC_441	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00590	78-071A-07C	2	DSC_542	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00591	79-007A-15A	3	DSC_0547	STP P78-2	STP P78-2	High Energy Particle Detector	64-S Difrential Electrn Flux	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00592	79-007A-12A	3	DSC_0547	STP P78-2	STP P78-2	Rapid Scan Particle Detector	SC5 Final Atlas Electrons + Ions	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00595	83-113A-07A	5	DSC_0812	DMSP	DMSP 5D-2_F7	Space Radiation Dosimeter	1min ephemeris&4sec channel count	none	none	Cyber Computer	variable	17640	none	binary	TBD	
+SPMS-00599	71-008C-06G	4	DSC_0805	APOLLO 14C	APOLLO 14C	Suprathermal Ion Detector Experiment (SIDE)	NPAK Format (raw)	none	none	IBM 7044/7090/7094	fixed	0	none	binary	TBD	"THESE TAPE WAS NEVER INGESTED, BUT ASSIGN MEDIA NUMBERS.
+
+A PROGRAM CALL ALSEP WAS RUN TO GET TIME&DATES "
+SPMS-00600	83-067A-03B	3.5	DSC_0561	Prognoz	Prognoz  9	Triaxial Fluxgate Magnetometer	5-min Averaged B Vector	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00608	85-063A-04C	1	DSC_688	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00609	84-088A-04B	4	DSC_0666	AMPTE	CCE	Plasma Wave Experiment (PWE)	62-s Average & Peak Values, SFDU	none	none	IBM 7044/7090/7094	variable	12288	none	character	TBD	
+SPMS-00612	81-070A-06A,81-070A-06B	2	DSC_860	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00613	81-070A-01A	2.5	DSC_646	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00614	79-094A-01I,79-094A-02M	4	DSC_0445	Magsat	Magsat	Scalar Magnetometer	Select Data for Model W/Adj	none	none	IBM 360/370	fixed	0	none	binary	TBD	
+SPMS-00615	79-094A-01H,79-094A-02K	4	DSC_0445	Magsat	Magsat	Scalar Magnetometer	Condensed Orbit/Attitude	none	none	IBM 360/370	fixed	0	none	binary	TBD	
+SPMS-00616	79-094A-01F,79-094A-02I	4	DSC_0445	Magsat	Magsat	Scalar Magnetometer	0.06-s Chronicle, Fine-Att	none	none	IBM 360/370	fixed	0	none	binary	TBD	
+SPMS-00621	77-102B-07D	1.5	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00623	77-102A-11B	5	DSC_0434	ISEE	ISEE 1	DC and low frequency electric fields double-probe 0.19-1900 Hz	DC Electric Field DRD Data	none	none	IBM 360/370	fixed	4096	none	binary	TBD	This is a CDAW Proprietary data set, hence not suitable for nssdcftp.  DRD means digital raw data.
+SPMS-00625	77-102A-07H	3	DSC_0541	ISEE	ISEE 1	Plasma waves electric and magnetic fields spectra_flux_direction 5.62Hz to 311khz	VLF Mag_Spec_Analyzer Peaks	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00628	74-039A-01A	2	DSC_438	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00630	73-078A-10D	3.5	DSC_0417	IMP-J	IMP-J	Solar Plasma Electrostatic Analyzer	Hr-Avg SW Den_V_Prot Temp	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00637	71-096A-01A,71-096A-02A,71-096A-03A,71-096A-04A,71-096A-05A,71-096A-06A,71-096A-07A	6	DSC_0332	S-Cubed A	S-Cubed A	AC Electric Field Measurement	Common Condensed Experimntr Data	none	none	Modcomp	variable	7500	none	binary	TBD	Merged with datasets 71-096A-01A, -02A, -03A, -04A, -05A, & -06A. (S-cubed - DIO-ingest only the 28 DRP tapes of 0xA)
+SPMS-00638	71-019A-11D	6	DSC_0372	IMP	IMP 6	Measurement of Solar Plasma	2-Min Prot, Alpha Solar Wind Mmts	none	VMS Backup	VAX	variable	2048	none	binary	TBD	VAX back-up format, 30 data & label files. 
+SPMS-00639	71-019A-11B	6	DSC_0290	IMP	IMP 6	Measurement of Solar Plasma	Hr. Avg. Ion Plasma Params.	none	none	CDC 6000/7000	fixed	1620	none	binary	TBD	
+SPMS-00642	67-031A-05A	6	DSC_0106	ATS	ATS 2	Omnidirectional Proton and Electron Detectors	Reduced Elect+Prot Cnt Rates	none	none	CDC 3600	fixed	2160	none	binary	TBD	
+SPMS-00644	65-098A-04A	4	DSC_0277	Alouette	Alouette 2	Energetic Particle Detectors	Count Rate Data	none	none	IBM 360/370	variable	4084	none	binary	TBD	 
+SPMS-00646	64-003A-02A	6	DSC_0066	Relay	Relay 2	Solid-State Ion Chamber Electron and Proton Detector	L-Ordered Electron-Proton Data	none	none	IBM 7044/7090/7094	variable	748	none	binary	TBD	
+SPMS-00648	61-020A-02C	6	DSC_0093	Explorer	Explorer 12	Fluxgate Magnetometers	10-s Avg B-Field Comp+Ephem	none	none	IBM 7044/7090/7094	fixed	132	none	character	TBD	Unblocked, BCD magnetic tape that was generated at NSSDC by merging the data in the data set 61-020A-02A with ephemeris information and certain elements of the 1961 Jensen and Cain geomagnetic field model. 120-character logical record.
+SPMS-00651	65-078A-02C	6	DSC_0053	OV1	OV1- 2	Electron and Proton Detectors	Electron, Proton Fluxes	none	none	IBM 7044/7090/7094	variable	4320	none	binary	TBD	(Do not DIOnAS-ingest -03B - 79 tapes of USAF dosimetry data) Merged data from -00D and -02A.
+SPMS-00652	65-078A-02A	6	0	OV1	OV1- 2	Electron and Proton Detectors	Electron, Proton Fluxes	none	none	IBM 7044/7090/7094	variable	24600	none	character	TBD	Data in SPMS-00341 & SPMS-00652   (Do not DIOnAS-ingest -03B - 79 tapes of USAF dosimetry data) See 65-028A-02C
+SPMS-00654	63-013A-01A	6	DSC_0216	Telstar	Telstar 2	Proton and Electron Radiation	Protn+Elec Count Rt+Ephm,Besys	none	none	IBM 7044/7090/7094	variable	747	none	binary	TBD	 
+SPMS-00657	77-102B-07E	5	DSC_0541	ISEE 2	ISEE 2	Medium Energy Particles Instrument - distrib. fns., p > 24 keV, e > 20 keV	Final Data: E- Flx, Energy, Angle	none	none	PDP-11	fixed	0	none	binary	TBD	
+SPMS-00661	63-038C-01B	1	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00664	76-065B-08A	2	DSC_441	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00665	76-059A-01B,77-007A-01B	2	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00668	78-071A-06C	3	DSC_0542	ESA-GEOS	ESA-GEOS 2	Magnetic Wave Fields	CDAW 6 ULF Power 0.2-2-10 Hz + B	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00669	77-102B-04T	6	DSC_0783	ISEE	ISEE 2	Fluxgate Magnetometer, Tri-axial	4-s Avg B, SC Coords, Definitive	none	VMS Backup	VAX	fixed	7224	none	character	TBD	Data in SPMS-00234 and SPMS-00669.  UCLA-IGPP \\\\\\\"flat file\\\\\\\" format *.ffd (binary flat file data) files 24, *.ffh (character flat file header) file 72 maxblocksize. staged to optical disk
+SPMS-00677	MT-18F	3	0	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00701	90-065A-15A	3.5	0	CRRES	CRRES	Proton Telescope	1-min Prot Local Pitch Ang Dist	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00702	90-065A-15B	3.5	0	CRRES	CRRES	Proton Telescope	1-min Prot Equat Pitch Ang Dist	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00703	90-065A-09A	3.5	0	CRRES	CRRES	High-Energy Electron Fluxmeter HEEF	1-min Elec Local Pitch Ang Dist	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00704	90-065A-09B	3.5	0	CRRES	CRRES	High Energy Electron Fluxmeter HEEF	1-min Elec Equat Pitch Ang Dist	none	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPMS-00740	MG-23A	4	0	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPTH-00005	88-026A-01A	2	DSC_718	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPTH-00010	81-070B-03C	2	DSC_723	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPTH-00017	98-012A-01A	2	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPTH-00018	98-012A-01B	2	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPTH-00019	98-012A-01C	2	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
+SPTH-00020	98-012A-01D	2	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	TBD	0	TBD	TBD	TBD	
